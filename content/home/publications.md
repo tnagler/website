@@ -26,7 +26,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 **Nagler, T.** (2017)  
-[Asymptotic analysis of the continuous convolution kernel density estimator](https://arxiv.org/abs/1705.05431)   
+[Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
 
 **Nagler, T.** (2017)  
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)
