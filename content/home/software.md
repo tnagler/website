@@ -21,7 +21,17 @@ detailed_list = false
 +++
 
 
+## C++
+
+[vinecopulib](https://github.com/vinecopulib/vinecopulib): 
+A C++ library for vine copulas
+
+------------------------------------------
+
 ## R
+
+[rvinecopulib](https://github.com/vinecopulib/rvinecopulib): 
+R interface to the vinecopulib C++ library 
 
 [VineCopula](https://github.com/tnagler/VineCopula"): 
 Statistical inference of vine copulas
@@ -40,9 +50,3 @@ Joint density classifiers
 
 [gamCopula](https://github.com/tvatter/gamCopula): 
 Generalized additive models for bivariate conditional dependence structures and vine copulas
-
-------------------------------------------
-
-## C++
-
-[vinecopulib](https://github.com/vinecopulib/vinecopulib): A C++ library for vine copulas

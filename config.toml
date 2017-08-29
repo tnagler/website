@@ -131,13 +131,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=tZR1rZoAAAAJ"
+    link = "//scholar.google.com/citations?user=tZR1rZoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/tnagler"
 
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//www.researchgate.net/profile/Thomas_Nagler"
+    
+  [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "//publons.com/author/1266549"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
