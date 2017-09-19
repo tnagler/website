@@ -26,6 +26,9 @@ detailed_list = false
 [vinecopulib](https://github.com/vinecopulib/vinecopulib): 
 A C++ library for vine copulas
 
+[RcppThread](https://github.com/tnagler/RcppThread): R-friendly threading in
+C++
+
 ------------------------------------------
 
 ## R
