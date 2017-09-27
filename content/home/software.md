@@ -23,7 +23,7 @@ detailed_list = false
 
 ## C++
 
-[vinecopulib](https://github.com/vinecopulib/vinecopulib): 
+[vinecopulib](https://github.com/vinecopulib/vinecopulib):
 A C++ library for vine copulas
 
 [RcppThread](https://github.com/tnagler/RcppThread): R-friendly threading in
@@ -33,17 +33,20 @@ C++
 
 ## R
 
-[rvinecopulib](https://github.com/vinecopulib/rvinecopulib): 
-R interface to the vinecopulib C++ library 
+[rvinecopulib](https://github.com/vinecopulib/rvinecopulib):
+R interface to the vinecopulib C++ library
 
-[VineCopula](https://github.com/tnagler/VineCopula"): 
+[VineCopula](https://github.com/tnagler/VineCopula"):
 Statistical inference of vine copulas
 
-[kdecopula](https://github.com/tnagler/kdecopula): 
+[kdecopula](https://github.com/tnagler/kdecopula):
 Kernel smoothing for bivariate copula densities
 
-[kdevine](https://github.com/tnagler/kdevine): 
+[kdevine](https://github.com/tnagler/kdevine):
 Multivariate kernel density estimation with vine copulas
+
+[vinereg](https://github.com/tnagler/vinereg):
+D-vine copula quantile regression
 
 [cctols](https://github.com/tnagler/cctools):
 Tools for continuous convolution in nonparametric estimation
@@ -51,5 +54,5 @@ Tools for continuous convolution in nonparametric estimation
 [jdify](https://github.com/tnagler/jdify):
 Joint density classifiers
 
-[gamCopula](https://github.com/tvatter/gamCopula): 
+[gamCopula](https://github.com/tvatter/gamCopula):
 Generalized additive models for bivariate conditional dependence structures and vine copulas
