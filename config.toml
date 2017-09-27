@@ -134,19 +134,25 @@ defaultContentLanguageInSubdir = false
     link = "//scholar.google.com/citations?user=tZR1rZoAAAAJ"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/tnagler"
-
-  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "//www.researchgate.net/profile/Thomas_Nagler"
-    
+
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
     link = "//publons.com/author/1266549"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "///twitter.com/tnagler5"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/tnagler"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -163,7 +169,7 @@ defaultContentLanguageInSubdir = false
    name = "Publications"
    url = "#publications"
    weight = 2
-    
+
 [[menu.main]]
   name = "Software"
   url = "#software"
