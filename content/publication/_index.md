@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Publications"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -7,7 +7,9 @@ highlight = false
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 0
+#   2 = APA
+#   3 = MLA
+list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
