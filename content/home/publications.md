@@ -23,6 +23,10 @@ detailed_list = false
 ## Journal articles  
 
 **Nagler, T.** (2017)  
+[Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
+To appear in *Mathematical Methods of Statistics*
+
+**Nagler, T.** (2017)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
 To appear in *Journal of Statistical Software*
 
@@ -42,8 +46,6 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 ## Preprints
  
-**Nagler, T.** (2017)  
-[Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
 
 **Nagler, T.** (2017)  
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)

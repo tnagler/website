@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Dependence modeling with copulas",
-    "Nonparamteric estimation",
+    "Nonparametric estimation",
     "Asymptotic statistics",
     "Statistical computing and software"
   ]
