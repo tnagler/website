@@ -22,13 +22,17 @@ detailed_list = false
 
 ## Journal articles  
 
-**Nagler, T.** (2017)  
-[Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
-To appear in *Mathematical Methods of Statistics*
+Vatter, T. and **Nagler, T.** (2018)  
+[Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
+*Journal of Computational and Graphical Statistics, to appear*
 
-**Nagler, T.** (2017)  
+**Nagler, T.** (2018)  
+[Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
+*Mathematical Methods of Statistics, to appear*
+
+**Nagler, T.** (2018)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
-To appear in *Journal of Statistical Software*
+*Journal of Statistical Software, to appear*
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
@@ -50,15 +54,8 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 **Nagler, T.** (2017)  
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)
 
-Vatter, T. and **Nagler, T.** (2017)  
-[Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-
 Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
-
-Kreuzer, A., Erhardt, T., **Nagler, T.**, Czado, C. (2017)  
-[Heavy tailed spatial autocorrelation models](https://arxiv.org/abs/1707.03165)  
-
 
 ----------
 
