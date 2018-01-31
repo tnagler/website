@@ -49,7 +49,10 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 ----------
 
 ## Preprints
- 
+
+**Nagler, T.**, Bumann, C., Czado, C. (2018)  
+[Model selection for sparse high-dimensional vine copulas with application to 
+portfolio risk](https://arxiv.org/abs/1801.09739)    
 
 **Nagler, T.** (2017)  
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)
