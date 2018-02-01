@@ -20,6 +20,23 @@ detailed_list = false
 
 +++
 
+## Preprints
+
+**Nagler, T.**, Vatter, T. (2018)  
+[Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
+
+**Nagler, T.**, Bumann, C., Czado, C. (2018)  
+[Model selection for sparse high-dimensional vine copulas with application to 
+portfolio risk](https://arxiv.org/abs/1801.09739)    
+
+**Nagler, T.** (2017)  
+[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)
+
+Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
+[D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
+
+----------
+
 ## Journal articles  
 
 Vatter, T. and **Nagler, T.** (2018)  
@@ -45,20 +62,6 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 *Journal of Multivariate Analysis, 151:69-89*
 ([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
 
-
-----------
-
-## Preprints
-
-**Nagler, T.**, Bumann, C., Czado, C. (2018)  
-[Model selection for sparse high-dimensional vine copulas with application to 
-portfolio risk](https://arxiv.org/abs/1801.09739)    
-
-**Nagler, T.** (2017)  
-[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)
-
-Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
-[D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 ----------
 
