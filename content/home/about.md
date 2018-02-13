@@ -14,23 +14,23 @@ weight = 1
   interests = [
     "Dependence modeling with copulas",
     "Nonparametric estimation",
-    "Asymptotic statistics",
+    "Asymptotic theory",
     "Statistical computing and software"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematical Statistics"
+  course = "PhD Mathematical Statistics"
   institution = "Technical University of Munich"
   year = "since 2014"
 
 [[education.courses]]
-  course = "MSc in Mathematical Finance and Actuarial Sciences"
+  course = "MSc Mathematical Finance and Actuarial Sciences"
   institution = "Technical University of Munich"
   year = 2014
 
 [[education.courses]]
-  course = "BSc in Mathematics"
+  course = "BSc Mathematics"
   institution = "Technical University of Munich"
   year = 2012
  
