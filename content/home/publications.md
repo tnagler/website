@@ -34,7 +34,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 ----------
 
-## Journal articles  
+## Published/accepted  
 
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
@@ -55,7 +55,7 @@ Vatter, T. and **Nagler, T.** (2018)
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
 methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
-*Dependence Modeling, 5:99-120* ([doi:doi.org/10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
+*Dependence Modeling, 5:99-120* ([doi:10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
 
 **Nagler, T.** and Czado, C. (2016)  
 [Evading the curse of dimensionality in nonparametric density estimation with
