@@ -219,10 +219,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "//publons.com/author/1266549"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "///twitter.com/tnagler5"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "///twitter.com/tnagler5"
 
   [[params.social]]
     icon = "github"
