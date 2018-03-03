@@ -38,7 +38,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
-*Statistics & Probability Letters, to appear*
+*Statistics & Probability Letters, in press* ([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   

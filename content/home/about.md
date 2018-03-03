@@ -12,10 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Dependence modeling with copulas",
+    "Dependence modeling",
     "Nonparametric estimation",
     "Asymptotic theory",
-    "Statistical computing and software"
+    "Statistical computing"
   ]
 
 # List your qualifications (such as academic degrees).
