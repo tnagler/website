@@ -38,7 +38,8 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
-*Statistics & Probability Letters, in press* ([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
+*Statistics & Probability Letters, 137:326–330*  
+([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
@@ -55,12 +56,13 @@ Vatter, T. and **Nagler, T.** (2018)
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of 
 methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
-*Dependence Modeling, 5:99-120* ([doi:10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
+*Dependence Modeling, 5:99-120*  
+([doi:10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
 
 **Nagler, T.** and Czado, C. (2016)  
 [Evading the curse of dimensionality in nonparametric density estimation with
 simplified vine copulas](https://arxiv.org/abs/1503.03305)  
-*Journal of Multivariate Analysis, 151:69-89*
+*Journal of Multivariate Analysis, 151:69-89*  
 ([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
 
 
