@@ -43,11 +43,11 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-*Journal of Computational and Graphical Statistics, to appear*
+*Journal of Computational and Graphical Statistics, in press*
 
 **Nagler, T.** (2018)  
 [Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
-*Mathematical Methods of Statistics, to appear*
+*Mathematical Methods of Statistics, in press*
 
 **Nagler, T.** (2018)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
@@ -78,4 +78,4 @@ hydrological impact analysis" by Minh Tu Pham et al.](http://www.hydrol-earth-sy
 
 **Nagler, T.** (2014)  
 [Kernel methods for vine copula estimation](https://mediatum.ub.tum.de/node?id=1231221)  
-*Master's thesis, Technische Universität München*
+*Master's thesis, Technical University of Munich*
