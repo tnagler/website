@@ -15,6 +15,7 @@ weight = 1
     "Dependence modeling",
     "Nonparametric estimation",
     "Asymptotic theory",
+    "Functional data analysis",
     "Statistical computing"
   ]
 
