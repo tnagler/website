@@ -22,17 +22,17 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Mathematical Statistics"
-  institution = "Technical University of Munich"
+  institution = "[Technical University of Munich](http://www.statistics.ma.tum.de/en/home/)"
   year = "since 2014"
 
 [[education.courses]]
   course = "MSc Mathematical Finance and Actuarial Sciences"
-  institution = "Technical University of Munich"
+  institution = "[Technical University of Munich](http://www.ma.tum.de/Mathematik/WebHomeEn)"
   year = 2014
 
 [[education.courses]]
   course = "BSc Mathematics"
-  institution = "Technical University of Munich"
+  institution = "[Technical University of Munich](http://www.ma.tum.de/Mathematik/WebHomeEn)"
   year = 2012
  
 +++
