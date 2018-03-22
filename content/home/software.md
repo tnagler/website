@@ -42,6 +42,9 @@ Statistical inference of vine copulas
 [kdecopula](https://github.com/tnagler/kdecopula):
 Kernel smoothing for bivariate copula densities
 
+[kde1d](https://github.com/tnagler/kde1d):
+Univariate kernel density estimators for bounded and discrete data
+
 [kdevine](https://github.com/tnagler/kdevine):
 Multivariate kernel density estimation with vine copulas
 
