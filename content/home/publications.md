@@ -26,7 +26,7 @@ detailed_list = false
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
 **Nagler, T.**, Bumann, C., Czado, C. (2018)  
-[Model selection for sparse high-dimensional vine copulas with application to 
+[Model selection for sparse high-dimensional vine copulas with application to
 portfolio risk](https://arxiv.org/abs/1801.09739)    
 
 Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
@@ -44,6 +44,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
 *Journal of Computational and Graphical Statistics, in press*
+([doi:10.1080/10618600.2018.1451338](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338))
 
 **Nagler, T.** (2018)  
 [Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
@@ -54,7 +55,7 @@ Vatter, T. and **Nagler, T.** (2018)
 *Journal of Statistical Software, to appear*
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
-[Nonparametric estimation of simplified vine copula models: comparison of 
+[Nonparametric estimation of simplified vine copula models: comparison of
 methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
 *Dependence Modeling, 5:99-120*  
 ([doi:10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
@@ -68,10 +69,10 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 ----------
 
-## Other 
+## Other
 
 **Nagler, T.** (2017)  
-[Comment on "A coupled stochastic rainfall-evapotranspiration model for 
+[Comment on "A coupled stochastic rainfall-evapotranspiration model for
 hydrological impact analysis" by Minh Tu Pham et al.](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf)  
 *Interactive comment on Hydrol. Earth Syst. Sci. Discuss.* ([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
 

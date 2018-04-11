@@ -22,8 +22,8 @@ detailed_list = false
 
 ## Teaching assistant
 
-Stochastik für Lehramt an Berufsschulen, TU Munich (2018)  
-Computational Statistics, TU Munich (2018)  
+[Stochastics for professional school teachers](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950343773&pSpracheNr=1), TU Munich (2018)  
+[Computational Statistics](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&pSpracheNr=1), TU Munich (2018)  
 [Rank-based nonparametric statistics](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1196252&pOrgNr=14178), TU Munich (2016)
 
 ## Seminars for Master's students
@@ -36,5 +36,5 @@ Kreuzer, A. (2016)  [Analysing the spatial dependency among fire danger indices]
 Brauer, A. (2016)  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
 Bumann, C. (2016)  [Sparse structure selection for high-dimensional vine copula models](https://mediatum.ub.tum.de/node?id=1338822)  
 Annoh, I. (2016)  [Comparing two-part models for estimation of actuarial total loss](https://mediatum.ub.tum.de/node?id=1338820)  
-Zhang, S. (2015)  [Copula-based total loss estimation with group effects on the dependence 
+Zhang, S. (2015)  [Copula-based total loss estimation with group effects on the dependence
 structure](https://mediatum.ub.tum.de/node?id=1338819)
