@@ -40,6 +40,11 @@ Urbano, J., **Nagler, T.** (2018)
 Stochastic simulation of test collections: evaluation scores  
 *SIGIR 2018, accepted*  
 
+Höhndorf, L., **Nagler, T.**, Koppitz, P., Czado, C., Holzapfel, F. (2018)   
+Statistical dependence analyses of operational flight data used for landing
+reconstruction enhancement  
+*22nd ATRS World Conference, accepted*
+
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
 *Statistics & Probability Letters, 137:326–330*  
