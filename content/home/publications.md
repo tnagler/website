@@ -36,6 +36,10 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 ## Published/accepted  
 
+Urbano, J., **Nagler, T.** (2018)    
+Stochastic simulation of test collections: evaluation scores  
+*SIGIR 2018, accepted*  
+
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
 *Statistics & Probability Letters, 137:326–330*  
