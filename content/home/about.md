@@ -5,6 +5,7 @@ date = "2017-08-24T00:00:00"
 draft = false
 
 widget = "about"
+autolinks = true
 
 # Order that this section will appear in.
 weight = 1
@@ -34,5 +35,5 @@ weight = 1
   course = "BSc Mathematics"
   institution = "[Technical University of Munich](http://www.ma.tum.de/Mathematik/WebHomeEn)"
   year = 2012
- 
+
 +++
