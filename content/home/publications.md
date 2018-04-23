@@ -36,10 +36,6 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 
 ## Published/accepted  
 
-Czado, C., Müller, D., **Nagler, T.** (2018)  
-[Dependence modelling in ultra high dimensions with vine copulas](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf)  
-*High Performance Computing in Science and Engineering; Garching/Munich 2018, to appear*
-
 Urbano, J., **Nagler, T.** (2018)    
 Stochastic simulation of test collections: evaluation scores  
 *SIGIR 2018, accepted*  
@@ -83,6 +79,10 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 ----------
 
 ## Other
+
+Czado, C., Müller, D., **Nagler, T.** (2018)  
+[Dependence modelling in ultra high dimensions with vine copulas](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf)  
+Book chapter in *High Performance Computing in Science and Engineering; Garching/Munich 2018*, to appear
 
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for
