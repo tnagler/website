@@ -52,7 +52,7 @@ reconstruction enhancement
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-*Journal of Computational and Graphical Statistics, in press*
+*Journal of Computational and Graphical Statistics, in press*  
 ([doi:10.1080/10618600.2018.1451338](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338))
 
 **Nagler, T.** (2018)  
@@ -61,7 +61,8 @@ Vatter, T. and **Nagler, T.** (2018)
 
 **Nagler, T.** (2018)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
-*Journal of Statistical Software, to appear*
+*Journal of Statistical Software, 48(7)*  
+([doi:10.18637/jss.v084.i07](https://www.jstatsoft.org/article/view/v084i07))
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of
