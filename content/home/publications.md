@@ -37,8 +37,8 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)
 ## Published/accepted  
 
 Urbano, J., **Nagler, T.** (2018)    
-Stochastic simulation of test collections: evaluation scores  
-*SIGIR 2018, accepted*  
+[Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
+*International ACM SIGIR Conference on Research and Development in Information Retrieval, to appear*  
 
 Höhndorf, L., **Nagler, T.**, Koppitz, P., Czado, C., Holzapfel, F. (2018)   
 Statistical dependence analyses of operational flight data used for landing
