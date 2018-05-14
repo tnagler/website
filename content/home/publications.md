@@ -45,19 +45,20 @@ Statistical dependence analyses of operational flight data used for landing
 reconstruction enhancement  
 *22nd ATRS World Conference, accepted*
 
-**Nagler, T.** (2018)    
-[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
-*Statistics & Probability Letters, 137:326–330*  
-([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
-
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
 *Journal of Computational and Graphical Statistics, in press*  
 ([doi:10.1080/10618600.2018.1451338](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338))
 
+**Nagler, T.** (2018)    
+[A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
+*Statistics & Probability Letters, 137:326–330*  
+([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
+
 **Nagler, T.** (2018)  
 [Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
-*Mathematical Methods of Statistics, in press*
+*Mathematical Methods of Statistics, 27(1): 32-46*  
+([doi:10.3103/S1066530718010027](https://link.springer.com/article/10.3103/S1066530718010027))  
 
 **Nagler, T.** (2018)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
@@ -88,7 +89,8 @@ Book chapter in *High Performance Computing in Science and Engineering; Garching
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for
 hydrological impact analysis" by Minh Tu Pham et al.](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf)  
-*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.* ([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
+*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.*   
+([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
 
 
 **Nagler, T.** (2014)  
