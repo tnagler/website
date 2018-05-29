@@ -29,27 +29,33 @@ A C++ library for vine copulas
 [RcppThread](https://github.com/tnagler/RcppThread): R-friendly threading in
 C++
 
+[wdm](https://github.com/tnagler/wdm): Efficient implementation of weighted
+dependence measures and related independence tests
+
 ------------------------------------------
 
 ## R
 
 [rvinecopulib](https://github.com/vinecopulib/rvinecopulib):
-R interface to the vinecopulib C++ library
+R interface to the [vinecopulib](https://github.com/vinecopulib/vinecopulib) C++ library
 
 [VineCopula](https://github.com/tnagler/VineCopula"):
 Statistical inference of vine copulas
 
-[kdecopula](https://github.com/tnagler/kdecopula):
-Kernel smoothing for bivariate copula densities
+[wdm](https://github.com/tnagler/wdm-r): R interface to the 
+[wdm](https://github.com/tnagler/wdm) C++ library
 
 [kde1d](https://github.com/tnagler/kde1d):
 Univariate kernel density estimators for bounded and discrete data
 
-[kdevine](https://github.com/tnagler/kdevine):
-Multivariate kernel density estimation with vine copulas
-
 [vinereg](https://github.com/tnagler/vinereg):
 D-vine copula quantile regression
+
+[kdecopula](https://github.com/tnagler/kdecopula):
+Kernel smoothing for bivariate copula densities
+
+[kdevine](https://github.com/tnagler/kdevine):
+Multivariate kernel density estimation with vine copulas
 
 [cctols](https://github.com/tnagler/cctools):
 Tools for continuous convolution in nonparametric estimation
