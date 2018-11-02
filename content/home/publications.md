@@ -22,14 +22,20 @@ detailed_list = false
 
 ## Preprints
 
-**Nagler, T.**, Vatter, T. (2018)  
+**Nagler, T.**  
+[R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)
+
+Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T.  
+[A Statistical Simulation Method for Joint Time Series of Non-stationary Hourly Wave Parameters](http://arxiv.org/abs/1810.12389)  
+
+**Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
-**Nagler, T.**, Bumann, C., Czado, C. (2018)  
+**Nagler, T.**, Bumann, C., Czado, C.  
 [Model selection for sparse high-dimensional vine copulas with application to
 portfolio risk](https://arxiv.org/abs/1801.09739)    
 
-Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C. (2017)  
+Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 ----------
