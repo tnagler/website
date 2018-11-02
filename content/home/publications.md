@@ -40,16 +40,16 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 
 ----------
 
-## Published/accepted  
+## Journal and conference articles
 
 Urbano, J., **Nagler, T.** (2018)    
 [Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
-*International ACM SIGIR Conference on Research and Development in Information Retrieval, to appear*  
+*The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704*  
 
 Höhndorf, L., **Nagler, T.**, Koppitz, P., Czado, C., Holzapfel, F. (2018)   
 Statistical dependence analyses of operational flight data used for landing
 reconstruction enhancement  
-*22nd ATRS World Conference, accepted*
+*22nd ATRS World Conference*
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
