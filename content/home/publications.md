@@ -25,6 +25,10 @@ detailed_list = false
 **Nagler, T.**  
 [R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)
 
+Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.  
+[Vine copula based post-processing of ensemble forecasts for temperature
+](http://arxiv.org/abs/1811.02255)
+
 Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T.  
 [A Statistical Simulation Method for Joint Time Series of Non-stationary Hourly Wave Parameters](http://arxiv.org/abs/1810.12389)  
 
@@ -40,7 +44,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 
 ----------
 
-## Journal and conference articles
+## Journal and conference papers
 
 Urbano, J., **Nagler, T.** (2018)    
 [Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
