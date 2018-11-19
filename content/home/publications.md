@@ -29,9 +29,6 @@ Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.
 [Vine copula based post-processing of ensemble forecasts for temperature
 ](http://arxiv.org/abs/1811.02255)
 
-Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T.  
-[A Statistical Simulation Method for Joint Time Series of Non-stationary Hourly Wave Parameters](http://arxiv.org/abs/1810.12389)  
-
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
@@ -46,9 +43,14 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 
 ## Journal and conference papers
 
+Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)   
+[A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)  
+*Coastal Engineering, to appear*
+
 Urbano, J., **Nagler, T.** (2018)    
 [Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
 *The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704*  
+([doi:10.1145/3209978.3210043](https://dl.acm.org/citation.cfm?doid=3209978.3210043))
 
 Höhndorf, L., **Nagler, T.**, Koppitz, P., Czado, C., Holzapfel, F. (2018)   
 Statistical dependence analyses of operational flight data used for landing
