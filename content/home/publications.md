@@ -43,14 +43,14 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 
 ## Journal and conference papers
 
-Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)   
-[A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)  
-*Coastal Engineering, to appear*
+Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  
+[A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)   
+*Coastal Engineering, in press* [[doi]](https://www.sciencedirect.com/science/article/pii/S0378383918301777)
 
-Urbano, J., **Nagler, T.** (2018)    
+Urbano, J., **Nagler, T.** (2018)  
 [Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
-*The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704*  
-([doi:10.1145/3209978.3210043](https://dl.acm.org/citation.cfm?doid=3209978.3210043))
+*The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, p. 695-704* 
+[[doi]](https://dl.acm.org/citation.cfm?doid=3209978.3210043)
 
 Höhndorf, L., **Nagler, T.**, Koppitz, P., Czado, C., Holzapfel, F. (2018)   
 Statistical dependence analyses of operational flight data used for landing
@@ -59,35 +59,34 @@ reconstruction enhancement
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-*Journal of Computational and Graphical Statistics, in press*  
-([doi:10.1080/10618600.2018.1451338](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338))
+*Journal of Computational and Graphical Statistics, in press* [[doi]](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338)
 
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
-*Statistics & Probability Letters, 137:326–330*  
-([doi:10.1016/j.spl.2018.02.040](https://www.sciencedirect.com/science/article/pii/S0167715218300853))
+*Statistics & Probability Letters, 137:326–330* 
+[[doi]](https://www.sciencedirect.com/science/article/pii/S0167715218300853)
 
 **Nagler, T.** (2018)  
 [Asymptotic analysis of the jittering kernel density estimator](https://arxiv.org/abs/1705.05431)   
-*Mathematical Methods of Statistics, 27(1): 32-46*  
-([doi:10.3103/S1066530718010027](https://link.springer.com/article/10.3103/S1066530718010027))  
+*Mathematical Methods of Statistics, 27(1): 32-46* 
+[[doi]](https://link.springer.com/article/10.3103/S1066530718010027)
 
 **Nagler, T.** (2018)  
 [kdecopula: An R package for the kernel estimation of copula densities](https://arxiv.org/abs/1603.04229)  
-*Journal of Statistical Software, 48(7)*  
-([doi:10.18637/jss.v084.i07](https://www.jstatsoft.org/article/view/v084i07))
+*Journal of Statistical Software, 48(7)* 
+[[doi]](https://www.jstatsoft.org/article/view/v084i07)
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of
 methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
-*Dependence Modeling, 5:99-120*  
-([doi:10.1515/demo-2017-0007](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml))
+*Dependence Modeling, 5:99-120* 
+[[doi]](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml)
 
 **Nagler, T.** and Czado, C. (2016)  
 [Evading the curse of dimensionality in nonparametric density estimation with
 simplified vine copulas](https://arxiv.org/abs/1503.03305)  
-*Journal of Multivariate Analysis, 151:69-89*  
-([doi:10.1016/j.jmva.2016.07.003](http://www.sciencedirect.com/science/article/pii/S0047259X16300471))  
+*Journal of Multivariate Analysis, 151:69-89* 
+[[doi]](http://www.sciencedirect.com/science/article/pii/S0047259X16300471)  
 
 
 ----------
@@ -101,8 +100,8 @@ Book chapter in *High Performance Computing in Science and Engineering; Garching
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for
 hydrological impact analysis" by Minh Tu Pham et al.](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1-supplement.pdf)  
-*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.*   
-([doi:10.5194/hess-2017-161-RC1](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf))
+*Interactive comment on Hydrol. Earth Syst. Sci. Discuss.* 
+[[doi]](http://www.hydrol-earth-syst-sci-discuss.net/hess-2017-161/hess-2017-161-RC1.pdf)
 
 
 **Nagler, T.** (2014)  
