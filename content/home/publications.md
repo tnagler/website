@@ -59,7 +59,7 @@ reconstruction enhancement
 
 Vatter, T. and **Nagler, T.** (2018)  
 [Generalized additive models for pair-copula constructions](https://arxiv.org/abs/1608.01593)   
-*Journal of Computational and Graphical Statistics, in press* [[doi]](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338)
+*Journal of Computational and Graphical Statistics, 27(4): 715-727* [[doi]](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1451338)
 
 **Nagler, T.** (2018)    
 [A generic approach to nonparametric function estimation with mixed data](https://arxiv.org/abs/1704.07457)  
