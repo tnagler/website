@@ -33,12 +33,13 @@ detailed_list = false
 [Nonparametric statistical methods](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326), TU Munich (Summer 2016)
 
 ## Supervision of Master's theses
-Weber, R. (2018) Value at Risk Estimation with
-Subset Simulation  
-Jebabli, E. (2018) Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems  
-Kreuzer, A. (2016)  [Analysing the spatial dependency among fire danger indices](https://mediatum.ub.tum.de/node?id=1338821)  
-Brauer, A. (2016)  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
-Bumann, C. (2016)  [Sparse structure selection for high-dimensional vine copula models](https://mediatum.ub.tum.de/node?id=1338822)  
-Annoh, I. (2016)  [Comparing two-part models for estimation of actuarial total loss](https://mediatum.ub.tum.de/node?id=1338820)  
-Zhang, S. (2015)  [Copula-based total loss estimation with group effects on the dependence
-structure](https://mediatum.ub.tum.de/node?id=1338819)
+Krüger, D. (2018).  General vine copula models for stationary multivariate time series.  
+Weber, R. (2018). Value at Risk Estimation with
+Subset Simulation.  
+Jebabli, E. (2018). Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.  
+Kreuzer, A. (2016).  [Analysing the spatial dependency among fire danger indices.](https://mediatum.ub.tum.de/node?id=1338821)  
+Brauer, A. (2016).  [Kernel estimation of conditional copula densities.](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
+Bumann, C. (2016).  [Sparse structure selection for high-dimensional vine copula models.](https://mediatum.ub.tum.de/node?id=1338822)  
+Annoh, I. (2016).  [Comparing two-part models for estimation of actuarial total loss.](https://mediatum.ub.tum.de/node?id=1338820)  
+Zhang, S. (2015).  [Copula-based total loss estimation with group effects on the dependence
+structure.](https://mediatum.ub.tum.de/node?id=1338819)

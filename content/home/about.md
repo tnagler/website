@@ -24,7 +24,7 @@ weight = 1
 [[education.courses]]
   course = "PhD Mathematical Statistics"
   institution = "[Technical University of Munich](http://www.statistics.ma.tum.de/en/home/)"
-  year = "since 2014"
+  year = "2018"
 
 [[education.courses]]
   course = "MSc Mathematical Finance and Actuarial Sciences"
