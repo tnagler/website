@@ -32,16 +32,17 @@ Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
-**Nagler, T.**, Bumann, C., Czado, C.  
-[Model selection for sparse high-dimensional vine copulas with application to
-portfolio risk](https://arxiv.org/abs/1801.09739)    
-
 Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 ----------
 
 ## Journal and conference papers
+
+**Nagler, T.**, Bumann, C., Czado, C. (2019)   
+[Model selection for sparse high-dimensional vine copulas with application to
+portfolio risk](https://arxiv.org/abs/1801.09739)  
+*Journal of Multivariate Analysis, to appear*   
 
 Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  
 [A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)   
