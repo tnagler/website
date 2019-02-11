@@ -25,12 +25,12 @@ detailed_list = false
 **Nagler, T.**  
 [R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)
 
+**Nagler, T.**, Vatter, T.  
+[Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
+
 Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.  
 [Vine copula based post-processing of ensemble forecasts for temperature
 ](http://arxiv.org/abs/1811.02255)
-
-**Nagler, T.**, Vatter, T.  
-[Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
 Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
@@ -46,7 +46,7 @@ portfolio risk](https://arxiv.org/abs/1801.09739)
 
 Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  
 [A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)   
-*Coastal Engineering, in press* [[doi]](https://www.sciencedirect.com/science/article/pii/S0378383918301777)
+*Coastal Engineering, 146: 14-31* [[doi]](https://www.sciencedirect.com/science/article/pii/S0378383918301777)
 
 Urbano, J., **Nagler, T.** (2018)  
 [Stochastic simulation of test collections: evaluation scores](http://julian-urbano.info/files/publications/065-stochastic-simulation-test-collections-evaluation-scores.pdf)  
