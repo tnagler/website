@@ -42,7 +42,8 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 **Nagler, T.**, Bumann, C., Czado, C. (2019)   
 [Model selection for sparse high-dimensional vine copulas with application to
 portfolio risk](https://arxiv.org/abs/1801.09739)  
-*Journal of Multivariate Analysis, to appear*   
+*Journal of Multivariate Analysis, in press* 
+[[doi]](https://doi.org/10.1016/j.jmva.2019.03.004)
 
 Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  
 [A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)   
