@@ -100,7 +100,7 @@ Czado, C., Müller, D., **Nagler, T.** (2018)
 [Dependence modelling in ultra high dimensions with vine copulas](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf)  
 Book chapter in *High Performance Computing in Science and Engineering; Garching/Munich 2018*, to appear
 
-Nagler, T. (2018)  
+**Nagler, T.** (2018)  
 [Nonparametric estimation in simplified vine copula models](http://mediatum.ub.tum.de/node?id=1447138)  
 *Dissertation, Technical University of Munich* 
 
