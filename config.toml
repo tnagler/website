@@ -40,8 +40,8 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Thomas Nagler"
-  role = "Researcher in mathematical statistics"
-  organization = "Technical University of Munich"
+  role = "Assistant Professor"
+  organization = "Leiden University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "IMG_9335.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

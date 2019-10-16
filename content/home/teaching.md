@@ -20,11 +20,15 @@ detailed_list = false
 
 +++
 
+## Lecturer
+
+[Nonparametric statistical learning](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&pOrgNr=14178), TU Munich (Summer 2019)
+
 ## Teaching assistant
 
 [Analysis for computer scientists](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950369579), TU Munich (Winter 2018)  
 [Stochastics for vocational school teachers](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950343773&pSpracheNr=1), TU Munich (Summer 2018)  
-[Computational Statistics](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&pSpracheNr=1), TU Munich (Summer 2018)  
+[Computational statistics](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950342068&pSpracheNr=1), TU Munich (Summer 2018)  
 [Rank-based nonparametric statistics](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1196252&pOrgNr=14178), TU Munich (Summer 2016)
 
 ## Seminars for Master's students
