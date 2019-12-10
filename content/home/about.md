@@ -37,3 +37,17 @@ weight = 1
   year = 2012
 
 +++
+
+I am an assistant professor for Statistical Science at the [Mathematical
+Institute, Leiden
+University](https://www.universiteitleiden.nl/en/science/mathematics/statistical-science).
+In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the
+supervision of [Claudia
+Czado](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/).
+
+My methodological research mainly focuses on dependence models and
+nonparametric estimation. I also develop open source research software and
+collaborate with applied scientists to find statistical answers to their
+challenges.
+
+
