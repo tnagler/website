@@ -51,6 +51,9 @@ Univariate kernel density estimators for bounded and discrete data
 [vinereg](https://github.com/tnagler/vinereg):
 D-vine copula quantile regression
 
+[VC2copula](https://github.com/tnagler/VC2copula"):
+Extend the 'copula' Package with Families and Models from 'VineCopula' 
+
 [kdecopula](https://github.com/tnagler/kdecopula):
 Kernel smoothing for bivariate copula densities
 
