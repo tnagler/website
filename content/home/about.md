@@ -38,7 +38,7 @@ weight = 1
 
 +++
 
-I am an assistant professor for Statistical Science at the [Mathematical
+I am Assistant Professor for Statistical Science at the [Mathematical
 Institute, Leiden
 University](https://www.universiteitleiden.nl/en/science/mathematics/statistical-science).
 In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the
