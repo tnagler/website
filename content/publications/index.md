@@ -1,24 +1,19 @@
-+++
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
+---
+title: Publications
+date: "2020-03-18T00:00:00Z"
 
-date = "2017-08-24T00:00:00"
-draft = false
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-title = "Publications"
-subtitle = ""
-widget = "publications"
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-# Order that this section will appear in.
-weight = 20
 
-# Number of publications to list.
-count = 10
-
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
-
-+++
 
 ## Preprints
 
@@ -43,7 +38,7 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 **Nagler, T.**, Bumann, C., Czado, C. (2019)   
 [Model selection for sparse high-dimensional vine copulas with application to
 portfolio risk](https://arxiv.org/abs/1801.09739)  
-*Journal of Multivariate Analysis, in press* 
+*Journal of Multivariate Analysis, 172: 180-192* 
 [[doi]](https://doi.org/10.1016/j.jmva.2019.03.004)
 
 Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  

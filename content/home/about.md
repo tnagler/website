@@ -45,9 +45,8 @@ In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the
 supervision of [Claudia
 Czado](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/).
 
-My methodological research mainly focuses on dependence models and
+My methodological research evolves around on dependence models and
 nonparametric estimation. I also develop open source research software and
-collaborate with applied scientists to find statistical answers to their
-challenges.
+collaborate with other scientists on statistical applications.
 
 

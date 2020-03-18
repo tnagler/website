@@ -1,27 +1,22 @@
-+++
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
+---
+title: Teaching
+date: "2020-03-18T00:00:00Z"
 
-date = "2017-08-24T00:00:00"
-draft = false
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-title = "Teaching"
-subtitle = ""
-widget = "publications"
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
-# Order that this section will appear in.
-weight = 20
 
-# Number of publications to list.
-count = 10
+## Lectures
 
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
-
-+++
-
-## Lecturer
-
+[Statistics for astronomy and physics students](https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students), Leiden University (Spring 2020)
 [Nonparametric statistical learning](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&pOrgNr=14178), TU Munich (Summer 2019)
 
 ## Teaching assistant
