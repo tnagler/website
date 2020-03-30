@@ -22,14 +22,8 @@ indefinite time.
 ## Schedule
 
 
-**30-03-2020** | Dirk van der Hoeven  
-*Adaptive methods in online learning.*  
-
- In this talk I will discuss some advantages of adaptive algorithms in the prediction with expert advice setting. In particular, I will discuss an algorithm called squint. The talk mainly concerns one specific application of squint, which is playing Rock Paper Scissors.
-
-To prepare for the talk (and to fight social distancing boredom) you can play rock paper scissor against squint. You can download Rock Paper Squint [here](https://drive.google.com/drive/folders/1CKQ-33MFOdrZQnfeAte1_C09mEl976U9?usp=sharing). Make sure you download the entire folder! You can play it by executing RPS_cool.exe (only tested on Windows 10). Depending on your hardware, it may take some time to load.
-
-**06-04-2020** | Elena Sellentin	      
+**06-04-2020** | Elena Sellentin	     
+ 
 **20-04-2020** | Geerten Koers	        
 **11-05-2020** | Lasse Vuursteen	      
 **18-05-2020** | Bart Eggen	          
@@ -40,7 +34,10 @@ To prepare for the talk (and to fight social distancing boredom) you can play ro
 
 
 ## Past meetings
- 
+
+**30-03-2020** | Dirk van der Hoeven  
+*Adaptive methods in online learning.*  
+
 **02-03-2020** |	Tim van Erven	  
 *The many faces of exponential weights in online learning.*
 
