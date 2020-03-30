@@ -22,7 +22,7 @@ indefinite time.
 ## Schedule
 
 
-**06-04-2020** | Elena Sellentin	     
+**06-04-2020** | Rianne de Heide
  
 **20-04-2020** | Geerten Koers	        
 **11-05-2020** | Lasse Vuursteen	      
