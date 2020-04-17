@@ -21,30 +21,12 @@ indefinite time.
 
 ## Schedule
 
+**20-04-2020** | Geerten Koers	
 
-**06-04-2020** | Rianne de Heide
- 
-*Bayesian best-arm identification*
+*Statistical challenges in modern day astronomy*
 
-In multi-armed bandits, a learner repeatedly chooses an arm to play, and
-receives a reward from the associated unknown probability distribution. We study
-the task of best-arm identification (BAI), where the learner is not only asked
-to sample an arm at each stage, but is also asked to output a recommendation
-(i.e., a guess for the arm with the largest mean reward) after a certain period.
-Unlike in another well-studied bandit setting, the learner is not interested in
-maximising the sum of rewards gathered during the exploration (or minimising
-regret), but only cares about the quality of her recommendation. We investigate
-a Bayesian-flavoured sampling rule called Top-Two Thompson sampling (TTTS). In
-particular, we justify its use for fixed-confidence BAI. We further propose a
-variant of TTTS called Top-Two Transportation Cost (T3C), which disposes of the
-computational burden of TTTS. As our main contribution, we provide the first
-sample complexity analysis of TTTS and T3C when coupled with a very natural
-Bayesian stopping rule, for bandits with Gaussian rewards, solving one of the
-open questions raised by Russo (2016). We also provide new posterior convergence
-results for TTTS under two models that are commonly used in practice: bandits
-with Gaussian and Bernoulli rewards and conjugate priors.
+Abstract: Due to the increasing amount of data astronomers are gathering, astronomy faces interesting statistical problems in processing their observations. Independent measurements of the same parameter, such as the Hubble constant, yield non-compatible confidence intervals, and forecasts indicate that the problem is only getting worse. One possible cause of these seemingly contradicting conclusions is a non-rigorous approach to the statistical analysis of the data. We discuss the problems studied by the astronomers, and the potentially faulty assumptions used in their statistical models and the resulting effects on confidence sets. A Bayesian framework for misspecified statistical models is discussed, and a Bernstein-Von Mises theorem is derived for the corresponding posterior distributions, which is compared to previous results.
 
-**20-04-2020** | Geerten Koers	        
 **11-05-2020** | Lasse Vuursteen	      
 **18-05-2020** | Bart Eggen	          
 **25-05-2020** | Laura Zwep	          
@@ -54,6 +36,9 @@ with Gaussian and Bernoulli rewards and conjugate priors.
 
 
 ## Past meetings
+
+**06-04-2020** | Rianne de Heide  
+*Bayesian best-arm identification*
 
 **30-03-2020** | Dirk van der Hoeven  
 *Adaptive methods in online learning.*  
