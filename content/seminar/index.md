@@ -21,13 +21,14 @@ indefinite time.
 
 ## Schedule
 
-**20-04-2020** | Geerten Koers	
+**11-05-2020** | Lasse Vuursteen	  
 
-*Statistical challenges in modern day astronomy*
+*Distributed nonparametric hypothesis testing with (very) limited communication*
 
-Abstract: Due to the increasing amount of data astronomers are gathering, astronomy faces interesting statistical problems in processing their observations. Independent measurements of the same parameter, such as the Hubble constant, yield non-compatible confidence intervals, and forecasts indicate that the problem is only getting worse. One possible cause of these seemingly contradicting conclusions is a non-rigorous approach to the statistical analysis of the data. We discuss the problems studied by the astronomers, and the potentially faulty assumptions used in their statistical models and the resulting effects on confidence sets. A Bayesian framework for misspecified statistical models is discussed, and a Bernstein-Von Mises theorem is derived for the corresponding posterior distributions, which is compared to previous results.
+We consider distributed nonparametric hypothesis testing, in which data is distributed over multiple \`\`machines'' (locations / servers / cores). The machines can each communicate a limited amount of bits about their data to a central machine, after which the central machine needs to decide on a hypothesis. We focus on the canonical statistical model of nonparametric signal + white noise, testing a simple null hypothesis (no signal) against the composite alternative (there is a signal). We investigate and reveal some of the possibilities and limitations of detecting a signal with as little as 1 bit of communication by each of the machines. Taking a minimax paradigm, we derive testing lower bounds and describe protocols attaining these lower bounds. 
 
-**11-05-2020** | Lasse Vuursteen	      
+This is a joint work with Botond Szabó and Harry van Zanten.
+
 **18-05-2020** | Bart Eggen	          
 **25-05-2020** | Laura Zwep	          
 **08-06-2020** | Maarten Kampert	      
@@ -36,6 +37,9 @@ Abstract: Due to the increasing amount of data astronomers are gathering, astron
 
 
 ## Past meetings
+
+**20-04-2020** | Geerten Koers	
+*Statistical challenges in modern day astronomy*
 
 **06-04-2020** | Rianne de Heide  
 *Bayesian best-arm identification*
