@@ -35,6 +35,10 @@ Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.
 [R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)  
 *Journal of Statistical Software, to appear*  
 
+Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., **Nagler, T.**, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)  
+[Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.](https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract)  
+*Anticancer Research, 40(4):2117-2123*
+
 **Nagler, T.**, Bumann, C., Czado, C. (2019)   
 [Model selection for sparse high-dimensional vine copulas with application to
 portfolio risk](https://arxiv.org/abs/1801.09739)  

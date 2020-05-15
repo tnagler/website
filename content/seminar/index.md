@@ -21,15 +21,12 @@ indefinite time.
 
 ## Schedule
 
-**11-05-2020** | Lasse Vuursteen	  
+**18-05-2020** | Bart Eggen	 
 
-*Distributed nonparametric hypothesis testing with (very) limited communication*
+*Mathematical statistical theory for causal inference*
 
-We consider distributed nonparametric hypothesis testing, in which data is distributed over multiple \`\`machines'' (locations / servers / cores). The machines can each communicate a limited amount of bits about their data to a central machine, after which the central machine needs to decide on a hypothesis. We focus on the canonical statistical model of nonparametric signal + white noise, testing a simple null hypothesis (no signal) against the composite alternative (there is a signal). We investigate and reveal some of the possibilities and limitations of detecting a signal with as little as 1 bit of communication by each of the machines. Taking a minimax paradigm, we derive testing lower bounds and describe protocols attaining these lower bounds. 
+Causal inference is an important field of study and a hot topic in recent years. Unfortunately, there are not many theoretical results available. I will first discuss the Neumann-Rubin potential outcome model to understand the basics behind causal inference. Next, I will talk about a recent paper by Kolyan and Aad with some frequentist-bayesian theoretical results. Lastly, I will discuss an article by Daniel Scharfstein which poses a claim which we are trying to prove.
 
-This is a joint work with Botond Szabó and Harry van Zanten.
-
-**18-05-2020** | Bart Eggen	          
 **25-05-2020** | Laura Zwep	          
 **08-06-2020** | Maarten Kampert	      
 **15-06-2020** | Willem Heiser	        
@@ -37,6 +34,9 @@ This is a joint work with Botond Szabó and Harry van Zanten.
 
 
 ## Past meetings
+
+**11-05-2020** | Lasse Vuursteen	  
+*Distributed nonparametric hypothesis testing with (very) limited communication*
 
 **20-04-2020** | Geerten Koers	
 *Statistical challenges in modern day astronomy*
