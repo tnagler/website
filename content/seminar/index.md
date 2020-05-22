@@ -21,19 +21,21 @@ indefinite time.
 
 ## Schedule
 
-**18-05-2020** | Bart Eggen	 
+**25-05-2020** | Laura Zwep	  
 
-*Mathematical statistical theory for causal inference*
+*Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting*
 
-Causal inference is an import field of study and a hot topic in recent years. Unfortunately, there are not many theoretical results available. I will first discuss the Neyman-Rubin potential outcome model to understand the basic notations. Next, I will talk about a recent paper by Kolyan and Aad with some frequentist-Bayesian theoretical results. Lastly, I will discuss an article by Scharfstein et al which poses a claim we are trying to prove.
+The response to clinical treatments differs greatly between patients. Pharmacometric modelling is a field in which mechanistic models of longitudinal measurements are developed to quantify treatment responses. These models currently lack the capacity to incorporate high-dimensionality, which becomes an increasingly important part of clinical research due to the development of 'omics' technologies. We present a two-step approach to combine mechanistic modelling with the LASSO, where we address two main aims: gain biological understanding through variable selection and make predictions on treatment response for clinical decision making.
 
-**25-05-2020** | Laura Zwep	          
 **08-06-2020** | Maarten Kampert	      
 **15-06-2020** | Willem Heiser	        
 **22-06-2020** | Valentina Masarotto	  
 
 
 ## Past meetings
+
+**18-05-2020** | Bart Eggen	 
+*Mathematical statistical theory for causal inference*
 
 **11-05-2020** | Lasse Vuursteen	  
 *Distributed nonparametric hypothesis testing with (very) limited communication*
