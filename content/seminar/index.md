@@ -21,18 +21,26 @@ indefinite time.
 
 ## Schedule
 
-**25-05-2020** | Laura Zwep	  
+**08-06-2020** | Valentina Masarotto		
 
-*Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting*
 
-The response to clinical treatments differs greatly between patients. Pharmacometric modelling is a field in which mechanistic models of longitudinal measurements are developed to quantify treatment responses. These models currently lack the capacity to incorporate high-dimensionality, which becomes an increasingly important part of clinical research due to the development of 'omics' technologies. We present a two-step approach to combine mechanistic modelling with the LASSO, where we address two main aims: gain biological understanding through variable selection and make predictions on treatment response for clinical decision making.
+*When data are continuous : geometry and inference on covariance operators*
 
-**08-06-2020** | Maarten Kampert	      
+Over the last decades, more and more datasets are being sampled with increasingly high precision and are recorded in increasingly complex forms. Examples of such complexity comprise data that are sampled so finely as to be assumed to be smooth curves, or surfaces. These smooth and continuous data are called functional, and from a mathematical perspective they are taken to be random elements of an infinite-dimensional space. The branch of statistics dealing with their analysis is called Functional data analysis (FDA).
+A fundamental part in functional data analysis is played by covariance operators. They provide the canonical means to analyse functional variation and allow to write optimal finite-dimensional approximations of functional data.
+However, these operators may themselves be subject to variation, for example in cases when data curves are supposed to stem from different functional populations. Most recently, research has been carried out on inferential procedures concerning not only differences among the curves but also differences in their covariance structure.
+Statistical analysis on functional covariances is impaired by both their infinite-dimensionality and their intrinsic non-linearity. In this talk I will give an overview of the challenges concerning inference on covariance operators and I will explain why the problem is relevant. 
+The emphasis of the talk will be on the infinite-dimensional version of standard statistical procedures (testing, PCA, clustering), with application to a real-life linguistic dataset. 
+
 **15-06-2020** | Willem Heiser	        
-**22-06-2020** | Valentina Masarotto	  
+**22-06-2020** | Maarten Kampert  
 
 
 ## Past meetings
+
+
+**25-05-2020** | Laura Zwep	  
+*Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting*
 
 **18-05-2020** | Bart Eggen	 
 *Mathematical statistical theory for causal inference*
