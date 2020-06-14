@@ -21,22 +21,17 @@ indefinite time.
 
 ## Schedule
 
-**08-06-2020** | Valentina Masarotto		
+**15-06-2020** | Willem Heiser	    
+*Cancelled*
 
-
-*When data are continuous : geometry and inference on covariance operators*
-
-Over the last decades, more and more datasets are being sampled with increasingly high precision and are recorded in increasingly complex forms. Examples of such complexity comprise data that are sampled so finely as to be assumed to be smooth curves, or surfaces. These smooth and continuous data are called functional, and from a mathematical perspective they are taken to be random elements of an infinite-dimensional space. The branch of statistics dealing with their analysis is called Functional data analysis (FDA).
-A fundamental part in functional data analysis is played by covariance operators. They provide the canonical means to analyse functional variation and allow to write optimal finite-dimensional approximations of functional data.
-However, these operators may themselves be subject to variation, for example in cases when data curves are supposed to stem from different functional populations. Most recently, research has been carried out on inferential procedures concerning not only differences among the curves but also differences in their covariance structure.
-Statistical analysis on functional covariances is impaired by both their infinite-dimensionality and their intrinsic non-linearity. In this talk I will give an overview of the challenges concerning inference on covariance operators and I will explain why the problem is relevant. 
-The emphasis of the talk will be on the infinite-dimensional version of standard statistical procedures (testing, PCA, clustering), with application to a real-life linguistic dataset. 
-
-**15-06-2020** | Willem Heiser	        
 **22-06-2020** | Maarten Kampert  
 
 
 ## Past meetings
+
+
+**08-06-2020** | Valentina Masarotto		
+*When data are continuous : geometry and inference on covariance operators*
 
 
 **25-05-2020** | Laura Zwep	  
