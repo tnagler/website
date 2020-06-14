@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: "2020-03-18T00:00:00Z"
+date: "2020-06-14T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,6 +16,9 @@ header:
 
 
 ## Preprints
+
+Vio, R., **Nagler, T.**, Andreani, P.   
+[Modeling high-dimensional dependence among astronomical data](https://arxiv.org/abs/2006.06268)
 
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
