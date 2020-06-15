@@ -21,18 +21,22 @@ indefinite time.
 
 ## Schedule
 
-**15-06-2020** | Willem Heiser	    
-*Cancelled*
+**29-06-2020** | Maarten Kampert  
 
-**22-06-2020** | Maarten Kampert  
+*Improved Strategies for Clustering Objects on Subsets of Attributes*  
+
+Cluster discovery in high-dimensional settings is challenging when objects do not cluster on all attributes, or a single common subset, but rather on different subsets of attributes. To reveal such a clustering structure, the COSA procedure was proposed (Clustering Objects on Subsets of Attributes) that produces a representative distance matrix by finding differential attribute weights. This COSA distance matrix can subsequently be analyzed by a variety of distance-based analysis methods, such as hierarchical clustering or multidimensional scaling. We propose a series of improvements to the original procedure by a) making one of the tuning parameters superfluous, b) allowing for variable selection via zero-valued  attribute weights and c) adjusting the COSA distance so as to better separate objects belonging to different clusters. In addition, we implement a more general regularization strategy for the attribute weights, which allows for user specified initialization and leads to improved group extraction. We demonstrate the performance of  COSA by comparing it to the original version, and to a number of other state-of-the-art methods, using both simulated and real omics data sets.
+
 
 
 ## Past meetings
 
+**15-06-2020** | Willem Heiser	  
+_Cancelled_
+
 
 **08-06-2020** | Valentina Masarotto		
 *When data are continuous : geometry and inference on covariance operators*
-
 
 **25-05-2020** | Laura Zwep	  
 *Cancer Treatment Efficacy: Mechanistic modelling in high-dimensional setting*
