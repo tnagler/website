@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: "2020-06-14T00:00:00Z"
+date: "2020-08-04T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -22,13 +22,6 @@ Vio, R., **Nagler, T.**, Andreani, P.
 
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
-
-Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.  
-[Vine copula based post-processing of ensemble forecasts for temperature
-](http://arxiv.org/abs/1811.02255)
-
-Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
-[D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)
 
 ----------
 
@@ -100,7 +93,17 @@ simplified vine copulas](https://arxiv.org/abs/1503.03305)
 
 Czado, C., Müller, D., **Nagler, T.** (2018)  
 [Dependence modelling in ultra high dimensions with vine copulas](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf)  
-Book chapter in *High Performance Computing in Science and Engineering; Garching/Munich 2018*, to appear
+Book chapter in *High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018*
+
+Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.  
+[Vine copula based post-processing of ensemble forecasts for temperature
+](http://arxiv.org/abs/1811.02255)  
+*Working paper*
+
+Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
+[D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)  
+*Working paper*
+
 
 **Nagler, T.** (2018)  
 [Nonparametric estimation in simplified vine copula models](http://mediatum.ub.tum.de/node?id=1447138)  

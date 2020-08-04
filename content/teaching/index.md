@@ -1,6 +1,6 @@
 ---
 title: Teaching
-date: "2020-03-18T00:00:00Z"
+date: "2020-08-04T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,7 +16,10 @@ header:
 
 ## Lectures
 
-[Statistics for astronomy and physics students](https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students), Leiden University (Spring 2020)
+[Advanced statistical computing](https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing), Leiden University (Fall 2020)  
+[Statistics for astronomy and physics students I](https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1), Leiden University (Fall 2020)   
+[Statistics for astronomy and physics students II](https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-2), Leiden University (Fall 2020)   
+[Statistics for astronomy and physics students](https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students), Leiden University (Spring 2020)   
 [Nonparametric statistical learning](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&pOrgNr=14178), TU Munich (Summer 2019)
 
 ## Teaching assistant
@@ -32,10 +35,9 @@ header:
 [Nonparametric statistical methods](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326), TU Munich (Summer 2016)
 
 ## Supervision of Master's theses
-Krüger, D. (2018).  General vine copula models for stationary multivariate time series.  
-Weber, R. (2018). Value at Risk Estimation with
-Subset Simulation.  
-Jebabli, E. (2018). Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.  
+Krüger, D. (2018).  [General vine copula models for stationary multivariate time series.](http://mediatum.ub.tum.de/node?id=1445782)   
+Weber, R. (2018). [Value at Risk Estimation with Subset Simulation.](http://mediatum.ub.tum.de/node?id=1467381)    
+Jebabli, E. (2018). [Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.](http://mediatum.ub.tum.de/node?id=1518877)   
 Kreuzer, A. (2016).  [Analysing the spatial dependency among fire danger indices.](https://mediatum.ub.tum.de/node?id=1338821)  
 Brauer, A. (2016).  [Kernel estimation of conditional copula densities.](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
 Bumann, C. (2016).  [Sparse structure selection for high-dimensional vine copula models.](https://mediatum.ub.tum.de/node?id=1338822)  
