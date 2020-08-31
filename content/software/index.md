@@ -28,7 +28,7 @@ dependence measures and related independence tests
 
 [pyvinecopulib](https://github.com/vinecopulib/pyvinecopulib): Python interface to the [vinecopulib](https://github.com/vinecopulib/vinecopulib) C++ library  
 [![PyPI version](https://badge.fury.io/py/pyvinecopulib.svg)](https://badge.fury.io/py/pyvinecopulib)
- ![PyPI downloads](https://img.shields.io/pypi/dm/pyvinecopulib.svg)
+[![Downloads](https://pepy.tech/badge/pyvinecopulib/month)](https://pepy.tech/project/pyvinecopulib/month)
 
 ------------------------------------------
 
