@@ -21,6 +21,56 @@ indefinite time.
 
 ## Schedule
 
-TBA
+**07-09-2020** | Jeanne Nguyen
 
 
+**14-09-2020** | Thomas Nagler
+
+
+**21-09-2020** | Vera Arntzen
+
+
+**28-09-2020** | Marta Fiocco
+
+**05-10-2020** | Elena Sellentin
+
+**12-10-2020** | Amine Hadji
+
+**19-10-2020** | Richard Gill
+
+
+**26-10-2020** | Aad van der Vaart
+
+**02-11-2020** | Sanne Willems
+
+**09-11-2020** | Rianne de Heide
+
+**16-11-2020** |  Jacqueline Meulman
+
+**23-11-2020** |  Gerten Koers
+
+**30-11-2020** | Peter Grünwald
+
+**07-12-2020** |  George Kantidakis
+
+**14-12-2020** |  Johannes Schmidt-Hieber
+
+**11-01-2021** |  Lasse Vuursteen
+
+**18-01-2021** |  Stéphanie van der Pas
+
+**25-01-2021** |  Marten Kampert
+
+**01-02-2021** |  Stefan Franssen
+
+**08-02-2021** |  Valentina Masarotto
+
+**15-02-2021** | Laura Zwep
+
+**22-02-2021** |  Bart Eggen
+
+**01-02-2021** |   Marta Spreafico
+
+**08-02-2021** |  Thijs Bos
+
+[Past meetings](past)
