@@ -20,15 +20,16 @@ header:
 **Nagler, T.**, Krüger, D., Min, A.  
 [Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
 
-Vio, R., **Nagler, T.**, Andreani, P.   
-[Modeling high-dimensional dependence among astronomical data](https://arxiv.org/abs/2006.06268)
-
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
 ----------
 
 ## Journal and conference papers
+
+Vio, R., **Nagler, T.**, Andreani, P.   
+[Modeling high-dimensional dependence among astronomical data](https://www.aanda.org/articles/aa/pdf/forth/aa38585-20.pdf)
+*Astronomy & Astrophysics, to appear*
 
 **Nagler, T.**  
 [R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)  

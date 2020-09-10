@@ -21,11 +21,11 @@ indefinite time.
 
 ## Schedule
 
-**07-09-2020** | Jeanne Nguyen
 
+**14-09-2020** | Thomas Nagler  
+*Stationary vine copula models for multivariate time series*
 
-**14-09-2020** | Thomas Nagler
-
+Multivariate time series exhibit two types of dependence: across variables and across time points. Vine copulas are graphical models for the dependence and can conveniently capture both types of dependence in the same model. We derive the maximal class of graph structures that guarantees stationarity under a condition called translation invariance. Translation invariance is not only a necessary condition for stationarity, but also the only condition we can reasonably check in practice. In this sense, the new model class characterizes all practically relevant vine structures for modeling stationary time series. We propose computationally efficient methods for estimation, simulation, prediction, and uncertainty quantification and show their validity by asymptotic results and simulations.  
 
 **21-09-2020** | Vera Arntzen
 
