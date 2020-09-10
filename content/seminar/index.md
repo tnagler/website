@@ -73,4 +73,4 @@ Multivariate time series exhibit two types of dependence: across variables and a
 
 **08-02-2021** |  Thijs Bos
 
-[Past meetings](past)
+[Past meetings](/seminar-past)

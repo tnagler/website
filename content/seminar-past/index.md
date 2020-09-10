@@ -16,7 +16,7 @@ header:
 
 ## Past meetings
 
-**07-09-2020** | Jeanne Nguyen
+**07-09-2020** | Jeanne Nguyen  
 *Pros and cons of the greedy CDRodeo algorithm*
 
 **29-06-2020** | Maarten Kampert  
