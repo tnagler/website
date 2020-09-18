@@ -22,12 +22,10 @@ indefinite time.
 ## Schedule
 
 
-**14-09-2020** | Thomas Nagler  
-*Stationary vine copula models for multivariate time series*
+**21-09-2020** | Vera Arntzen  
+*Weighted Cox methods to correct for ascertainment bias*
 
-Multivariate time series exhibit two types of dependence: across variables and across time points. Vine copulas are graphical models for the dependence and can conveniently capture both types of dependence in the same model. We derive the maximal class of graph structures that guarantees stationarity under a condition called translation invariance. Translation invariance is not only a necessary condition for stationarity, but also the only condition we can reasonably check in practice. In this sense, the new model class characterizes all practically relevant vine structures for modeling stationary time series. We propose computationally efficient methods for estimation, simulation, prediction, and uncertainty quantification and show their validity by asymptotic results and simulations.  
-
-**21-09-2020** | Vera Arntzen
+Motivated by a study into the effect of the gene-based Polygenic Risk Score (PRS) on the age of breast cancer diagnosis where high-risk families are sampled, we examined weighting approaches to correct for ascertainment bias. Outcome-dependent sampling generally leads to too many events in comparison to the population and an overrepresentation of young, affected subjects. Two different weighted Cox model approaches were considered, using time fixed and time dependent weights. The novelty is that we evaluated their performance for varying strengths of within-family correlation by simulations.
 
 
 **28-09-2020** | Marta Fiocco

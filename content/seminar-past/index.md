@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**14-09-2020** | Thomas Nagler  
+*Stationary vine copula models for multivariate time series*
+
 **07-09-2020** | Jeanne Nguyen  
 *Pros and cons of the greedy CDRodeo algorithm*
 
