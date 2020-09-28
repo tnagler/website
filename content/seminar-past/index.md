@@ -16,6 +16,12 @@ header:
 
 ## Past meetings
 
+**28-09-2020** | Marta Fiocco  
+*Performance indicators for survival outcome*
+
+**21-09-2020** | Vera Arntzen  
+*Weighted Cox methods to correct for ascertainment bias*
+
 **14-09-2020** | Thomas Nagler  
 *Stationary vine copula models for multivariate time series*
 

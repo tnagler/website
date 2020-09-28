@@ -22,20 +22,11 @@ indefinite time.
 ## Schedule
 
 
-**21-09-2020** | Vera Arntzen  
-*Weighted Cox methods to correct for ascertainment bias*
-
-Motivated by a study into the effect of the gene-based Polygenic Risk Score (PRS) on the age of breast cancer diagnosis where high-risk families are sampled, we examined weighting approaches to correct for ascertainment bias. Outcome-dependent sampling generally leads to too many events in comparison to the population and an overrepresentation of young, affected subjects. Two different weighted Cox model approaches were considered, using time fixed and time dependent weights. The novelty is that we evaluated their performance for varying strengths of within-family correlation by simulations.
-
-
-**28-09-2020** | Marta Fiocco
-
 **05-10-2020** | Elena Sellentin
 
 **12-10-2020** | Amine Hadji
 
 **19-10-2020** | Richard Gill
-
 
 **26-10-2020** | Aad van der Vaart
 
