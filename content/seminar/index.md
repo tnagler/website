@@ -24,6 +24,11 @@ indefinite time.
 
 **05-10-2020** | Elena Sellentin
 
+*Generation and Analysis of non-Gaussian random fields in astronomy*
+
+Abstract: 13.7 billion years ago, our Universe was in the state compatible with a Gaussian random field. Since then, gravity and radiation processes have transformed this initial field, thereby creating non-Gaussian structures. As this creation of non-Gaussian structures is indicative of non-standard physics, one would like to infer the parameters of that non-standard physics from the noisy observations of the non-Gaussian fields. But this is easier said than done. In this talk, I will focus on an MCMC-approach towards a generation and analysis of such non-Gaussian fields, and embed it in a Bayesian model for inferring the wanted parameters of non-standard physics.
+
+
 **12-10-2020** | Amine Hadji
 
 **19-10-2020** | Richard Gill
