@@ -22,14 +22,14 @@ indefinite time.
 ## Schedule
 
 
-**05-10-2020** | Elena Sellentin
-
-*Generation and Analysis of non-Gaussian random fields in astronomy*
-
-Abstract: 13.7 billion years ago, our Universe was in the state compatible with a Gaussian random field. Since then, gravity and radiation processes have transformed this initial field, thereby creating non-Gaussian structures. As this creation of non-Gaussian structures is indicative of non-standard physics, one would like to infer the parameters of that non-standard physics from the noisy observations of the non-Gaussian fields. But this is easier said than done. In this talk, I will focus on an MCMC-approach towards a generation and analysis of such non-Gaussian fields, and embed it in a Bayesian model for inferring the wanted parameters of non-standard physics.
 
 
 **12-10-2020** | Amine Hadji
+
+*Uncertainty quantification using Gaussian Process with squared exponential kernel*
+
+Gaussian processes are widely used in various fields of applications. Arguably, one of the most popular and frequently used covariance kernel is the squared exponential kernel. As typical draws from the corresponding Gaussian process have too smooth sample paths, it is common to rescale the kernel. For optimal rescaling one applies in practice empirical or hierarchical Bayes methods. The theoretical literature focuses mainly on the recovery of the underlying functional parameter of interest in context of nonparametric regression and classification and derives (nearly) optimal posterior contraction rates. We investigate the coverage properties of the corresponding credible sets in context of the Gaussian white noise model (which is closely related to the above models). We show that the resulting posterior distribution is not suitable for uncertainty quantification as the credible sets will have coverage tending to zero for typical signals. On the other hand, blowing the radius of our credible set by a log n factor or tuning the rescaling parameter allows the rescaled Gaussian process to encompass the truth.. The derived theoretical findings are demonstrated on a thorough simulation study, where amongst others we obtain that Gaussian processes with squared exponential kernel have substantially worse coverage properties than Gaussian processes with Matern kernel (for instance) in context of nonparametric regression and classification. 
+
 
 **19-10-2020** | Richard Gill
 

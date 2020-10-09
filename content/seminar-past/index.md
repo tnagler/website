@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**05-10-2020** | Elena Sellentin  
+*Generation and Analysis of non-Gaussian random fields in astronomy*
+
 **28-09-2020** | Marta Fiocco  
 *Performance indicators for survival outcome*
 
