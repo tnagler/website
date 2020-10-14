@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**12-10-2020** | Amine Hadji  
+*Uncertainty quantification using Gaussian Process with squared exponential kernel*  
+
 **05-10-2020** | Elena Sellentin  
 *Generation and Analysis of non-Gaussian random fields in astronomy*
 
