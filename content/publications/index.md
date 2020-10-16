@@ -27,9 +27,10 @@ header:
 
 ## Journal and conference papers
 
-Vio, R., **Nagler, T.**, Andreani, P.   
-[Modeling high-dimensional dependence among astronomical data](https://www.aanda.org/articles/aa/pdf/forth/aa38585-20.pdf)
-*Astronomy & Astrophysics, to appear*
+Vio, R., **Nagler, T.**, Andreani, P. (2020)   
+[Modeling high-dimensional dependence among astronomical data](https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html
+)  
+*Astronomy & Astrophysics, 642, A156*
 
 **Nagler, T.**  
 [R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)  
