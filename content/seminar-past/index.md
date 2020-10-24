@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**19-10-2020** | Richard Gill  
+*Two small-data n << p case studies: Hydroxychloroquine cocktail for early COVID-19 infection; Marseilles and Meijel*
+
 **12-10-2020** | Amine Hadji  
 *Uncertainty quantification using Gaussian Process with squared exponential kernel*  
 
