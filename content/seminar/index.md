@@ -24,7 +24,16 @@ indefinite time.
 
 **26-10-2020** | *cancelled*
 
-**02-11-2020** | Sanne Willems
+**02-11-2020** | Sanne Willems  
+
+*Variability in the interpretation of probability phrases used in Dutch news articles - a risk for miscommunication*
+
+Joint work with: Prof.dr. Ionica Smeets and Prof.dr. Casper J. Albers
+
+Verbal probability phrases, as “unlikely”, “usually” and “maybe”, are often used in science communication to express estimated risks in words instead of numbers. In our study we looked at how laypeople and statisticians interpret Dutch probability phrases that are regularly used in news articles. We found that there is a large variability in interpretations, even if the phrases are given in a neutral context and even among statisticians. We conclude that experts and the media should be careful in using verbal probability expressions.
+
+In this talk, I will explain more about the set-up of the study and present the results. I will show the variability in the numerical interpretation of these phrases, discuss (a)symmetry in the interpretations and compare the results from different sub-populations, like statisticians and non-statisticians.
+
 
 **09-11-2020** | Rianne de Heide
 
