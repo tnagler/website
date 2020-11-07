@@ -18,24 +18,18 @@ header:
 - Due to the Corona virus, the seminar is held online for an
 indefinite time.
 
+[Past meetings](/seminar-past)
 
 ## Schedule
 
-
-**26-10-2020** | *cancelled*
-
-**02-11-2020** | Sanne Willems  
-
-*Variability in the interpretation of probability phrases used in Dutch news articles - a risk for miscommunication*
-
-Joint work with: Prof.dr. Ionica Smeets and Prof.dr. Casper J. Albers
-
-Verbal probability phrases, as “unlikely”, “usually” and “maybe”, are often used in science communication to express estimated risks in words instead of numbers. In our study we looked at how laypeople and statisticians interpret Dutch probability phrases that are regularly used in news articles. We found that there is a large variability in interpretations, even if the phrases are given in a neutral context and even among statisticians. We conclude that experts and the media should be careful in using verbal probability expressions.
-
-In this talk, I will explain more about the set-up of the study and present the results. I will show the variability in the numerical interpretation of these phrases, discuss (a)symmetry in the interpretations and compare the results from different sub-populations, like statisticians and non-statisticians.
-
-
 **09-11-2020** | Rianne de Heide
+
+*Safe Testing*
+
+We present a new theory of hypothesis testing. The main concept is the e-value, a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on the previous test outcome: safe tests based on e-values generally preserve Type-I error guarantees under such "optional continuation". E-values exist for completely general testing problems with composite null and alternatives. Their prime interpretation is in terms of gambling or investing, each e-value corresponding to a particular investment. Surprisingly, optimal "GROW" e-values, which lead to fastest capital growth, are fully characterized by the joint information projection (JIPr) between the set of all Bayes marginal distributions on H0 and H1. Thus, optimal e-values also have an interpretation as Bayes factors, with priors given by the JIPr. We illustrate the theory using two classical testing scenarios: the one-sample t-test and the 2x2 contingency table. In the t-test setting, GROW e-values correspond to adopting the right Haar prior on the variance, like in Jeffreys' Bayesian t-test. However, unlike Jeffreys', the "default" safe t-test puts a discrete 2-point prior on the effect size, leading to better behavior in terms of statistical power. Sharing Fisherian, Neymanian and Jeffreys-Bayesian interpretations, e-values and safe tests may provide a methodology acceptable to adherents of all three schools.
+
+Joint work with Peter Grünwald and Wouter Koolen
+
 
 **16-11-2020** |  Jacqueline Meulman
 
@@ -68,4 +62,3 @@ In this talk, I will explain more about the set-up of the study and present the 
 **15-02-2020** | Aad van der Vaart
 
 
-[Past meetings](/seminar-past)
