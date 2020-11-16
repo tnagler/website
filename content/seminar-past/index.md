@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**16-11-2020** |  Peter Grünwald  
+_E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data_
+
 **09-11-2020** | Rianne de Heide  
 _Safe Testing_
 
