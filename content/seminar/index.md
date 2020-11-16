@@ -22,20 +22,16 @@ indefinite time.
 
 ## Schedule
 
-**09-11-2020** | Rianne de Heide
+**16-11-2020** |  Peter Grünwald
 
-*Safe Testing*
+*E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data*
 
-We present a new theory of hypothesis testing. The main concept is the e-value, a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on the previous test outcome: safe tests based on e-values generally preserve Type-I error guarantees under such "optional continuation". E-values exist for completely general testing problems with composite null and alternatives. Their prime interpretation is in terms of gambling or investing, each e-value corresponding to a particular investment. Surprisingly, optimal "GROW" e-values, which lead to fastest capital growth, are fully characterized by the joint information projection (JIPr) between the set of all Bayes marginal distributions on H0 and H1. Thus, optimal e-values also have an interpretation as Bayes factors, with priors given by the JIPr. We illustrate the theory using two classical testing scenarios: the one-sample t-test and the 2x2 contingency table. In the t-test setting, GROW e-values correspond to adopting the right Haar prior on the variance, like in Jeffreys' Bayesian t-test. However, unlike Jeffreys', the "default" safe t-test puts a discrete 2-point prior on the effect size, leading to better behavior in terms of statistical power. Sharing Fisherian, Neymanian and Jeffreys-Bayesian interpretations, e-values and safe tests may provide a methodology acceptable to adherents of all three schools.
+Abstract: The E-value is a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on previous test outcomes. 'Safe' tests based on E-values generally preserve Type-I error guarantees under such \`optional continuation', thereby potentially alleviating one of the main causes for the reproducibility crisis. Last week, Rianne de Heide showed a general theorem showing that E-values can be constructed for general testing problems with composite nulls/alternatives. After a brief introduction I will continue where Rianne left off a week ago by giving several examples. The main example will be for  time-to-event data. We show how to define an E-value based on Cox' partial likelihood, illustrating with (hypothetical!) data on covid vaccine RCTs. If all research groups were to report their results in terms of E-values rather than p-values, then in principle, one could even do meta-analysis that retains an overall Type-I error guarantee - thus saving greatly on 'research waste'.
 
-Joint work with Peter Grünwald and Wouter Koolen
-
-
-**16-11-2020** |  Jacqueline Meulman
 
 **23-11-2020** |  Gerten Koers
 
-**30-11-2020** | Peter Grünwald
+**30-11-2020** | Jacqueline Meulman
 
 **07-12-2020** |  George Kantidakis
 

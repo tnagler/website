@@ -16,6 +16,8 @@ header:
 
 ## Past meetings
 
+**09-11-2020** | Rianne de Heide  
+_Safe Testing_
 
 **02-11-2020** | Sanne Willems  
 _Variability in the interpretation of probability phrases used in Dutch news articles - a risk for miscommunication_
