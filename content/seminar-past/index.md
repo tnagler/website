@@ -16,6 +16,10 @@ header:
 
 ## Past meetings
 
+
+**23-11-2020** | Stefan Franssen  
+_Frequentist coverage of empirical Bayesian uncertainty quantification using Deep Neural Network regression in Besov spaces_
+
 **16-11-2020** |  Peter Grünwald  
 _E is the New P: Tests that are safe under optional stopping, with an application to time-to-event data_
 

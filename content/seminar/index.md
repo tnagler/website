@@ -22,14 +22,14 @@ indefinite time.
 
 ## Schedule
 
-**23-11-2020** | Stefan Franssen
-
-_Frequentist coverage of empirical Bayesian uncertainty quantification using Deep Neural Network regression in Besov spaces_
-
-In the past 5 years there has been a breakthrough in our understanding of the behaviour of (sparse) Deep Neural network regression.  For $\\beta$-Hölder spaces, Johannes gave near minimax convergence rates, and the work has been extended to Besov spaces by Suzuki. These works give guarantees for the square loss of (near) minimizers of the empirical square loss, which imply that Deep Neural Networks following their designs will have good uncertainty quantification. In spite of this progress, there has not been any rigorous way of quantifying uncertainty in the estimates of Deep Neural Networks. We provide both an Empirical Bayesian methodology to provide uncertainty quantification and a theoretical analysis with frequentist coverage guarantees. We also ran a simulation study which illustrates the coverage properties. In this talk, we will take a closer look at the methodology, illustrated with simulation study pictures and a short sketch of the theoretical results.
-
-
 **30-11-2020** | Jacqueline Meulman
+
+*Regularized Optimal Scaling Regression*
+
+When confronted with categorical variables, nonlinear relationships, multicollinearity, and/or high-dimensional data, the widely used linear regression framework requires adjustments. Regularization and optimal scaling are two important extensions of ordinary least squares regression. There are two data analytic situations for which optimal scaling was developed. One is the analysis of categorical data, and the other the need for transformations to linearize nonlinear relationships between predictors and outcome.
+
+We can choose from a variety of transformation types; typically we use step functions for categorical variables, and smooth (spline) functions for continuous variables. Both types of functions can be restricted to be monotonic, preserving the ordinal information in the data. Optimal scaling regression can be integrated with popular regularization methods such as Ridge Regression, the Lasso, and the Elastic Net, using a very general one-variable-at-a-time (coordinate descent) algorithm. The OS algorithm provides straightforward and efficient estimation of the regularized regression coefficients, automatically gives the Group Lasso and Blockwise Sparse Regression, and extends them by the possibility to maintain ordinal properties in the data. Examples will include mixed variables, variable selection and model selection.
+
 
 **07-12-2020** |  George Kantidakis
 
