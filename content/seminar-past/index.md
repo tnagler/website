@@ -16,6 +16,8 @@ header:
 
 ## Past meetings
 
+**30-11-2020** | Jacqueline Meulman  
+_Regularized Optimal Scaling Regression_
 
 **23-11-2020** | Stefan Franssen  
 _Frequentist coverage of empirical Bayesian uncertainty quantification using Deep Neural Network regression in Besov spaces_

@@ -22,16 +22,10 @@ indefinite time.
 
 ## Schedule
 
-**30-11-2020** | Jacqueline Meulman
-
-*Regularized Optimal Scaling Regression*
-
-When confronted with categorical variables, nonlinear relationships, multicollinearity, and/or high-dimensional data, the widely used linear regression framework requires adjustments. Regularization and optimal scaling are two important extensions of ordinary least squares regression. There are two data analytic situations for which optimal scaling was developed. One is the analysis of categorical data, and the other the need for transformations to linearize nonlinear relationships between predictors and outcome.
-
-We can choose from a variety of transformation types; typically we use step functions for categorical variables, and smooth (spline) functions for continuous variables. Both types of functions can be restricted to be monotonic, preserving the ordinal information in the data. Optimal scaling regression can be integrated with popular regularization methods such as Ridge Regression, the Lasso, and the Elastic Net, using a very general one-variable-at-a-time (coordinate descent) algorithm. The OS algorithm provides straightforward and efficient estimation of the regularized regression coefficients, automatically gives the Group Lasso and Blockwise Sparse Regression, and extends them by the possibility to maintain ordinal properties in the data. Examples will include mixed variables, variable selection and model selection.
-
-
 **07-12-2020** |  George Kantidakis
+
+*Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks*
+
 
 **14-12-2020** |  Johannes Schmidt-Hieber
 
