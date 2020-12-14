@@ -22,12 +22,12 @@ indefinite time.
 
 ## Schedule
 
-**07-12-2020** |  George Kantidakis
-
-*Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks*
-
-
 **14-12-2020** |  Johannes Schmidt-Hieber
+
+*Overparametrization and the bias-variance dilemma*
+
+For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. 
+
 
 **11-01-2021** |  Lasse Vuursteen
 
