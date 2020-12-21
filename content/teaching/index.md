@@ -34,7 +34,16 @@ header:
 [Mathematical introduction to neural networks](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376), TU Munich (Winter 2016)  
 [Nonparametric statistical methods](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326), TU Munich (Summer 2016)
 
-## Supervision of Master's theses
+## Supervision of MSc theses
+
+#### Ongoing
+
+I am currently supervising 3 MSc students (Lotte Pater, Abed Razaway, Jasper Eggeraat).
+
+#### Completed
+
+Carmona Osorio, N. (2020). Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.  
+Matsakidis, P. (2020). Forecasting Age-Specific Mortality Rates Using Functional Data Analysis.  
 Krüger, D. (2018).  [General vine copula models for stationary multivariate time series.](http://mediatum.ub.tum.de/node?id=1445782)   
 Weber, R. (2018). [Value at Risk Estimation with Subset Simulation.](http://mediatum.ub.tum.de/node?id=1467381)    
 Jebabli, E. (2018). [Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.](http://mediatum.ub.tum.de/node?id=1518877)   

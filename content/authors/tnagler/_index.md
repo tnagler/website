@@ -36,7 +36,7 @@ education:
     institution: Technical University of Munich
     year: 2014
   - course: BSc Mathematics
-    institution: Massachusetts Institute of TechnologyTechnical University of Munich
+    institution: Technical University of Munich
     year: 2012
 
 # Social/Academic Networking

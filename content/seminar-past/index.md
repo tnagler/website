@@ -16,9 +16,12 @@ header:
 
 ## Past meetings
 
+**14-12-2020** |  Johannes Schmidt-Hieber  
+*Overparametrization and the bias-variance dilemma*
+
+
 **07-12-2020** |  George Kantidakis  
 _Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks_
-
 
 **30-11-2020** | Jacqueline Meulman  
 _Regularized Optimal Scaling Regression_

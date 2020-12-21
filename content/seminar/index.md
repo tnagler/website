@@ -22,13 +22,6 @@ indefinite time.
 
 ## Schedule
 
-**14-12-2020** |  Johannes Schmidt-Hieber
-
-*Overparametrization and the bias-variance dilemma*
-
-For several machine learning methods such as neural networks, good generalisation performance has been reported in the overparametrized regime. In view of the classical bias-variance trade-off, this behaviour is highly counterintuitive. The talk summarizes recent theoretical results on overparametrization and the bias-variance trade-off. This is joint work with Alexis Derumigny. 
-
-
 **11-01-2021** |  Lasse Vuursteen
 
 **18-01-2021** |  Stéphanie van der Pas

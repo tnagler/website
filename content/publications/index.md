@@ -23,6 +23,10 @@ header:
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
+Meyer, D., **Nagler, T.**, Hogan, R.J.  
+[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)
+
+
 ----------
 
 ## Journal and conference papers
