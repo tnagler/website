@@ -22,9 +22,9 @@ indefinite time.
 
 ## Schedule
 
-**11-01-2021** |  Lasse Vuursteen
+**11-01-2021** |  *canceled*
 
-**18-01-2021** |  Stéphanie van der Pas
+**18-01-2021** |  Lasse Vuursteen
 
 **25-01-2021** |  Marten Kampert
 
