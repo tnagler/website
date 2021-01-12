@@ -16,6 +16,11 @@ header:
 
 ## Past meetings
 
+**11-01-2021** |  Richard Gill  
+_Steve Gull’s challenge_   
+_An impossible Monte Carlo simulation project in distributed computing_
+
+
 **14-12-2020** |  Johannes Schmidt-Hieber  
 *Overparametrization and the bias-variance dilemma*
 
