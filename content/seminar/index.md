@@ -23,18 +23,7 @@ indefinite time.
 ## Schedule
 
 
-**18-01-2021** |  Lasse Vuursteen
-
-*The role of shared randomness in distributed hypothesis testing*
-
-Recently, optimal distributed testing methods were derived for the problem of signal detection in Gaussian noise. In this joint work with Botond Szabó and Harry van Zanten, we established a lower bound on the signal size for it to be detectable and exhibited distributed testing strategies that attain the lower bound (see  <https://arxiv.org/abs/2012.04957?context=math>).
-
-Depending on the dimension and the degree to which the problem is distributed, one of these optimal distributed testing strategies requires access to a shared source of randomness; the question whether this is strictly necessary is still open in the current literature.
-
-In this talk, a simple example of a distributed detection problem in which shared randomness is strictly necessary for optimal results is discussed, followed by a discussion of recent and upcoming work that establishes the sufficiency and necesity of shared randomness for optimal distributed hypothesis testing in a general nonparametric setting.
-
-
-**25-01-2021** |  Marten Kampert
+**25-01-2021** |  Maarten Kampert
 
 **01-02-2021** |  Geerten Koers
 

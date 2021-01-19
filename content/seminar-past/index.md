@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**18-01-2021** |  Lasse Vuursteen  
+_The role of shared randomness in distributed hypothesis testing_
+
 **11-01-2021** |  Richard Gill  
 _Steve Gull’s challenge_   
 _An impossible Monte Carlo simulation project in distributed computing_
