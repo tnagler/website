@@ -23,7 +23,7 @@ indefinite time.
 ## Schedule
 
 
-**25-01-2021** |  Maarten Kampert
+**25-01-2021** |  _open spot_
 
 **01-02-2021** |  Geerten Koers
 
