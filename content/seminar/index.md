@@ -23,9 +23,12 @@ indefinite time.
 ## Schedule
 
 
-**25-01-2021** |  _open spot_
-
 **01-02-2021** |  Geerten Koers
+
+*(Non)-parametric studies of the Schrödinger equation*
+
+Schrödingers equation is an important model for the behaviour of many physical processes. There are multiple ways of making inference about the parameters involved in this PDE. We discuss it both from a parametric and non-parametric perspective, and consider new approaches to speed up the often costly computations.
+
 
 **08-02-2021** |  *open spot*
 
