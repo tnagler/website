@@ -31,14 +31,14 @@ Meyer, D., **Nagler, T.**, Hogan, R.J.
 
 ## Journal and conference papers
 
+**Nagler, T.**  (2021)  
+[R-friendly multi-threading in C++](https://www.jstatsoft.org/article/view/v097c01)  
+_Journal of Statistical Software, 97(c1)_  
+
 Vio, R., **Nagler, T.**, Andreani, P. (2020)   
 [Modeling high-dimensional dependence among astronomical data](https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html
 )  
 *Astronomy & Astrophysics, 642, A156*
-
-**Nagler, T.**  
-[R-friendly multi-threading in C++](http://arxiv.org/abs/1811.00450)  
-*Journal of Statistical Software, to appear*  
 
 Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., **Nagler, T.**, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)  
 [Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.](https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract)  
