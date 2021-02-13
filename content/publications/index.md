@@ -85,7 +85,7 @@ Vatter, T. and **Nagler, T.** (2018)
 
 **Nagler, T.**, Schellhase, C. and Czado, C. (2017)   
 [Nonparametric estimation of simplified vine copula models: comparison of
-methods](https://www.degruyter.com/downloadpdf/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.pdf)  
+methods](https://www.degruyter.com/document/doi/10.1515/demo-2017-0007/pdf)  
 *Dependence Modeling, 5:99-120* 
 [[doi]](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml)
 
