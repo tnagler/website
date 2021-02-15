@@ -23,16 +23,9 @@ indefinite time.
 ## Schedule
 
 
-**01-02-2021** |  Geerten Koers
-
-*(Non)-parametric studies of the Schrödinger equation*
-
-Schrödingers equation is an important model for the behaviour of many physical processes. There are multiple ways of making inference about the parameters involved in this PDE. We discuss it both from a parametric and non-parametric perspective, and consider new approaches to speed up the often costly computations.
-
-
-**08-02-2021** |  *open spot*
-
 **15-02-2021** | Laura Zwep
+
+Collateral effects of antibiotic resistance occur when antibiotic resistance in a pathogen against one antibiotic agent leads to increased resistance or increased sensitivity against a second antibiotic. In this context, collateral sensitivity (CS) has been proposed as strategy to design antibiotic treatment regimens to suppress antibiotic resistance. The majority of studies in CS, however, are based on well-controlled experimental studies while evidence on the occurrence of CS clinically occurring pathogens remains scarce. The aim of our study is to propose a methodology to quantify collateral effect directionality and effect size from large scale antimicrobial resistance population surveillance data. In continuing work we also aim to identify these collateral effects based on phylogenic trees, using Pagel’s method.
 
 **22-02-2021** |  Bart Eggen
 

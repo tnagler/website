@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**01-02-2021** |  Geerten Koers  
+_(Non)-parametric studies of the Schrödinger equation_
+
 **18-01-2021** |  Lasse Vuursteen  
 _The role of shared randomness in distributed hypothesis testing_
 
@@ -23,10 +26,8 @@ _The role of shared randomness in distributed hypothesis testing_
 _Steve Gull’s challenge_   
 _An impossible Monte Carlo simulation project in distributed computing_
 
-
 **14-12-2020** |  Johannes Schmidt-Hieber  
 *Overparametrization and the bias-variance dilemma*
-
 
 **07-12-2020** |  George Kantidakis  
 _Prediction models in bone sarcoma – a simulation study to compare Cox models with survival neural networks_
