@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 
+## Awards
+
+[Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler), Faculty of Science, Leiden University
 
 ## Lectures
 
