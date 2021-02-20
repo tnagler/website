@@ -17,6 +17,10 @@ header:
 
 ## Preprints
 
+Aas, K., **Nagler, T.**, Jullum, M., Løland, A.  
+[Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)
+
+
 **Nagler, T.**, Krüger, D., Min, A.  
 [Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
 
