@@ -30,6 +30,11 @@ dependence measures and related independence tests
 [![PyPI version](https://badge.fury.io/py/pyvinecopulib.svg)](https://badge.fury.io/py/pyvinecopulib)
 [![Downloads](https://pepy.tech/badge/pyvinecopulib/month)](https://pepy.tech/project/pyvinecopulib/month)
 
+[Synthia](https://github.com/vinecopulib/pyvinecopulib): multidimensional synthetic data generation in Python  
+[![PyPI version](https://badge.fury.io/py/synthia.svg)](https://badge.fury.io/py/synthia)
+[![Downloads](https://pepy.tech/badge/synthia/month)](https://pepy.tech/project/synthia/month)
+
+
 ------------------------------------------
 
 ## R

@@ -20,15 +20,17 @@ header:
 Aas, K., **Nagler, T.**, Jullum, M., Løland, A.  
 [Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)
 
-
 **Nagler, T.**, Krüger, D., Min, A.  
 [Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
 
-**Nagler, T.**, Vatter, T.  
-[Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
-
 Meyer, D., **Nagler, T.**, Hogan, R.J.  
 [Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)
+
+Meyer, D., **Nagler, T.**  
+[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)
+
+**Nagler, T.**, Vatter, T.  
+[Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
 
 
 ----------
