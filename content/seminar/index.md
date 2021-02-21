@@ -23,11 +23,12 @@ indefinite time.
 ## Schedule
 
 
-**15-02-2021** | Laura Zwep
-
-Collateral effects of antibiotic resistance occur when antibiotic resistance in a pathogen against one antibiotic agent leads to increased resistance or increased sensitivity against a second antibiotic. In this context, collateral sensitivity (CS) has been proposed as strategy to design antibiotic treatment regimens to suppress antibiotic resistance. The majority of studies in CS, however, are based on well-controlled experimental studies while evidence on the occurrence of CS clinically occurring pathogens remains scarce. The aim of our study is to propose a methodology to quantify collateral effect directionality and effect size from large scale antimicrobial resistance population surveillance data. In continuing work we also aim to identify these collateral effects based on phylogenic trees, using Pagel’s method.
-
 **22-02-2021** |  Bart Eggen
+
+*Bayesian Sensitivity Analysis for Causal Inference*  
+
+When conducting causal inference, some assumptions are required to hold to perform valid data analysis. Some of these assumptions are difficult to test, while having a big impact on the results. This is why it is important to test the effect of varying these assumptions. This process is called sensitivity analysis. One method of obtaining a single outcome, without too many assumptions, is by using Bayesian methods and incorporating prior beliefs. We will discuss a semi-parametric model introduced by Scharfstein et. al. (2003) and will show two different parametrisations. In practice, one might have “better” prior beliefs for a certain parametrisation, so it is necessary to have guarantees in both frameworks. We will show three different semi-parametric Bernstein-von Mises theorems, which use either Dirichlet process priors or arbitrary priors with some extra assumptions.
+
 
 **01-03-2021** |   Marta Spreafico
 

@@ -16,6 +16,8 @@ header:
 
 ## Past meetings
 
+**15-02-2021** | Laura Zwep
+
 **01-02-2021** |  Geerten Koers  
 _(Non)-parametric studies of the Schrödinger equation_
 

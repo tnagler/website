@@ -92,4 +92,4 @@ experts to solve problems in diverse scientific areas.
 
 I am passionate teacher dedicated to excellence in education and was elected  
 [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler) 
-by the Faculty of Science, Leiden University.
+by the Faculty of Science.
