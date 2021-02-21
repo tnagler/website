@@ -21,10 +21,9 @@ organizations:
 bio: Mathematician, statistician, programmer
 
 interests:
-  - Dependence modeling
-  - Nonparametric estimation
-  - Statistical learning
-  - Asymptotic theory
+  - High-dimensional dependence models
+  - Nonparametric estimation and statistical learning
+  - Synthetic data generation and simulation-based inference
   - Statistical computing
 
 education:
@@ -89,7 +88,7 @@ My research interest evolve mostly around high-dimensional dependence models,
 nonparametric estimation, and statistical learning. I invent new models and 
  methods, derive theoretical guarantees, develop efficient computational 
 algorithms, package them in [user-friendly software](software), and collaborate with domain 
-experts to solve real problems in diverse scientific areas.
+experts to solve problems in diverse scientific areas.
 
 I am passionate teacher dedicated to excellence in education and was elected  
 [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler) 
