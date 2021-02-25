@@ -23,14 +23,12 @@ indefinite time.
 ## Schedule
 
 
-**22-02-2021** |  Bart Eggen
-
-*Bayesian Sensitivity Analysis for Causal Inference*  
-
-When conducting causal inference, some assumptions are required to hold to perform valid data analysis. Some of these assumptions are difficult to test, while having a big impact on the results. This is why it is important to test the effect of varying these assumptions. This process is called sensitivity analysis. One method of obtaining a single outcome, without too many assumptions, is by using Bayesian methods and incorporating prior beliefs. We will discuss a semi-parametric model introduced by Scharfstein et. al. (2003) and will show two different parametrisations. In practice, one might have “better” prior beliefs for a certain parametrisation, so it is necessary to have guarantees in both frameworks. We will show three different semi-parametric Bernstein-von Mises theorems, which use either Dirichlet process priors or arbitrary priors with some extra assumptions.
-
-
 **01-03-2021** |   Marta Spreafico
+
+*Modelling longitudinal latent toxicity profiles evolution in osteosarcoma patients*  
+
+Due to the presence of multiple types of adverse events with different extents of toxicity burden, studying the toxicity evolution during chemotherapy is a challenging problem in cancer research. Statistical methods able to deal with the complexity of chemotherapy data considering both the longitudinal and the categorical aspects of toxicity levels progression are necessary, still not well developed. We will discuss a Latent Transition Analysis (LTA) procedure to identify and reconstruct the longitudinal latent profiles of toxicity evolution over time for each patient. The latent variables determining the progression of the observed toxicity levels can be thought of as the outcomes of an underlying latent process which may reflect patients’ quality-of-life. Data from MRC-BO06/EORTC-80931 randomised controlled trial for osteosarcoma patients are analysed. This approach represents a novelty for osteosarcoma treatment, providing new insights for childhood cancer.
+
 
 **08-03-2021** |  Thijs Bos
 

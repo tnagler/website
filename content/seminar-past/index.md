@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**22-02-2021** |  Bart Eggen  
+_Bayesian Sensitivity Analysis for Causal Inference_  
+
 **15-02-2021** | Laura Zwep
 
 **01-02-2021** |  Geerten Koers  
