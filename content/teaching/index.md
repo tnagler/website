@@ -41,10 +41,12 @@ header:
 
 #### Ongoing
 
-I am currently supervising 3 MSc students (Lotte Pater, Abed Razaway, Jasper Eggeraat).
+I am currently supervising 2 MSc students (Abed Razaway, Jasper Eggeraat).
 
 #### Completed
 
+Pater, L. (2021). The Auction Simulation Investigation: Price Prediction for
+Real-Time Bidding.
 Carmona Osorio, N. (2020). Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.  
 Matsakidis, P. (2020). Forecasting Age-Specific Mortality Rates Using Functional Data Analysis.  
 Krüger, D. (2018).  [General vine copula models for stationary multivariate time series.](http://mediatum.ub.tum.de/node?id=1445782)   
