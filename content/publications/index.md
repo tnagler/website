@@ -113,16 +113,16 @@ Book chapter in *High Performance Computing in Science and Engineering - on the 
 Möller, A., Spazzini, L., Kraus, D., **Nagler, T.**, Czado, C.  
 [Vine copula based post-processing of ensemble forecasts for temperature
 ](http://arxiv.org/abs/1811.02255)  
-*Working paper*
+*Research report*
 
 Schallhorn, N., Kraus, D., **Nagler, T.** and Czado, C.  
 [D-vine quantile regression with discrete variables](http://arxiv.org/abs/1705.08310)  
-*Working paper*
+*Research report*
 
 
 **Nagler, T.** (2018)  
 [Nonparametric estimation in simplified vine copula models](http://mediatum.ub.tum.de/node?id=1447138)  
-*Dissertation, Technical University of Munich* 
+*PhD thesis, Technical University of Munich* 
 
 **Nagler, T.** (2017)  
 [Comment on "A coupled stochastic rainfall-evapotranspiration model for
