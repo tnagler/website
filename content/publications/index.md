@@ -56,7 +56,7 @@ portfolio risk](https://arxiv.org/abs/1801.09739)
 *Journal of Multivariate Analysis, 172: 180-192* 
 [[doi]](https://doi.org/10.1016/j.jmva.2019.03.004)
 
-Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2018)  
+Jäger, W.S., **Nagler, T.**, Czado, C., McCall, R.T. (2019)  
 [A statistical simulation method for joint time series of non-stationary hourly wave parameters](http://arxiv.org/abs/1810.12389)   
 *Coastal Engineering, 146: 14-31* [[doi]](https://www.sciencedirect.com/science/article/pii/S0378383918301777)
 
