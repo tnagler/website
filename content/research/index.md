@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research
 date: "2020-08-14T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
