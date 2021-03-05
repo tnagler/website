@@ -16,6 +16,10 @@ header:
 
 ## Past meetings
 
+**01-03-2021** |   Marta Spreafico  
+_Modelling longitudinal latent toxicity profiles evolution in osteosarcoma patients_  
+
+
 **22-02-2021** |  Bart Eggen  
 _Bayesian Sensitivity Analysis for Causal Inference_  
 
