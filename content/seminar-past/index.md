@@ -16,6 +16,10 @@ header:
 
 ## Past meetings
 
+**08-03-2021** |  Thijs Bos   
+_Multi-classification and deep neural networks_  
+
+
 **01-03-2021** |   Marta Spreafico  
 _Modelling longitudinal latent toxicity profiles evolution in osteosarcoma patients_  
 

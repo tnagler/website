@@ -23,14 +23,8 @@ indefinite time.
 ## Schedule
 
 
-**08-03-2021** |  Thijs Bos
 
-*Multi-classification and deep neural networks*  
-
-Statistical theory for deep neural networks mainly focuses on regression. In practice neural networks are often used for classification tasks. We will discuss multi-classification and the cross-entropy loss induced by this model . This loss is commonly used in the training of neural networks for classification. We will provide convergence rates with respect to this loss for estimators based on deep neural networks.
-
-
-**15-03-2020** | Aad van der Vaart
+**15-03-2020** | *canceled*
 
 **22-03-2021** |  Valentina Masarotto
 
