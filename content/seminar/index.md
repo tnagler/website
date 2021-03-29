@@ -34,4 +34,4 @@ Starting from January 2020, new International Maritime Organisation (IMO) regula
 
 With S5P-TROPOMI satellite data, plumes produced by individual ships of substantial size can be visually detected. In this talk I will introduce AVES-oculuS project which aims at estimation of NO2/SO2 produced by seagoing vessels. I will show how measures of spatial autocorrelation can be used for an enhancement of satellite signal. I will further explain a heuristic algorithm that uses local weather conditions (wind speed/direction) for an efficient ship-plume matching and consequent estimation of NO2 concentration.
 
-**05-04-2021** |  Valentina Masarotto
+**12-04-2021** |  Valentina Masarotto
