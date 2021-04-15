@@ -52,7 +52,7 @@ header:
 
 #### Ongoing
 
-I am currently supervising 2 MSc students  (Abed Razaway, Jasper Eggeraat).
+I am currently supervising 2 MSc students  (Abed Razawy, Jasper Eggeraat).
 
 #### Completed
 
