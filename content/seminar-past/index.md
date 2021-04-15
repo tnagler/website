@@ -16,9 +16,11 @@ header:
 
 ## Past meetings
 
+**12-04-2021** |  Valentina Masarotto   
+_Optimal transport meets linguistics_
+
 **29-03-2021** |  Solomiia Kurchaba   
 _Automatic ship plume detection with S5P – TROPOMI satellite data_   
-
 
 **08-03-2021** |  Thijs Bos   
 _Multi-classification and deep neural networks_  
