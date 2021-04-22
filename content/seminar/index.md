@@ -22,16 +22,15 @@ indefinite time.
 
 ## Schedule
 
-
-
-**19-04-2021** |  Vera Arntzen   
-
 **26-04-2021** |  Maria Quelhas  
+
+**03-05-2021** | Richard Gill  
 
 **17-05-2021** |  Eni Musta  
 
 **24-05-2021** |  Elia Biganzoli  
 
+**31-05-2021** |  Amine Hadji   
 
 
 

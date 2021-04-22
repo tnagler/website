@@ -16,6 +16,9 @@ header:
 
 ## Past meetings
 
+**19-04-2021** |  Vera Arntzen   
+*Estimation of incubation and latency time distributions of Covid-19*   
+
 **12-04-2021** |  Valentina Masarotto   
 _Optimal transport meets linguistics_
 
