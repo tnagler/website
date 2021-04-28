@@ -16,6 +16,10 @@ header:
 
 ## Past meetings
 
+**26-04-2021** |  Maria Quelhas   
+_Multiple imputation for survival analysis with missing data and a cure fraction_   
+
+
 **19-04-2021** |  Vera Arntzen   
 *Estimation of incubation and latency time distributions of Covid-19*   
 
