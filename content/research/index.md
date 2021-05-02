@@ -17,8 +17,6 @@ header:
 
 ## Preprints
 
-Aas, K., **Nagler, T.**, Jullum, M., Løland, A.  
-[Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)
 
 **Nagler, T.**, Krüger, D., Min, A.  
 [Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
@@ -36,6 +34,15 @@ Meyer, D., **Nagler, T.**
 ----------
 
 ## Journal and conference papers
+
+Czado, C. and **Nagler, T.** (2021)  
+Vine copula based modeling    
+*Annual Review of Statistics and Its Application, to appear*
+
+Aas, K., **Nagler, T.**, Jullum, M., Løland, A.   (2021)  
+[Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)   
+*Dependence Modeling, to appear*
+
 
 **Nagler, T.**  (2021)  
 [R-friendly multi-threading in C++](https://www.jstatsoft.org/article/view/v097c01)  
