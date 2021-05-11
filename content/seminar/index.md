@@ -23,16 +23,12 @@ indefinite time.
 ## Schedule
 
 
-**03-05-2021** | Richard Gill  
-
-*How to gamble if you must: the d’Alembert system*   
-
-"The d’Alembert" is the name of a gambling system in which a player bets repeatedly at even house odds at a roulette table. According to the system, the player should increase her stake by one unit every time she loses and decrease it by one unit (as long as it does not thereby become zero) every time she wins. Her initial stake is one unit. The player must furthermore stop playing after a pre-chosen maximum number of rounds, or earlier if her capital falls below a pre-chosen threshhold. Harry Crane and Glenn Shafer (2020), in a preprint on [Researchers.one](https://researchers.one/) entitled “Risk is random: the magic of the d’Alembert”, conclude "By modestly increasing your bet after losses and modestly decreasing it after wins, you can assure a very high return with very high probability. Similar but more aggressive strategies can achieve even better results when you have more capital to risk."
-
-I will present a case-study connected to a criminal trial in which the prosecution brought a charge of money-laundering. I will discuss some of the theory, mention open problems, and present results of simulations and computations using “R”.
-
-
 **17-05-2021** |  Eni Musta  
+
+*Cure rate models: a presmoothing estimation approach*   
+
+Thanks to recent medical advances, many cancer patients are cured. Hence, it is crucial to evaluate a treatment focusing on cure and not only survival prolongation. What makes this problem statistically challenging is the unobserved cure status for patients who, because of censoring, have only been followed for a limited period after treatment.  Developed as an extension of classical survival analysis models, cure rate models can assess the cure chances and distinguish curative from life-prolonging effects. In this talk, I will provide an introduction of cure rate models, focusing on the most common logistic-Cox mixture cure model. Two estimation methods will be discussed: the maximum likelihood estimator, implemented in the R package smcure, and an approach based on presmoothing, proposed by Musta, Patilea and Van Keilegom (2020). The latter one is a two-stage procedure that can directly estimate a parametric cure probability without using any model assumption on the survival of the uncured patients. The advantages of this new approach with respect to the MLE will be discussed, supported by some simulation results. Practical use of cure models will be illustrated through applications to osteosarcoma and melanoma data. However, these methods are useful in other fields as well for analysing time-to-event data with an immune proportion of the population, e.g. fertility studies, equipment failure, credit scoring in economics.
+
 
 **24-05-2021** |  Elia Biganzoli  
 

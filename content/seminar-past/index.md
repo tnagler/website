@@ -16,9 +16,11 @@ header:
 
 ## Past meetings
 
+**03-05-2021** | Richard Gill  
+_How to gamble if you must: the d’Alembert system_   
+
 **26-04-2021** |  Maria Quelhas   
 _Multiple imputation for survival analysis with missing data and a cure fraction_   
-
 
 **19-04-2021** |  Vera Arntzen   
 *Estimation of incubation and latency time distributions of Covid-19*   
