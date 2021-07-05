@@ -21,11 +21,6 @@ header:
 **Nagler, T.**, Krüger, D., Min, A.  
 [Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
 
-Meyer, D., **Nagler, T.**, Hogan, R.J.  
-[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)
-
-Meyer, D., **Nagler, T.**  
-[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)
 
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
@@ -34,6 +29,14 @@ Meyer, D., **Nagler, T.**
 ----------
 
 ## Journal and conference papers
+
+Meyer, D., **Nagler, T.**, Hogan, R.J.  
+[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
+*Geoscientific Model Development, to appear*  
+
+Meyer, D., **Nagler, T.**  
+[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)
+*Journal of Open Source Software, to appear*
 
 Czado, C. and **Nagler, T.** (2021)  
 Vine copula based modeling    

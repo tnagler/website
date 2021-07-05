@@ -79,7 +79,8 @@ user_groups:
 
 I am Assistant Professor for Statistical Science at the [Mathematical
 Institute, Leiden
-University](https://www.universiteitleiden.nl/en/science/mathematics/statistical-science).
+University](https://www.universiteitleiden.nl/en/science/mathematics/statistical-science), 
+and will move to the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) per September 1st.
 In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the
 supervision of [Claudia
 Czado](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/).

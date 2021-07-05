@@ -52,7 +52,8 @@ header:
 
 #### Ongoing
 
-I am currently supervising 2 MSc students  (Abed Razawy, Jasper Eggeraat).
+I am currently supervising 3 MSc mathematics students  (Abed Razawy, 
+Jasper Eggeraat, Yifei Wang).
 
 #### Completed
 
