@@ -30,35 +30,36 @@ header:
 
 ## Journal and conference papers
 
-Meyer, D., **Nagler, T.**, Hogan, R.J.  
+Meyer, D., **Nagler, T.**, Hogan, R.J.  (202X)   
 [Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
 *Geoscientific Model Development, to appear*  
 
-Meyer, D., **Nagler, T.**  
-[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)
+Meyer, D., **Nagler, T.**  (202X)   
+[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)  
 *Journal of Open Source Software, to appear*
 
-Czado, C. and **Nagler, T.** (2021)  
-Vine copula based modeling    
+Czado, C. and **Nagler, T.** (202X)    
+[Vine copula based modeling](../vine-arisa.pdf)   
 *Annual Review of Statistics and Its Application, to appear*
 
 Aas, K., **Nagler, T.**, Jullum, M., Løland, A.   (2021)  
-[Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)   
-*Dependence Modeling, to appear*
+[Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)     
+*Dependence Modeling, 9:62--81* [[doi]](https://doi.org/10.1515/demo-2021-0103)
 
 
 **Nagler, T.**  (2021)  
 [R-friendly multi-threading in C++](https://www.jstatsoft.org/article/view/v097c01)  
-_Journal of Statistical Software, 97(c1)_  
+_Journal of Statistical Software, 97(c1)_  [[doi]](<https://www.jstatsoft.org/article/view/v097c01>)
+
 
 Vio, R., **Nagler, T.**, Andreani, P. (2020)   
 [Modeling high-dimensional dependence among astronomical data](https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html
 )  
-*Astronomy & Astrophysics, 642, A156*
+*Astronomy & Astrophysics, 642, A156* [[doi]](<https://www.aanda.org/articles/aa/abs/2020/10/aa38585-20/aa38585-20.html>)
 
 Eggersmann, T.K., Baumeister, P., Kumbringk, J., Mayr, D., Schmoeckel, E., Thaler, C.J., Dannecker, C.,  Jeschke, U., **Nagler, T.**, Mahner, S., Sharaf, K., and Gallwas, J.K.S. (2020)  
 [Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.](https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract)  
-*Anticancer Research, 40(4):2117-2123*
+*Anticancer Research, 40(4):2117-2123* [[doi]](<https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract>)
 
 **Nagler, T.**, Bumann, C., Czado, C. (2019)   
 [Model selection for sparse high-dimensional vine copulas with application to

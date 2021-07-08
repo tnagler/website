@@ -91,6 +91,6 @@ nonparametric estimation, and statistical learning. I invent new models and
 algorithms, package them in [user-friendly software](software), and collaborate with domain 
 experts to solve problems in diverse scientific areas.
 
-I am a passionate teacher and was elected  
+I am also passionate about teaching and was elected  
 [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler) 
-by the Faculty of Science.
+by the Faculty of Science at Leiden University.
