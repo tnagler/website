@@ -29,7 +29,7 @@ header:
 [Nonparametric statistical learning](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&pOrgNr=14178)  
 *TU Munich, Summer 2019*
 
-## Teaching assistant
+<!-- ## Teaching assistant
 
 [Analysis for computer scientists](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950369579)  
 *TU Munich, Winter 2018*   
@@ -46,20 +46,22 @@ header:
 [Mathematical introduction to neural networks](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=376)  
 *TU Munich, Winter 2016*    
 [Nonparametric statistical methods](https://www.ma.tum.de/Studium/AnsichtMasterDiplom?ID=326)  
-*TU Munich, Summer 2016*
+*TU Munich, Summer 2016* -->
 
 ## Supervision of MSc theses
 
 #### Ongoing
 
-I am currently supervising 3 MSc mathematics students  (Abed Razawy, 
-Jasper Eggeraat, Yifei Wang).
+I am currently supervising one MSc mathematics students (Yifei Wang).
 
 #### Completed
 
-Pater, L. (2021). The Auction Simulation Investigation: Price Prediction for Real-Time Bidding.  
-Carmona Osorio, N. (2020). Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.  
-Matsakidis, P. (2020). Forecasting Age-Specific Mortality Rates Using Functional Data Analysis.  
+
+Razawy, A. (2021). *Spline Based Estimation for Sufficient Dimension Reduction.*   
+van Egeraat, J. (2021). *Causal Inference using Marginal Structural Models: a retrospective analysis on a randomized osteosarcoma clinical trial.*   
+Pater, L. (2021). *The Auction Simulation Investigation: Price Prediction for Real-Time Bidding.*     
+Carmona Osorio, N. (2020). *Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.*   
+Matsakidis, P. (2020). *Forecasting Age-Specific Mortality Rates Using Functional Data Analysis.*   
 Krüger, D. (2018).  [General vine copula models for stationary multivariate time series.](http://mediatum.ub.tum.de/node?id=1445782)   
 Weber, R. (2018). [Value at Risk Estimation with Subset Simulation.](http://mediatum.ub.tum.de/node?id=1467381)    
 Jebabli, E. (2018). [Statistical methods for the objective assessment of subjective ratings of advanced driver assistance systems.](http://mediatum.ub.tum.de/node?id=1518877)   
