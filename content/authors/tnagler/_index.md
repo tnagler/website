@@ -23,8 +23,7 @@ bio: Mathematician, statistician, programmer
 interests:
   - High-dimensional dependence models
   - Nonparametric estimation and statistical learning
-  - Synthetic data generation and simulation-based inference
-  - Statistical computing
+  - Computational statistics and statistical computing
 
 education:
   courses:
