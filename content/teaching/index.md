@@ -52,7 +52,7 @@ header:
 
 #### Ongoing
 
-I am currently supervising one MSc mathematics students (Yifei Wang).
+I am currently supervising one MSc Mathematics student (Yifei Wang).
 
 #### Completed
 
