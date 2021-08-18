@@ -32,7 +32,7 @@ header:
 
 Meyer, D., **Nagler, T.**, Hogan, R.J.  (202X)   
 [Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
-*Geoscientific Model Development, to appear*  
+*Geoscientific Model Development 14(8):5205–5215*  [[doi]](https://gmd.copernicus.org/articles/14/5205/2021/)   
 
 Meyer, D., **Nagler, T.**  (202X)   
 [Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)  
