@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Leiden University
+- name: TU Delft
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,20 +76,12 @@ user_groups:
 - Visitors
 ---
 
-I am Assistant Professor for Statistical Science at the [Mathematical
-Institute, Leiden
-University](https://www.universiteitleiden.nl/en/science/mathematics/statistical-science), 
-and will move to the [Delft Institute of Applied Mathematics, TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) per September 1st.
-In 2018, I obtained a PhD in Mathematical Statistics from TU Munich under the
-supervision of [Claudia
-Czado](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/).
+I am currently Assistant Professor for Statistics at [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics).
+I obtained a PhD in Mathematical Statistics from TU Munich in 2018 and 
+was Assistant Professor at Leiden University from 2019 to 2021.
 
 My research interests evolve mostly around high-dimensional dependence models, 
-nonparametric estimation, and statistical learning. I invent new models and 
+nonparametric methods, and computational statistics. I invent new models and 
  methods, derive theoretical guarantees, develop efficient computational 
 algorithms, package them in [user-friendly software](software), and collaborate with domain 
 experts to solve problems in diverse scientific areas.
-
-I am also passionate about teaching and was elected  
-[Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler) 
-by the Faculty of Science at Leiden University.

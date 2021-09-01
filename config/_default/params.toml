@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Niels Bohrweg 1", city = "Leiden", region = "", postcode = "2333 CA", country = "The Netherlands", country_code = "NL"}
+address = {street = "Building 36, Mekelweg 4", city = "Delft", region = "", postcode = "2628 CD", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
