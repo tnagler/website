@@ -30,17 +30,17 @@ header:
 
 ## Journal and conference papers
 
-Meyer, D., **Nagler, T.**, Hogan, R.J.  (202X)   
-[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
-*Geoscientific Model Development 14(8):5205–5215*  [[doi]](https://gmd.copernicus.org/articles/14/5205/2021/)   
+Czado, C. and **Nagler, T.** (202X)    
+[Vine copula based modeling](../vine-arisa.pdf)   
+*Annual Review of Statistics and Its Application, to appear*
 
 Meyer, D., **Nagler, T.**  (202X)   
 [Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)  
 *Journal of Open Source Software, to appear*
 
-Czado, C. and **Nagler, T.** (202X)    
-[Vine copula based modeling](../vine-arisa.pdf)   
-*Annual Review of Statistics and Its Application, to appear*
+Meyer, D., **Nagler, T.**, Hogan, R.J.  (2021)   
+[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
+*Geoscientific Model Development 14(8):5205–5215*  [[doi]](https://gmd.copernicus.org/articles/14/5205/2021/)   
 
 Aas, K., **Nagler, T.**, Jullum, M., Løland, A.   (2021)  
 [Explaining predictive models using Shapley values and non-parametric vine copulas](https://arxiv.org/abs/2102.06416)     

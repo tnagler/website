@@ -20,9 +20,11 @@ header:
 
 ## Lectures
 
+[Calculus I for aerospace engineering](http://homepage.tudelft.nl/11r49/onderw0910/analyse1lr_en.html)   
+*TU Delft, Fall 2021*  
 [Advanced statistical computing](https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing)  
 *Leiden University, Fall 2020*  
-[Statistics for astronomy and physics  students I + II](https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1)  
+[Statistics for astronomy and physics students I + II](https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1)  
 *Leiden University, Fall 2020 [[notes]](../stan-2020.pdf)*   
 [Statistics for astronomy and physics students](https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students)  
 *Leiden University, Spring 2020 [\[notes\]](../stan-2020.pdf)*  
