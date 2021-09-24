@@ -34,9 +34,9 @@ Czado, C. and **Nagler, T.** (202X)
 [Vine copula based modeling](../vine-arisa.pdf)   
 *Annual Review of Statistics and Its Application, to appear*
 
-Meyer, D., **Nagler, T.**  (202X)   
-[Synthia: multidimensional synthetic data generation in Python](../synthia-paper.pdf)  
-*Journal of Open Source Software, to appear*
+Meyer, D., **Nagler, T.**  (2021)   
+[Synthia: multidimensional synthetic data generation in Python](https://joss.theoj.org/papers/10.21105/joss.02863)  
+*Journal of Open Source Software, 6(65), 2863* [[doi]](https://joss.theoj.org/papers/10.21105/joss.02863)
 
 Meyer, D., **Nagler, T.**, Hogan, R.J.  (2021)   
 [Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
