@@ -30,7 +30,7 @@ dependence measures and related independence tests
 [![PyPI version](https://badge.fury.io/py/pyvinecopulib.svg)](https://badge.fury.io/py/pyvinecopulib)
 [![Downloads](https://pepy.tech/badge/pyvinecopulib/month)](https://pepy.tech/project/pyvinecopulib/month)
 
-[Synthia](https://github.com/vinecopulib/pyvinecopulib): multidimensional synthetic data generation in Python  
+[Synthia](https://github.com/dmey/synthia): multidimensional synthetic data generation in Python  
 [![PyPI version](https://badge.fury.io/py/synthia.svg)](https://badge.fury.io/py/synthia)
 [![Downloads](https://pepy.tech/badge/synthia/month)](https://pepy.tech/project/synthia/month)
 
@@ -43,7 +43,7 @@ dependence measures and related independence tests
 C++  
 ![CRAN version](http://www.r-pkg.org/badges/version/RcppThread) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/RcppThread)
 
-[VineCopula](https://github.com/tnagler/VineCopula"):
+[VineCopula](https://github.com/tnagler/VineCopula):
 Statistical inference of vine copulas  
 ![CRAN version](http://www.r-pkg.org/badges/version/VineCopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/VineCopula)
 
