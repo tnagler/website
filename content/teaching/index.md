@@ -20,7 +20,9 @@ header:
 
 ## Lectures
 
-[Calculus I for aerospace engineering](http://homepage.tudelft.nl/11r49/onderw0910/analyse1lr_en.html)   
+Calculus for computer science and engineering  
+*TU Delft, Fall 2021*  
+Calculus I for aerospace engineering  
 *TU Delft, Fall 2021*  
 [Advanced statistical computing](https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing)  
 *Leiden University, Fall 2020*  
