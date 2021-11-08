@@ -18,9 +18,6 @@ header:
 ## Preprints
 
 
-**Nagler, T.**, Krüger, D., Min, A.  
-[Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)
-
 
 **Nagler, T.**, Vatter, T.  
 [Solving estimating equations with copulas](http://arxiv.org/abs/1801.10576)  
@@ -30,9 +27,13 @@ header:
 
 ## Journal and conference papers
 
+**Nagler, T.**, Krüger, D., Min, A. (202X)  
+[Stationary vine copula models for multivariate time series](https://arxiv.org/abs/2008.05990)  
+*Journal of Econometrics, to appear*
+
 Czado, C. and **Nagler, T.** (202X)    
 [Vine copula based modeling](../vine-arisa.pdf)   
-*Annual Review of Statistics and Its Application, to appear*
+*Annual Review of Statistics and Its Application, to appear* [[doi]](https://doi.org/10.1146/annurev-statistics-040220-101153)
 
 Meyer, D., **Nagler, T.**  (2021)   
 [Synthia: multidimensional synthetic data generation in Python](https://joss.theoj.org/papers/10.21105/joss.02863)  
