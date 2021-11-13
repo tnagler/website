@@ -17,10 +17,15 @@ header:
 ## C++
 
 [vinecopulib](https://github.com/vinecopulib/vinecopulib):
-A C++ library for vine copulas
+A C++ library for vine copulas  
+[![DOI](https://zenodo.org/badge/76354683.svg)](https://zenodo.org/badge/latestdoi/76354683)
+
+[tpool](https://github.com/tnagler/tpool): Easy-to-use, header-only work stealing thread pool in C++11.  
+[![DOI](https://zenodo.org/badge/427536398.svg)](https://zenodo.org/badge/latestdoi/427536398)
 
 [wdm](https://github.com/tnagler/wdm): Weighted
 dependence measures and related independence tests
+
 
 ------------------------------------------
 
@@ -29,11 +34,12 @@ dependence measures and related independence tests
 [pyvinecopulib](https://github.com/vinecopulib/pyvinecopulib): Python interface to the [vinecopulib](https://github.com/vinecopulib/vinecopulib) C++ library  
 [![PyPI version](https://badge.fury.io/py/pyvinecopulib.svg)](https://badge.fury.io/py/pyvinecopulib)
 [![Downloads](https://pepy.tech/badge/pyvinecopulib/month)](https://pepy.tech/project/pyvinecopulib/month)
+[![DOI](https://zenodo.org/badge/196999069.svg)](https://zenodo.org/badge/latestdoi/196999069)
 
 [Synthia](https://github.com/dmey/synthia): multidimensional synthetic data generation in Python  
 [![PyPI version](https://badge.fury.io/py/synthia.svg)](https://badge.fury.io/py/synthia)
 [![Downloads](https://pepy.tech/badge/synthia/month)](https://pepy.tech/project/synthia/month)
-
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.02863/status.svg)](https://doi.org/10.21105/joss.02863)
 
 ------------------------------------------
 
