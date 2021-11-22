@@ -20,8 +20,8 @@ header:
 A C++ library for vine copulas  
 [![DOI](https://zenodo.org/badge/76354683.svg)](https://zenodo.org/badge/latestdoi/76354683)
 
-<!-- [tpool](https://github.com/tnagler/tpool): Easy-to-use, header-only work stealing thread pool in C++11.  
-[![DOI](https://zenodo.org/badge/427536398.svg)](https://zenodo.org/badge/latestdoi/427536398) -->
+[quickpool](https://github.com/tnagler/quickpool): Easy-to-use, header-only work stealing thread pool in C++11.  
+[![DOI](https://zenodo.org/badge/427536398.svg)](https://zenodo.org/badge/latestdoi/427536398)
 
 [wdm](https://github.com/tnagler/wdm): Weighted
 dependence measures and related independence tests
