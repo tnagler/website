@@ -78,25 +78,25 @@ D-vine copula quantile regression
 ![CRAN version](http://www.r-pkg.org/badges/version/vinereg) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/vinereg
 )
 
-[eecop](https://github.com/tnagler/eecop):
+<!-- [eecop](https://github.com/tnagler/eecop):
 Copula based estimation equations  
-![CRAN version](http://www.r-pkg.org/badges/version/eecop) 
+![CRAN version](http://www.r-pkg.org/badges/version/eecop)  -->
 
 [VC2copula](https://github.com/tnagler/VC2copula"):
 Extend the 'copula' Package with models from 'VineCopula'  
 ![CRAN version](http://www.r-pkg.org/badges/version/VC2copula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/VC2copula)
 
-[kdevine](https://github.com/tnagler/kdevine):
+<!-- [kdevine](https://github.com/tnagler/kdevine):
 Multivariate kernel density estimation with vine copulas  
-![CRAN version](http://www.r-pkg.org/badges/version/kdevine) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/kdevine)
+![CRAN version](http://www.r-pkg.org/badges/version/kdevine) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/kdevine) -->
 
-[cctools](https://github.com/tnagler/cctools):
+<!-- [cctools](https://github.com/tnagler/cctools):
 Tools for continuous convolution in nonparametric estimation  
-![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools)
+![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools) -->
 
-[jdify](https://github.com/tnagler/jdify):
+<!-- [jdify](https://github.com/tnagler/jdify):
 Joint density classifiers  
-![CRAN version](http://www.r-pkg.org/badges/version/jdify)
+![CRAN version](http://www.r-pkg.org/badges/version/jdify) -->
 
 [gamCopula](https://github.com/tvatter/gamCopula):
 Generalized additive models for bivariate conditional dependence structures and vine copulas  
