@@ -56,7 +56,7 @@ Calculus I for aerospace engineering
 
 #### Ongoing
 
-I am currently supervising one MSc Mathematics student (Yifei Wang).
+I am currently supervising two MSc Mathematics students (Yifei Wang/University Leiden, Matthias Wenzel/TU Munich). 
 
 #### Completed
 
