@@ -20,16 +20,27 @@ header:
 
 ## Lectures
 
+Time Series  
+*TU Delft, Spring 2021*   
+
+Linear Algebra for computer science and engineering  
+*TU Delft, Spring 2021* 
+
 Calculus for computer science and engineering  
 *TU Delft, Fall 2021*  
+
 Calculus I for aerospace engineering  
 *TU Delft, Fall 2021*  
+
 [Advanced statistical computing](https://studiegids.universiteitleiden.nl/en/courses/97171/advanced-statistical-computing)  
 *Leiden University, Fall 2020*  
+
 [Statistics for astronomy and physics students I + II](https://studiegids.universiteitleiden.nl/en/courses/104509/statistics-an-part-1)  
 *Leiden University, Fall 2020 [[notes]](../stan-2020.pdf)*   
+
 [Statistics for astronomy and physics students](https://studiegids.universiteitleiden.nl/en/courses/81861/statistics-for-astronomy-and-physics-students)  
 *Leiden University, Spring 2020 [\[notes\]](../stan-2020.pdf)*  
+
 [Nonparametric statistical learning](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1621737&pOrgNr=14178)  
 *TU Munich, Summer 2019*
 
@@ -61,7 +72,7 @@ I am currently supervising two MSc Mathematics students (Yifei Wang/University L
 #### Completed
 
 
-Razawy, A. (2021). *Spline Based Estimation for Sufficient Dimension Reduction.*   
+Razawy, A. (2021). [Spline Based Estimation for Sufficient Dimension Reduction.](../razawy-suffdr.pdf)     
 van Egeraat, J. (2021). *Causal Inference using Marginal Structural Models: a retrospective analysis on a randomized osteosarcoma clinical trial.*   
 Pater, L. (2021). *The Auction Simulation Investigation: Price Prediction for Real-Time Bidding.*     
 Carmona Osorio, N. (2020). *Using Meta-Learning to Fit a Multivariate Distribution of Hyperparameters.*   
