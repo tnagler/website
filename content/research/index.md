@@ -29,7 +29,7 @@ header:
 
 **Nagler, T.**, Krüger, D., Min, A. (202X)  
 [Stationary vine copula models for multivariate time series](https://www.sciencedirect.com/science/article/pii/S0304407621003043)  
-*Journal of Econometrics, in press* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043)   
+*Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043)   
 
 Czado, C. and **Nagler, T.** (202X)    
 [Vine copula based modeling](../vine-arisa.pdf)   
