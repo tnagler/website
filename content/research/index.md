@@ -31,9 +31,9 @@ header:
 [Stationary vine copula models for multivariate time series](https://www.sciencedirect.com/science/article/pii/S0304407621003043)  
 *Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043)   
 
-Czado, C. and **Nagler, T.** (202X)    
-[Vine copula based modeling](../vine-arisa.pdf)   
-*Annual Review of Statistics and Its Application, to appear* [[doi]](https://doi.org/10.1146/annurev-statistics-040220-101153)
+Czado, C. and **Nagler, T.** (2022)    
+[Vine copula based modeling](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153)   
+*Annual Review of Statistics and Its Application 9, pp. 453-477* [[doi]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153)
 
 Meyer, D., **Nagler, T.**  (2021)   
 [Synthia: multidimensional synthetic data generation in Python](https://joss.theoj.org/papers/10.21105/joss.02863)  
