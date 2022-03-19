@@ -40,7 +40,7 @@ Meyer, D., **Nagler, T.**  (2021)
 *Journal of Open Source Software, 6(65), 2863* [[doi]](https://joss.theoj.org/papers/10.21105/joss.02863)
 
 Meyer, D., **Nagler, T.**, Hogan, R.J.  (2021)   
-[Copula-based synthetic data generation for machine learning emulators in weather and climate: application to a simple radiation model](https://arxiv.org/abs/2012.09037)  
+[Copula-based synthetic data augmentation for machine learning emulators](https://arxiv.org/abs/2012.09037)  
 *Geoscientific Model Development 14(8):5205–5215*  [[doi]](https://gmd.copernicus.org/articles/14/5205/2021/)   
 
 Aas, K., **Nagler, T.**, Jullum, M., Løland, A.   (2021)  
