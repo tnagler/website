@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Mathematician, statistician, programmer
 
-interests:
-  - High-dimensional dependence models
-  - Nonparametric estimation and statistical learning
-  - Computational statistics and statistical computing
+# interests:
+#   - High-dimensional dependence models
+#   - Nonparametric estimation and statistical learning
+#   - Computational statistics and statistical computing
 
-education:
-  courses:
-  - course: PhD Mathematical Statistics
-    institution: Technical University of Munich
-    year: 2018
-  - course: MSc Mathematical Finance and Actuarial Sciences
-    institution: Technical University of Munich
-    year: 2014
-  - course: BSc Mathematics
-    institution: Technical University of Munich
-    year: 2012
+# education:
+#   courses:
+#   - course: PhD Mathematical Statistics
+#     institution: Technical University of Munich
+#     year: 2018
+#   - course: MSc Mathematical Finance and Actuarial Sciences
+#     institution: Technical University of Munich
+#     year: 2014
+#   - course: BSc Mathematics
+#     institution: Technical University of Munich
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,12 +76,22 @@ user_groups:
 - Visitors
 ---
 
-I am currently Assistant Professor for Statistics at [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics).
-I obtained a PhD in Mathematical Statistics from TU Munich in 2018 and 
-was Assistant Professor at Leiden University from 2019 to 2021.
+I am currently Assistant Professor for Statistics at the Delft Institute of Applied Mathematics, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics). In Spring 2022, I will move to the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), as Professor for Computational Statistics & Data Science (W2).
 
-My research interests evolve mostly around high-dimensional dependence models, 
-nonparametric methods, and computational statistics. I invent new models and 
- methods, derive theoretical guarantees, develop efficient computational 
-algorithms, package them in [user-friendly software](software), and collaborate with domain 
-experts to solve problems in diverse scientific areas.
+
+## Research interests 
+  - High-dimensional dependence models
+  - Nonparametric estimation and statistical learning
+  - Time series and functional data
+  - Computational statistics and statistical computing
+
+
+## Short CV
+
+|             |                                           |
+|-------------|-------------------------------------------|
+| 2021 - 2022 | *Assistant Professor* (TU Delft)          |
+| 2019 - 2021 | *Assistant Professor* (Leiden University) |
+| 2018 - 2019 | *PostDoc* (TU Munich)                     |
+| 2014 - 2018 | *PhD Mathematical Statistics* (TU Munich) |
+| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       |
