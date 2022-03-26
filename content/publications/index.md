@@ -30,7 +30,7 @@ T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://
 
 T. Nagler, D. Krüger, A. Min.
 Stationary vine copula models for multivariate time series.
-*Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) 
+*Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&pid=1-s2.0-S0304407621003043-main.pdf)  [[supplement]](https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf)
 
 C. Czado, T. Nagler.
 Vine copula based modeling.
