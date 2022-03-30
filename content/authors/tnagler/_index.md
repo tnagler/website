@@ -76,14 +76,13 @@ user_groups:
 - Visitors
 ---
 
-I am currently Assistant Professor for Statistics at the Delft Institute of Applied Mathematics, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics). In Spring 2022, I will move to the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), as Professor for Computational Statistics & Data Science (W2).
+I am currently Assistant Professor for Statistics at the Delft Institute of Applied Mathematics, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics). In April 2022, I will move to the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), as Professor for Computational Statistics & Data Science.
 
 
 ## Research interests 
   - High-dimensional dependence models
   - Nonparametric estimation and statistical learning
   - Time series and functional data
-  - Computational statistics and statistical computing
 
 
 ## Short CV
