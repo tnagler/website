@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Professor for Computational Statistics & Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: TU Delft
+- name: "Department of Statistics, LMU Munich"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,9 +54,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1855-0046
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/1266549
+# - icon: publons
+#   icon_pack: ai
+#   link: https://publons.com/author/1266549
 - icon: github
   icon_pack: fab
   link: https://github.com/tnagler
@@ -76,19 +76,21 @@ user_groups:
 - Visitors
 ---
 
-I am currently Assistant Professor for Statistics at the Delft Institute of Applied Mathematics, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/statistics). In April 2022, I will move to the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), as Professor for Computational Statistics & Data Science.
+<!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
 
 
 ## Research interests 
   - High-dimensional dependence models
   - Nonparametric estimation and statistical learning
   - Time series and functional data
+  - Statistical computing and software
 
 
-## Short CV
+## CV
 
 |             |                                           |
 |-------------|-------------------------------------------|
+| 2022/04 -   | *Professor* (LMU Munich)          |
 | 2021 - 2022 | *Assistant Professor* (TU Delft)          |
 | 2019 - 2021 | *Assistant Professor* (Leiden University) |
 | 2018 - 2019 | *PostDoc* (TU Munich)                     |

@@ -19,6 +19,10 @@ header:
 
 ## Courses
 
+#### LMU Munich (2022-)
+
+- Methoden der linearen Algebra in der Statistik
+
 #### TU Delft (2021-2022)
 
 - Time Series   

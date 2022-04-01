@@ -93,11 +93,15 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Building 36, Mekelweg 4", city = "Delft", region = "", postcode = "2628 CD", country = "The Netherlands", country_code = "NL"}
+address = {street = "Akademiestr. 7, Room 311", city = "Munich", region = "", postcode = "80799", country = "Germany", country_code = "DE"}
+
+# Institut für Statistik / Department of Statistics
+# Ludwig-Maximilians-Universität München/ LMU Munich
+# Akademiestr. 7, OG 03 311 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "48.1525", longitude = "11.5803"}
 
 # Directions for visitors to locate you.
 directions = ""
