@@ -70,7 +70,7 @@ Univariate kernel density estimators for bounded and discrete data
 
 [svines](https://github.com/tnagler/svines):
 Stationary vine copula models for multivariate time series
-<!-- ![CRAN version](http://www.r-pkg.org/badges/version/svines)  -->
+![CRAN version](http://www.r-pkg.org/badges/version/svines) 
 
 [vinereg](https://github.com/tnagler/vinereg):
 D-vine copula quantile regression  

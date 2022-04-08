@@ -14,7 +14,7 @@ role: Professor for Computational Statistics & Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: "Department of Statistics, LMU Munich"
+- name: "LMU Munich"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -78,6 +78,11 @@ user_groups:
 
 <!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
 
+I am Professor for Computational Statistics & Data Science at the [Department of Statistics, LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html). 
+
+I received a doctorate in mathematical statistics from [TU Munich](https://www.ma.tum.de/en) in 2018, and  was Assistant Professor at [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021) and [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022).
+
+My research lies at the intersection of mathematical and computational statistics. I develop statistical methods, derive theoretical guarantees and scalable algorithms, package them in user-friendly software, and collaborate with domain experts on applications in diverse areas.
 
 ## Research interests 
   - High-dimensional dependence models
@@ -86,7 +91,7 @@ user_groups:
   - Statistical computing and software
 
 
-## CV
+<!-- ## CV
 
 |             |                                           |
 |-------------|-------------------------------------------|
@@ -95,4 +100,4 @@ user_groups:
 | 2019 - 2021 | *Assistant Professor* (Leiden University) |
 | 2018 - 2019 | *PostDoc* (TU Munich)                     |
 | 2014 - 2018 | *PhD Mathematical Statistics* (TU Munich) |
-| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       |
+| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       | -->

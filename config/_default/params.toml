@@ -89,11 +89,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mail@tnagler.com"
-phone = ""
+phone = "+49 89 2180 73413"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Akademiestr. 7, Room 311", city = "Munich", region = "", postcode = "80799", country = "Germany", country_code = "DE"}
+address = {street = "Akademiestr. 7", city = "Munich", region = "", postcode = "80799", country = "Germany", country_code = "DE"}
 
 # Institut für Statistik / Department of Statistics
 # Ludwig-Maximilians-Universität München/ LMU Munich
@@ -104,7 +104,7 @@ address = {street = "Akademiestr. 7, Room 311", city = "Munich", region = "", po
 coordinates = {latitude = "48.1525", longitude = "11.5803"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Room 311 (3rd floor)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
