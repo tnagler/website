@@ -15,13 +15,14 @@ header:
 
 ## Awards
 
-[Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler), *Faculty of Science, Leiden University*
+<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
+Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 ## Courses
 
 #### LMU Munich (2022-)
 
-- Methoden der linearen Algebra in der Statistik
+- Methoden der Linearen Algebra in der Statistik
 
 #### TU Delft (2021-2022)
 
@@ -33,12 +34,12 @@ header:
 
 #### Leiden University (2019-2021)
 
-- Advanced statistical computing    
-- Statistics for astronomy and physics students [[notes]](../stan-2020.pdf)   
+- Advanced Statistical Computing    
+- Statistics for Astronomy and Physics students [[notes]](../stan-2020.pdf)   
 
 #### TU Munich (2019)
 
-- Nonparametric statistical learning  
+- Nonparametric Statistical Learning  
 <!-- - TA for several courses and seminars -->
 
 ## Supervision

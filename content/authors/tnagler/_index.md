@@ -15,7 +15,7 @@ role: Professor for Computational Statistics & Data Science
 # Organizations/Affiliations
 organizations:
 - name: "LMU Munich"
-  url: ""
+  url: https://www.en.statistik.uni-muenchen.de/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mathematician, statistician, programmer
@@ -78,11 +78,10 @@ user_groups:
 
 <!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
 
-I am Professor for Computational Statistics & Data Science at the [Department of Statistics, LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html). 
+I am currently Professor for Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/). 
+Previously, I served as Assistant Professor for Statistics at [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022) and [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021), after graduating from my alma mater, [TU Munich](https://www.ma.tum.de/en) (2018). 
 
-I received a doctorate in mathematical statistics from [TU Munich](https://www.ma.tum.de/en) in 2018, and  was Assistant Professor at [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021) and [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022).
-
-My research lies at the intersection of mathematical and computational statistics. I develop statistical methods, derive theoretical guarantees and scalable algorithms, package them in user-friendly software, and collaborate with domain experts on applications in diverse areas.
+My research is at the intersection of mathematical and computational statistics. I develop statistical methods, derive theoretical guarantees and scalable algorithms, package them in user-friendly software, and collaborate with domain experts to solve problems in diverse areas.
 
 ## Research interests 
   - High-dimensional dependence models
@@ -91,13 +90,14 @@ My research lies at the intersection of mathematical and computational statistic
   - Statistical computing and software
 
 
-<!-- ## CV
-
-|             |                                           |
+<!-- ## CV -->
+<!-- 
+|             |                                         |
 |-------------|-------------------------------------------|
 | 2022/04 -   | *Professor* (LMU Munich)          |
 | 2021 - 2022 | *Assistant Professor* (TU Delft)          |
 | 2019 - 2021 | *Assistant Professor* (Leiden University) |
 | 2018 - 2019 | *PostDoc* (TU Munich)                     |
 | 2014 - 2018 | *PhD Mathematical Statistics* (TU Munich) |
-| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       | -->
+| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       |
+ -->
