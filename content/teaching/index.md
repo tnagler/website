@@ -35,7 +35,7 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 #### Leiden University (2019-2021)
 
 - Advanced Statistical Computing    
-- Statistics for Astronomy and Physics students [[notes]](../stan-2020.pdf)   
+- Statistics for Astronomy and Physics students [[lecture notes]](../stan-2020.pdf)   
 
 #### TU Munich (2019)
 
