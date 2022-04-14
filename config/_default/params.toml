@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Thomas Nagler"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Thomas Nagler"
+description = "Thomas Nagler's website"
 
 ############################
 ## Site Features

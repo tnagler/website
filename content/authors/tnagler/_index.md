@@ -89,15 +89,3 @@ My research is at the intersection of mathematical and computational statistics.
   - Time series and functional data
   - Statistical computing and software
 
-
-<!-- ## CV -->
-<!-- 
-|             |                                         |
-|-------------|-------------------------------------------|
-| 2022/04 -   | *Professor* (LMU Munich)          |
-| 2021 - 2022 | *Assistant Professor* (TU Delft)          |
-| 2019 - 2021 | *Assistant Professor* (Leiden University) |
-| 2018 - 2019 | *PostDoc* (TU Munich)                     |
-| 2014 - 2018 | *PhD Mathematical Statistics* (TU Munich) |
-| 2009 - 2014 | *BSc + MSc Mathematics* (TU Munich)       |
- -->
