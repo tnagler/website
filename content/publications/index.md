@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: "2020-08-14T00:00:00Z"
+date: "2022-04-29T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
