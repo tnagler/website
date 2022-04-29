@@ -14,7 +14,7 @@ header:
 ---
 
 
-I have openings for **PhD candidates** starting August 2022 or as soon as possible thereafter. Topics are in high-dimensional statistics and machine learning. 
+I have openings for **PhD candidates** starting August 2022 or as soon as possible thereafter. Possible topics are in high-dimensional statistics and machine learning. 
 
 ### Tasks
   * Research at the intersection of mathematical and computational statistics
