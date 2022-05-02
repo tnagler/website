@@ -28,6 +28,10 @@ T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://
 
 #### 2022
 
+T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone. 
+A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. 
+*Remote Sensing Applications: Society and Environment*, 26 [[doi]](https://doi.org/10.1016/j.rsase.2022.100733) [[pdf]](https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf)
+
 T. Nagler, D. Krüger, A. Min.
 Stationary vine copula models for multivariate time series. 
 *Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&pid=1-s2.0-S0304407621003043-main.pdf)  [[suppl.]](https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf)
