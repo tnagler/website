@@ -22,7 +22,7 @@ I have openings for **PhD candidates** starting August 2022 or as soon as possib
   * Teaching assistance for courses in mathematics and statistics
       
 ### Requirements
-  * Strong mathematical background (MSc in mathematics, statistics, or similar)
+  * Strong mathematical background (MSc in mathematics or comparable)
   * Keen interest in theoretical and computational aspects of statistics
   * Good programming skills in R, Python, or C++
   * Excellent spoken and written English
@@ -40,4 +40,4 @@ Interested candidates can apply via [email](mailto:nagler@stat.uni-muenchen.de) 
 
 Women and candidates from underrepresented groups are especially encouraged to apply. People with disabilities who are equally qualified as other applicants will receive preferential treatment.
 
-The application **deadline is May 22, 2022**. Only shortlisted candidates  get notified.
+The application **deadline is May 29, 2022**. Only shortlisted candidates  get notified.
