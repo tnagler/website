@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Vacancies
 date: "2022-04-29T00:00:00Z"
 
@@ -40,4 +40,4 @@ Interested candidates can apply via [email](mailto:nagler@stat.uni-muenchen.de) 
 
 Women and candidates from underrepresented groups are especially encouraged to apply. People with disabilities who are equally qualified as other applicants will receive preferential treatment.
 
-The application **deadline is May 29, 2022**. Only shortlisted candidates  get notified.
+The application **deadline is May 22, 2022**. Only shortlisted candidates  get notified. -->
