@@ -78,7 +78,7 @@ user_groups:
 
 <!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
 
-I am Professor of Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator for Statistical Foundations of Machine Learning at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
+I am Professor of Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
 
 Previously, I held positions as assistant professor at [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022) and [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021), after graduating from my alma mater [TU Munich](https://www.ma.tum.de/en) in 2018. 
 
