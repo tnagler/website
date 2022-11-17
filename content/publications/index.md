@@ -21,6 +21,9 @@ header:
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://arxiv.org/abs/1801.10576)  
 
+K. Lotto, T. Nagler, M. Radic.
+Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving.
+[[pdf]](http://arxiv.org/abs/2210.13117) 
 
 ----------
 
@@ -28,9 +31,9 @@ T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://
 
 #### 2022
 
-T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone. 
-A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. 
-*Remote Sensing Applications: Society and Environment*, 26 [[doi]](https://doi.org/10.1016/j.rsase.2022.100733) [[pdf]](https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf)
+C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
+Vine copula based dependence modeling in sustainable finance.
+*The Journal of Finance and Data Science* (in press) [[doi]](https://doi.org/10.1016/j.jfds.2022.11.003) [[pdf]](https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&originRegion=eu-west-1&originCreation=20221117161144)
 
 T. Nagler, D. Krüger, A. Min.
 Stationary vine copula models for multivariate time series. 
@@ -39,6 +42,12 @@ Stationary vine copula models for multivariate time series.
 C. Czado, T. Nagler.
 Vine copula based modeling. 
 *Annual Review of Statistics and Its Application 9, pp. 453-477* [[doi]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153) [[pdf]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153)
+
+T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone. 
+A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. 
+*Remote Sensing Applications: Society and Environment*, 26 [[doi]](https://doi.org/10.1016/j.rsase.2022.100733) [[pdf]](https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf)
+
+
 
 #### 2021
 
