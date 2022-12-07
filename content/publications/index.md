@@ -33,11 +33,11 @@ Modeling Stochastic Data Using Copulas For Application in Validation of Autonomo
 
 C. Czado, K. Bax, Ö. Sahin, T. Nagler, A. Min, S. Paterlini.
 Vine copula based dependence modeling in sustainable finance.
-*The Journal of Finance and Data Science* (in press) [[doi]](https://doi.org/10.1016/j.jfds.2022.11.003) [[pdf]](https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&originRegion=eu-west-1&originCreation=20221117161144)
+*The Journal of Finance and Data Science, 8:309.-330* [[doi]](https://doi.org/10.1016/j.jfds.2022.11.003) [[pdf]](https://reader.elsevier.com/reader/sd/pii/S2405918822000162?token=E8BFC7734FEAFD473AB3B49A88D7AEE3AC94D5D7446909CF12D61785F5DFB6F1A4479A2D3786AA7A5A8EB2C209E8B574&originRegion=eu-west-1&originCreation=20221117161144)
 
 T. Nagler, D. Krüger, A. Min.
 Stationary vine copula models for multivariate time series. 
-*Journal of Econometrics, 227(2), pp. 305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&pid=1-s2.0-S0304407621003043-main.pdf)  [[suppl.]](https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf)
+*Journal of Econometrics, 227(2):305-324* [[doi]](https://www.sciencedirect.com/science/article/pii/S0304407621003043) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304407621003043/pdfft?md5=e36d67f4b050cf9813f5fdbe51578b08&pid=1-s2.0-S0304407621003043-main.pdf)  [[suppl.]](https://ars.els-cdn.com/content/image/1-s2.0-S0304407621003043-mmc1.pdf)
 
 C. Czado, T. Nagler.
 Vine copula based modeling. 
