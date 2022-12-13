@@ -21,9 +21,6 @@ header:
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://arxiv.org/abs/1801.10576)  
 
-K. Lotto, T. Nagler, M. Radic.
-Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving.
-[[pdf]](http://arxiv.org/abs/2210.13117) 
 
 ----------
 
@@ -42,6 +39,9 @@ Stationary vine copula models for multivariate time series.
 C. Czado, T. Nagler.
 Vine copula based modeling. 
 *Annual Review of Statistics and Its Application 9, pp. 453-477* [[doi]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153) [[pdf]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153)
+
+K. Lotto, T. Nagler, M. Radic.
+Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. *Electronics, 11(24):4154* [[doi]](https://www.mdpi.com/2079-9292/11/24/4154) [[pdf]](https://www.mdpi.com/2079-9292/11/24/4154/pdf) 
 
 T. Nguyen-Huy, J. Kath, T. Nagler, Y. Khaung, T.S.S. Aung, S. Mushtaq, T. Marcussen, R. Stone. 
 A satellite-based Standardized Antecedent Precipitation Index (SAPI) for mapping extreme rainfall risk in Myanmar. 
