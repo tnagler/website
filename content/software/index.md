@@ -56,10 +56,6 @@ Statistical inference of vine copulas
 R interface to the [vinecopulib](https://github.com/vinecopulib/vinecopulib) C++ library  
 <!-- ![CRAN version](http://www.r-pkg.org/badges/version/rvinecopulib) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/rvinecopulib) -->
 
-[kdecopula](https://github.com/tnagler/kdecopula):
-Kernel smoothing for bivariate copula densities  
-<!-- ![CRAN version](http://www.r-pkg.org/badges/version/kdecopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kdecopula) -->
-
 [wdm](https://github.com/tnagler/wdm-r): Weighted
 dependence measures and related independence tests
 <!-- ![CRAN version](http://www.r-pkg.org/badges/version/wdm) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/wdm) -->
@@ -67,6 +63,10 @@ dependence measures and related independence tests
 [kde1d](https://github.com/tnagler/kde1d):
 Univariate kernel density estimators for bounded and discrete data
 <!-- ![CRAN version](http://www.r-pkg.org/badges/version/kde1d) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kde1d) -->
+
+[kdecopula](https://github.com/tnagler/kdecopula):
+Kernel smoothing for bivariate copula densities  
+<!-- ![CRAN version](http://www.r-pkg.org/badges/version/kdecopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kdecopula) -->
 
 [svines](https://github.com/tnagler/svines):
 Stationary vine copula models for multivariate time series
@@ -88,9 +88,9 @@ Extend the 'copula' Package with models from 'VineCopula'
 Multivariate kernel density estimation with vine copulas  
 <!-- ![CRAN version](http://www.r-pkg.org/badges/version/kdevine) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/kdevine) -->
 
-<!-- [cctools](https://github.com/tnagler/cctools):
+[cctools](https://github.com/tnagler/cctools):
 Tools for continuous convolution in nonparametric estimation  
-![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools) -->
+<!-- ![CRAN version](http://www.r-pkg.org/badges/version/cctools) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/cctools) -->
 
 <!-- [jdify](https://github.com/tnagler/jdify):
 Joint density classifiers  
@@ -98,4 +98,3 @@ Joint density classifiers
 
 [gamCopula](https://github.com/tvatter/gamCopula):
 Generalized additive models for bivariate conditional dependence structures and vine copulas  
-<!-- ![CRAN version](http://www.r-pkg.org/badges/version/gamCopula) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/gamCopula) -->
