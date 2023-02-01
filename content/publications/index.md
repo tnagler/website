@@ -18,13 +18,17 @@ header:
 ## Preprints
 
 
+T. Nagler. Statistical foundations of prior-data fitted
+networks. [[pdf]](../pfn-theory.pdf)  
 
-T. Nagler, T. Vatter. Solving estimating equations with copulas. [[pdf]](http://arxiv.org/abs/1801.10576)  
+
+## Journal and conference papers 
+
+#### 2023
 
 
-----------
+T. Nagler, T. Vatter. Solving estimating equations with copulas. *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576)  
 
-## Journal and conference papers
 
 #### 2022
 
