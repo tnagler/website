@@ -27,7 +27,7 @@ networks. [[pdf]](../pfn-theory.pdf)
 #### 2023
 
 
-T. Nagler, T. Vatter. Solving estimating equations with copulas. *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576)  
+T. Nagler, T. Vatter. Solving estimating equations with copulas. *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
 
 
 #### 2022
