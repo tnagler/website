@@ -22,6 +22,7 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 #### LMU Munich (2022-)
 
+- Statistical Learning Theory
 - Fortgeschrittene Mathematische Methoden in der Statistik
 - Methoden der Linearen Algebra in der Statistik [[Skript]](../linalg-2022.pdf)
 
