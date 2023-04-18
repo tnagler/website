@@ -13,18 +13,17 @@ header:
   image: ""
 ---
 
-## Awards
 
-<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
-Teacher of the Year 2020, *Faculty of Science, Leiden University*
-
-## Courses
+## Current courses
 
 #### LMU Munich (2022-)
 
-- Statistical Learning Theory
-- Fortgeschrittene Mathematische Methoden in der Statistik
-- Methoden der Linearen Algebra in der Statistik [[Skript]](../linalg-2022.pdf)
+- Statistical Learning Theory (Summer)
+- Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2022]](../linalg-2022.pdf)
+- Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
+
+
+## Past courses
 
 #### TU Delft (2021-2022)
 
@@ -43,6 +42,11 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 - Nonparametric Statistical Learning  
 <!-- - TA for several courses and seminars -->
+
+## Awards
+
+<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
+Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 ## Thesis supervision
 
