@@ -15,16 +15,10 @@ header:
 
 
 
-## Preprints
-
+#### 2023
 
 T. Nagler. Statistical foundations of prior-data fitted
-networks. [[pdf]](../pfn-theory.pdf)  
-
-
-## Journal and conference papers 
-
-#### 2023
+networks. *ICML 2023 (accepted)* [[preprint]](../pfn-theory.pdf)  
 
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas. *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
@@ -123,27 +117,6 @@ kdecopula: An R package for the kernel estimation of copula densities.
 *Journal of Statistical Software, 48(7)* 
 [[doi]](https://www.jstatsoft.org/article/view/v084i07) [[pdf]](hhttps://www.jstatsoft.org/index.php/jss/article/view/v084i07/1211) 
 
-#### 2017
-
-T. Nagler, Schellhase, C. and C. Czado.
-Nonparametric estimation of simplified vine copula models: comparison of methods.
-*Dependence Modeling, 5:99-120* 
-[[doi]](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml) [[pdf]](https://www.degruyter.com/document/doi/10.1515/demo-2017-0007/pdf)
-
-#### 2016
-
-T. Nagler. C. Czado.
-Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas.
-*Journal of Multivariate Analysis, 151:69-89* 
-[[doi]](http://www.sciencedirect.com/science/article/pii/S0047259X16300471)  [[pdf]](https://arxiv.org/abs/1503.03305)  
-
-
-----------
-
-## Other
-
-#### 2018
-
 C. Czado, D. Müller, T. Nagler. 
 Dependence modelling in ultra high dimensions with vine copulas.   
 Book chapter in *High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018* [[pdf]](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf) 
@@ -161,8 +134,15 @@ T. Nagler.
 Nonparametric estimation in simplified vine copula models.
 *PhD thesis, Technical University of Munich* [[pdf]](http://mediatum.ub.tum.de/node?id=1447138)  
 
-
 #### 2017
+
+
+
+T. Nagler, Schellhase, C. and C. Czado.
+Nonparametric estimation of simplified vine copula models: comparison of methods.
+*Dependence Modeling, 5:99-120* 
+[[doi]](https://www.degruyter.com/view/j/demo.2017.5.issue-1/demo-2017-0007/demo-2017-0007.xml) [[pdf]](https://www.degruyter.com/document/doi/10.1515/demo-2017-0007/pdf)
+
 
 T. Nagler.
 Comment on "A coupled stochastic rainfall-evapotranspiration model for
@@ -172,6 +152,14 @@ hydrological impact analysis" by Minh Tu Pham et al.
 
 A. Kreuzer, T. Nagler, C. Czado. Heavy tailed spatial autocorrelation models.
 *Research report* [[pdf]](https://arxiv.org/abs/1707.03165)
+
+
+#### 2016
+
+T. Nagler. C. Czado.
+Evading the curse of dimensionality in nonparametric density estimation with simplified vine copulas.
+*Journal of Multivariate Analysis, 151:69-89* 
+[[doi]](http://www.sciencedirect.com/science/article/pii/S0047259X16300471)  [[pdf]](https://arxiv.org/abs/1503.03305)  
 
 
 #### 2014
