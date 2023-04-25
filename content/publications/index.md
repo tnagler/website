@@ -96,7 +96,7 @@ Stochastic simulation of test collections: evaluation scores.
 
 L. Höhndorf, T. Nagler, P. Koppitz, C. Czado, F. Holzapfel. 
 Statistical dependence analyses of operational flight data used for landing reconstruction enhancement.
- *The 22nd Air Transport Research Society World Conference*
+ *The 22nd Air Transport Research Society World Conference* (ATRS 2018) [[pdf]](https://arxiv.org/pdf/2206.09809.pdf)
 
 T. Vatter and T. Nagler.
 Generalized additive models for pair-copula constructions.
