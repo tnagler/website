@@ -17,9 +17,12 @@ header:
 
 #### 2023
 
-T. Nagler. Statistical foundations of prior-data fitted
-networks. *ICML 2023 (accepted)* [[preprint]](../pfn-theory.pdf)  
+J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
+Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023), accepted* [[preprint]](https://arxiv.org/abs/2302.08883)  
 
+
+T. Nagler. Statistical foundations of prior-data fitted
+networks. *The 40th International Conference on Machine Learning (ICML 2023), accepted* [[preprint]](../pfn-theory.pdf)  
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas. *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
 
