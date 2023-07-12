@@ -18,7 +18,7 @@ header:
 
 #### LMU Munich (2022-)
 
-- Statistical Learning Theory (Summer)
+- Statistical Learning Theory (Summer) [[notes 2023]](../slt-2023.pdf)
 - Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2022]](../linalg-2022.pdf)
 - Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
 
