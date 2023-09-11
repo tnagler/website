@@ -22,7 +22,7 @@ Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Unce
 
 
 T. Nagler. Statistical foundations of prior-data fitted
-networks. *The 40th International Conference on Machine Learning (ICML 2023)* [[pdf]](https://arxiv.org/abs/2305.11097)  
+networks. *Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202:25660-25676, 2023.* [[pdf]](https://arxiv.org/abs/2305.11097)  [[doi]](https://proceedings.mlr.press/v202/nagler23a.html)
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas.
 *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)

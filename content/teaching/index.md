@@ -50,7 +50,7 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 ## Thesis supervision
 
-I have supervised several MSc theses in mathematics and statistics (15 completed). 
+I have supervised several student theses in mathematics and statistics (15 completed, 3 current). 
 
 LMU students interested in a project with me may send an email with a recent transcript and indication of their interests. 
 
