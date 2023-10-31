@@ -22,6 +22,9 @@ header:
 - Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2023]](../linalg-2023.pdf)
 - Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
 
+#### University of Lausanne (2023)
+
+- Actuarial Data Science
 
 ## Past courses
 

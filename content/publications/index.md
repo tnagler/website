@@ -17,6 +17,10 @@ header:
 
 #### 2023
 
+N. Palm, T. Nagler. 
+An Online Bootstrap for Time Series. *preprint*
+[[pdf]](https://arxiv.org/abs/2310.19683)
+
 J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
 Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)* [[pdf]](https://arxiv.org/abs/2302.08883)  
 
