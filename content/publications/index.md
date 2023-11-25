@@ -21,6 +21,9 @@ N. Palm, T. Nagler.
 An Online Bootstrap for Time Series. *preprint*
 [[pdf]](https://arxiv.org/abs/2310.19683)
 
+L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling. 
+*Clinical Pharmacology & Therapeutics.* [[pdf]](https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099)  [[doi]](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3099)
+
 J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
 Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)* [[pdf]](https://arxiv.org/abs/2302.08883)  
 
