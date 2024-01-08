@@ -17,6 +17,8 @@ header:
 
 #### 2023
 
+Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. *preprint* [[pdf]](https://arxiv.org/abs/2401.00276)
+
 N. Palm, T. Nagler. 
 An Online Bootstrap for Time Series. *preprint*
 [[pdf]](https://arxiv.org/abs/2310.19683)
