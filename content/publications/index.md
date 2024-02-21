@@ -13,22 +13,22 @@ header:
   image: ""
 ---
 
+## 2024
+
+N. Palm, T. Nagler.
+An Online Bootstrap for Time Series. *AISTATS (accepted)*
+[[pdf]](https://arxiv.org/abs/2310.19683)
 
 
 #### 2023
 
 Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. *preprint* [[pdf]](https://arxiv.org/abs/2401.00276)
 
-N. Palm, T. Nagler. 
-An Online Bootstrap for Time Series. *preprint*
-[[pdf]](https://arxiv.org/abs/2310.19683)
-
 L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling. 
 *Clinical Pharmacology & Therapeutics.* [[pdf]](https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099)  [[doi]](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3099)
 
 J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
 Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)* [[pdf]](https://arxiv.org/abs/2302.08883)  
-
 
 T. Nagler. Statistical foundations of prior-data fitted
 networks. *Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202:25660-25676, 2023.* [[pdf]](https://arxiv.org/abs/2305.11097)  [[doi]](https://proceedings.mlr.press/v202/nagler23a.html)
