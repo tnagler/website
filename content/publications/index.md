@@ -25,7 +25,7 @@ An Online Bootstrap for Time Series. *AISTATS (accepted)*
 Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. *preprint* [[pdf]](https://arxiv.org/abs/2401.00276)
 
 L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hasselt. Virtual Patient Simulation Using Copula Modeling. 
-*Clinical Pharmacology & Therapeutics.* [[pdf]](https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099)  [[doi]](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3099)
+*Clinical Pharmacology & Therapeutics.* [[pdf]](https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099)  [[doi]](https://doi.org/10.1002/cpt.3099)
 
 J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
 Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)* [[pdf]](https://arxiv.org/abs/2302.08883)  
@@ -49,7 +49,7 @@ Stationary vine copula models for multivariate time series.
 
 C. Czado, T. Nagler.
 Vine copula based modeling. 
-*Annual Review of Statistics and Its Application 9, pp. 453-477* [[doi]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153) [[pdf]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153)
+*Annual Review of Statistics and Its Application 9, pp. 453-477* [[doi]](http://www.annualreviews.org/eprint/DMMEJGSBDRJ8NQIM3CVY/full/10.1146/annurev-statistics-040220-101153) [[pdf]](../vine-arisa.pdf)
 
 K. Lotto, T. Nagler, M. Radic.
 Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving. *Electronics, 11(24):4154* [[doi]](https://www.mdpi.com/2079-9292/11/24/4154) [[pdf]](https://www.mdpi.com/2079-9292/11/24/4154/pdf) 
