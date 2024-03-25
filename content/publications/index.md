@@ -19,6 +19,7 @@ N. Palm, T. Nagler.
 An Online Bootstrap for Time Series. *AISTATS (accepted)*
 [[pdf]](https://arxiv.org/abs/2310.19683)
 
+D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *preprint* [[pdf]](https://arxiv.org/abs/2403.10923)
 
 #### 2023
 
