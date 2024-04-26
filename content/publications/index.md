@@ -13,13 +13,18 @@ header:
   image: ""
 ---
 
-## 2024
+#### 2024
+
+Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
+*The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
+[[pdf]](../686_label_wise_aleatoric_and_epist.pdf)
 
 N. Palm, T. Nagler.
-An Online Bootstrap for Time Series. *AISTATS (accepted)*
+An Online Bootstrap for Time Series. *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
 [[pdf]](https://arxiv.org/abs/2310.19683)
 
-D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *preprint* [[pdf]](https://arxiv.org/abs/2403.10923)
+D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923)
+
 
 #### 2023
 
@@ -29,10 +34,10 @@ L. Zwep. T. Guo, T. Nagler, C. A.J. Knibbe, J. J. Meulman, J. G. Coen van Hassel
 *Clinical Pharmacology & Therapeutics.* [[pdf]](https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.3099)  [[doi]](https://doi.org/10.1002/cpt.3099)
 
 J. Rodemann, J. Goschenhofer, E. Dorigatti, T. Nagler, T. Augustin. 
-Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)* [[pdf]](https://arxiv.org/abs/2302.08883)  
+Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](https://arxiv.org/abs/2302.08883)  
 
 T. Nagler. Statistical foundations of prior-data fitted
-networks. *Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202:25660-25676, 2023.* [[pdf]](https://arxiv.org/abs/2305.11097)  [[doi]](https://proceedings.mlr.press/v202/nagler23a.html)
+networks. *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023.* [[pdf]](https://arxiv.org/abs/2305.11097)  [[doi]](https://proceedings.mlr.press/v202/nagler23a.html)
 
 T. Nagler, T. Vatter. Solving estimating equations with copulas.
 *Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
