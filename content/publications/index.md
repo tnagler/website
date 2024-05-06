@@ -15,6 +15,10 @@ header:
 
 #### 2024
 
+D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
+Generalizing Orthogonalization for Models with Non-linearities.
+*The 41st International Conference on Machine Learning (ICML)*. [[pdf]](../generalizing-ortho.pdf)
+
 Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
 *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
 [[pdf]](../686_label_wise_aleatoric_and_epist.pdf)
