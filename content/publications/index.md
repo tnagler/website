@@ -15,6 +15,10 @@ header:
 
 #### 2024
 
+T. Nagler, L. Schneider, B. Bischl, M. Feurer. 
+Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. *preprint*
+[[pdf]](https://arxiv.org/abs/2405.15393)
+
 D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
 Generalizing Orthogonalization for Models with Non-linearities.
 *The 41st International Conference on Machine Learning (ICML)*. [[pdf]](../generalizing-ortho.pdf)
