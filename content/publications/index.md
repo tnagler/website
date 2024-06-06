@@ -16,16 +16,16 @@ header:
 #### 2024
 
 T. Nagler, L. Schneider, B. Bischl, M. Feurer. 
-Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. *preprint*
+Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. *Preprint*
 [[pdf]](https://arxiv.org/abs/2405.15393)
 
 D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
 Generalizing Orthogonalization for Models with Non-linearities.
-*The 41st International Conference on Machine Learning (ICML)*. [[pdf]](../generalizing-ortho.pdf)
+*The 41st International Conference on Machine Learning (ICML)*. [[pdf]](https://arxiv.org/abs/2405.02475)
 
 Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise Aleatoric and Epistemic Uncertainty Quantification.
 *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
-[[pdf]](../686_label_wise_aleatoric_and_epist.pdf)
+[[pdf]](http://arxiv.org/abs/2406.02354)
 
 N. Palm, T. Nagler.
 An Online Bootstrap for Time Series. *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
