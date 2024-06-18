@@ -19,6 +19,11 @@ T. Nagler, L. Schneider, B. Bischl, M. Feurer.
 Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. *Preprint*
 [[pdf]](https://arxiv.org/abs/2405.15393)
 
+
+N. Palm, T. Nagler.
+An Online Bootstrap for Time Series. *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
+[[pdf]](https://arxiv.org/abs/2310.19683)
+
 D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
 Generalizing Orthogonalization for Models with Non-linearities.
 *The 41st International Conference on Machine Learning (ICML)*. [[pdf]](https://arxiv.org/abs/2405.02475)
@@ -27,14 +32,14 @@ Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise 
 *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
 [[pdf]](http://arxiv.org/abs/2406.02354)
 
-N. Palm, T. Nagler.
-An Online Bootstrap for Time Series. *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
-[[pdf]](https://arxiv.org/abs/2310.19683)
-
 D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923)
 
 
 #### 2023
+
+T. Nagler, T. Vatter. Solving estimating equations with copulas.
+*Journal of the American Statistical Association* 119(546), 1168–1180. [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
+
 
 Y. Sale, P. Hofman, L. Wimmer, E. Hüllermeier, T. Nagler. Second-Order Uncertainty Quantification: Variance-Based Measures. *preprint* [[pdf]](https://arxiv.org/abs/2401.00276)
 
@@ -47,8 +52,6 @@ Approximately Bayes-Optimal Pseudo Label Selection. *The 39th Conference on Unce
 T. Nagler. Statistical foundations of prior-data fitted
 networks. *Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202:25660-25676, 2023.* [[pdf]](https://arxiv.org/abs/2305.11097)  [[doi]](https://proceedings.mlr.press/v202/nagler23a.html)
 
-T. Nagler, T. Vatter. Solving estimating equations with copulas.
-*Journal of the American Statistical Association (to appear)* [[pdf]](http://arxiv.org/abs/1801.10576) [[doi]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
 
 
 #### 2022
