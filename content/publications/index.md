@@ -15,6 +15,10 @@ header:
 
 #### 2024
 
+J. Herbinger, M. Wright, T. Nagler, B. Bischl, G. Casalicchio.
+Decomposing Global Feature Effects Based on Feature Interactions. *Preprint*
+[[pdf]](https://arxiv.org/abs/2306.00541)
+
 T. Nagler, L. Schneider, B. Bischl, M. Feurer. 
 Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization. *Preprint*
 [[pdf]](https://arxiv.org/abs/2405.15393)
