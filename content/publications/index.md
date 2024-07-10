@@ -26,7 +26,7 @@ Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optim
 
 N. Palm, T. Nagler.
 An Online Bootstrap for Time Series. *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
-[[pdf]](https://arxiv.org/abs/2310.19683)
+[[pdf]](https://arxiv.org/abs/2310.19683) [[doi]](https://proceedings.mlr.press/v238/palm24a.html)
 
 D. Rügamer, C. Kolb, T. Weber, L. Kook, T. Nagler.
 Generalizing Orthogonalization for Models with Non-linearities.
@@ -36,7 +36,7 @@ Y. Sale, P. Hofman, T. Löhr, L. Wimmer, T. Nagler, E. Hüllermeier. Label-wise 
 *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
 [[pdf]](http://arxiv.org/abs/2406.02354)
 
-D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923)
+D. Rundel, J. Kobialka, C. von Crailsheim, M. Feurer, T. Nagler, D. Rügamer. Interpretable Machine Learning for TabPFN. *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923) [[dois]](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_23)
 
 
 #### 2023
