@@ -18,15 +18,36 @@ header:
 
 #### LMU Munich (2022-)
 
-- Statistical Learning Theory (Summer) [[notes 2023]](../slt-2023.pdf)
-- Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2023]](../linalg-2023.pdf)
+- Mathematical Statistics (Winter)
 - Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
+- Statistical Learning Theory (Summer) [[notes 2024]](../slt-2024.pdf)
+- Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2024]](../linalg-2024.pdf)
+
+
+## Thesis supervision
+
+LMU students interested in a thesis with me may send an email with a recent transcript and indication of their interests. 
+
+
+#### Highlights
+
+A. Razawy: [Spline Based Estimation for Sufficient Dimension Reduction](../razawy-suffdr.pdf)    
+D. Krüger:  [General vine copula models for stationary multivariate time series](https://mediatum.ub.tum.de/node?id=1554813)   
+R. Weber: [Value at Risk Estimation with Subset Simulation](http://mediatum.ub.tum.de/node?id=1467381)    
+A. Kreuzer:  [Analysing the spatial dependency among fire danger indices](https://mediatum.ub.tum.de/node?id=1338821)  
+A. Brauer:  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
+
+
+## Awards
+
+<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
+Teacher of the Year 2020, *Faculty of Science, Leiden University*
+
+## Past courses
 
 #### University of Lausanne (2023)
 
 - Actuarial Data Science
-
-## Past courses
 
 #### TU Delft (2021-2022)
 
@@ -45,22 +66,3 @@ header:
 
 - Nonparametric Statistical Learning  
 <!-- - TA for several courses and seminars -->
-
-## Awards
-
-<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
-Teacher of the Year 2020, *Faculty of Science, Leiden University*
-
-## Thesis supervision
-
-I have supervised several student theses in mathematics and statistics (15 completed, 3 current). 
-
-LMU students interested in a project with me may send an email with a recent transcript and indication of their interests. 
-
-#### Highlights
-
-A. Razawy: [Spline Based Estimation for Sufficient Dimension Reduction](../razawy-suffdr.pdf)    
-D. Krüger:  [General vine copula models for stationary multivariate time series](https://mediatum.ub.tum.de/node?id=1554813)   
-R. Weber: [Value at Risk Estimation with Subset Simulation](http://mediatum.ub.tum.de/node?id=1467381)    
-A. Kreuzer:  [Analysing the spatial dependency among fire danger indices](https://mediatum.ub.tum.de/node?id=1338821)  
-A. Brauer:  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
