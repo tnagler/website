@@ -16,20 +16,40 @@ header:
 
 ## Current courses
 
-#### LMU Munich (2022-)
-
 - Mathematical Statistics (Winter)
 - Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
 - Statistical Learning Theory (Summer) [[notes 2024]](../slt-2024.pdf)
 - Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2024]](../linalg-2024.pdf)
 
 
+## Lecture notes
+
+- [Statistical Learning Theory](../slt-2024.pdf)
+- [Lineare Algebra](../slt-2024.pdf)
+- [Statistics for Astronomy and Physics students](../stan-2020.pdf)
+
+## Awards
+
+<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
+Teacher of the Year 2020, *Faculty of Science, Leiden University*
+
 ## Thesis supervision
 
-LMU students interested in a thesis with me may send an email with a recent transcript and indication of their interests. 
+My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group's primary interest is in developing and understanding statistical methods and models. Here's a non-exhaustive list of areas of particular interest:
 
+* Copulas and other dependence models
+* Functional data analysis
+* Time series
+* Probabilistic machine learning
+* Statistical learning theory
+* Bootstrap, cross-validation, and other resampling methods
+* Multi-objective optimization
 
-#### Highlights
+Of course, theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.
+
+Interested LMU students may send an email with a recent transcript and indication of their interests. 
+
+#### Past highlights
 
 A. Razawy: [Spline Based Estimation for Sufficient Dimension Reduction](../razawy-suffdr.pdf)    
 D. Krüger:  [General vine copula models for stationary multivariate time series](https://mediatum.ub.tum.de/node?id=1554813)   
@@ -38,12 +58,10 @@ A. Kreuzer:  [Analysing the spatial dependency among fire danger indices](https:
 A. Brauer:  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
 
 
-## Awards
 
-<!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
-Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
-## Past courses
+
+<!-- ## Past courses
 
 #### University of Lausanne (2023)
 
@@ -65,4 +83,4 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 #### TU Munich (2019)
 
 - Nonparametric Statistical Learning  
-<!-- - TA for several courses and seminars -->
+- TA for several courses and seminars -->
