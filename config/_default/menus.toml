@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Team"
+  url = "/team"
+  weight = 15
+
+[[main]]
   name = "Publications"
   url = "/publications"
   weight = 20
@@ -22,6 +27,7 @@
   name = "Teaching"
   url = "/teaching"
   weight = 40
+
 
 # [[main]]
 #  name = "Vacancies"
