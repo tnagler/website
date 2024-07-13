@@ -42,15 +42,15 @@ bio: Mathematician, statistician, programmer
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:mail@tnagler.com
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mail@tnagler.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tZR1rZoAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Thomas_Nagler
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Thomas_Nagler
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1855-0046
@@ -78,11 +78,13 @@ user_groups:
 
 <!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
 
+
 I am Professor of Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
 
 Previously, I held positions as assistant professor at [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022) and [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021), after graduating from my alma mater [TU Munich](https://www.ma.tum.de/en) in 2018. 
 
 My research is at the intersection of mathematical and computational statistics. I develop statistical methods, derive theoretical guarantees and scalable algorithms, package them in user-friendly software, and collaborate with domain experts to solve problems in diverse areas.
+
 
 ## Research interests 
   - High-dimensional dependence models

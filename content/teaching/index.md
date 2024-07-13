@@ -14,6 +14,7 @@ header:
 ---
 
 
+
 ## Current courses
 
 - Mathematical Statistics (Winter)
@@ -21,17 +22,21 @@ header:
 - Statistical Learning Theory (Summer) [[notes 2024]](../slt-2024.pdf)
 - Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2024]](../linalg-2024.pdf)
 
+---
 
 ## Lecture notes
 
 - [Statistical Learning Theory](../slt-2024.pdf)
 - [Lineare Algebra](../slt-2024.pdf)
 - [Statistics for Astronomy and Physics students](../stan-2020.pdf)
+---
 
 ## Awards
 
 <!-- [Teacher of the Year 2020](https://www.universiteitleiden.nl/science-talents-and-discoveries/teacher-of-the-year-award/thomas-nagler),  -->
 Teacher of the Year 2020, *Faculty of Science, Leiden University*
+
+---
 
 ## Thesis supervision
 

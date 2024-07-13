@@ -23,6 +23,8 @@ Nagler, Schneider, Bischl, and Feurer.
 **Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.** 
 [[pdf]](https://arxiv.org/abs/2405.15393)
 
+---
+
 #### 2024
 
 Palm and Nagler.
@@ -43,6 +45,7 @@ Rundel, Kobialka, von Crailsheim, Feurer, Nagler, and Rügamer.
 **Interpretable Machine Learning for TabPFN.** 
 *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923) [[doi]](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_23)
 
+---
 
 #### 2023
 
@@ -69,6 +72,7 @@ Sale, Hofman, Wimmer, Hüllermeier, and Nagler.
 **Second-Order Uncertainty Quantification: Variance-Based Measures.** 
 *Research report* [[pdf]](https://arxiv.org/abs/2401.00276)
 
+---
 
 #### 2022
 
@@ -94,7 +98,7 @@ Nguyen-Huy, Kath, Nagler, Khaung, Aung, Mushtaq, Marcussen, and Stone.
 *Remote Sensing Applications: Society and Environment*, 26 [[doi]](https://doi.org/10.1016/j.rsase.2022.100733) [[pdf]](https://pure.tudelft.nl/ws/files/117912721/1_s2.0_S2352938522000416_main.pdf)
 
 
-
+---
 #### 2021
 
 Meyer, Nagler, and Hogan. 
@@ -113,7 +117,7 @@ Meyer and Nagler.
 **Synthia: multidimensional synthetic data generation in Python.** 
 *Journal of Open Source Software, 6(65), 2863* [[doi]](https://joss.theoj.org/papers/10.21105/joss.02863) [[pdf]](https://joss.theoj.org/papers/10.21105/joss.02863) 
 
-
+---
 #### 2020
 
 Vio, Nagler, and Andreani. 
@@ -124,6 +128,7 @@ Eggersmann,  Baumeister, Kumbringk, Mayr, Schmoeckel, Thaler, Dannecker, Jeschke
 **Oropharyngeal HPV Detection Techniques in HPV-associated Head and Neck Cancer Patients.**
 *Anticancer Research, 40(4):2117-2123* [[doi]](<https://www.ncbi.nlm.nih.gov/pubmed/32234904?dopt=Abstract>)
 
+---
 #### 2019
 
 Nagler, Bumann, and Czado. 
@@ -135,6 +140,7 @@ Jäger, Nagler, Czado, and McCall.
 **A statistical simulation method for joint time series of non-stationary hourly wave parameters.**
 *Coastal Engineering, 146: 14-31* [[doi]](https://www.sciencedirect.com/science/article/pii/S0378383918301777) [[pdf]](http://arxiv.org/abs/1810.12389) 
 
+---
 #### 2018
 
 Urbano and Nagler.
@@ -181,6 +187,7 @@ Nagler.
 **Nonparametric estimation in simplified vine copula models.**
 *PhD thesis, Technical University of Munich* [[pdf]](http://mediatum.ub.tum.de/node?id=1447138)  
 
+---
 #### 2017
 
 Nagler, Schellhase, and Czado.
@@ -197,7 +204,7 @@ hydrological impact analysis" by Minh Tu Pham et al.**
 Kreuzer, Nagler, and Czado. **Heavy tailed spatial autocorrelation models.**
 *Research report* [[pdf]](https://arxiv.org/abs/1707.03165)
 
-
+---
 #### 2016
 
 Nagler and Czado.
@@ -206,6 +213,7 @@ Nagler and Czado.
 [[doi]](http://www.sciencedirect.com/science/article/pii/S0047259X16300471)  [[pdf]](https://arxiv.org/abs/1503.03305)  
 
 
+---
 #### 2014
 
 Nagler. 

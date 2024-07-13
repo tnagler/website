@@ -16,22 +16,25 @@ header:
 
 ## PhD researchers
 
-### Nicolai Palm 
+--- 
+
+#### Nicolai Palm 
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="website" width="17"/>](https://nicolaipalm.github.io/) 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.de/citations?user=yLb7pfYAAAAJ&hl=de) 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/nicolaipalm)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="email" width="17"/>](mailto:n.palm@lmu.de)
 
-Nico holds a BSc and MSc in Mathematics from the University of Regensburg, where he focused on algebraic topology and category theory. He is now working on bootstrap methods and limit theorems for non-stationary time series.
+Nico holds a BSc and MSc in Mathematics from the University of Regensburg. He is  working on bootstrap methods and limit theorems for non-stationary time series.
 
-### Jana Gauß  
 
+#### Jana Gauß
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" alt="scholar" width="17"/>](https://scholar.google.com/citations?hl=en&user=gJ0vhXwAAAAJ) 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/JanaGauss)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="email" width="17"/>](mailto:jana.gauss@stat.uni-muenchen.de)
 
 Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statistical inference of high-dimensional parameters, with applications to copula models and functional data.
+
 
 #### Hannah Schulz-Kümpel  
 
@@ -42,7 +45,10 @@ Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statis
 
 Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on Bayesian Inference, interpretable ML, meta-analysis & reporting methods, and open science.
 
+
 ## Student assistants
+
+---
 
 * Eugen Gorich
 * Mila Pfander
