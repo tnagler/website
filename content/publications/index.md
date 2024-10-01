@@ -16,7 +16,7 @@ header:
 #### Preprints
 
 Herbinger, Wright, Nagler, Bischl, and Casalicchio.
-**Decomposing Global Feature Effects Based on Feature Interactions.** 
+**Decomposing global feature effects based on feature interactions.** 
 [[pdf]](https://arxiv.org/abs/2306.00541)
 
 ---
@@ -24,25 +24,25 @@ Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 #### 2024
 
 Nagler, Schneider, Bischl, and Feurer. 
-**Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.** 
+**Reshuffling resampling splits can improve generalization of hyperparameter optimization.** 
 *(accepted at NeurIPS 2024)* [[pdf]](https://arxiv.org/abs/2405.15393)
 
 Palm and Nagler.
-**An Online Bootstrap for Time Series.** 
+**An online bootstrap for time series.** 
 *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)*
 [[pdf]](https://arxiv.org/abs/2310.19683) [[doi]](https://proceedings.mlr.press/v238/palm24a.html)
 
 Rügamer, Kolb, Weber, Kook, and Nagler.
-**Generalizing Orthogonalization for Models with Non-linearities.**
+**Generalizing orthogonalization for models with non-linearities.**
 *The 41st International Conference on Machine Learning (ICML)*. [[pdf]](https://arxiv.org/abs/2405.02475)
 
 Sale, Hofman, Löhr, Wimmer, Nagler, and Hüllermeier. 
-**Label-wise Aleatoric and Epistemic Uncertainty Quantification.**
+**Label-wise aleatoric and epistemic uncertainty quantification.**
 *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*
 [[pdf]](http://arxiv.org/abs/2406.02354)
 
 Rundel, Kobialka, von Crailsheim, Feurer, Nagler, and Rügamer. 
-**Interpretable Machine Learning for TabPFN.** 
+**Interpretable machine learning for TabPFN.** 
 *The 2nd World Conference on eXplainable Artificial Intelligence (XAI)* [[pdf]](https://arxiv.org/abs/2403.10923) [[doi]](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_23)
 
 ---
