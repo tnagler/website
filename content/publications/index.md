@@ -19,13 +19,13 @@ Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 **Decomposing Global Feature Effects Based on Feature Interactions.** 
 [[pdf]](https://arxiv.org/abs/2306.00541)
 
-Nagler, Schneider, Bischl, and Feurer. 
-**Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.** 
-[[pdf]](https://arxiv.org/abs/2405.15393)
-
 ---
 
 #### 2024
+
+Nagler, Schneider, Bischl, and Feurer. 
+**Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization.** 
+*(accepted at NeurIPS 2024)* [[pdf]](https://arxiv.org/abs/2405.15393)
 
 Palm and Nagler.
 **An Online Bootstrap for Time Series.** 
