@@ -20,15 +20,15 @@ header:
 - Mathematical Statistics (Winter)
 - Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
 - Seminar: Theoretical Foundations of Deep Learning (Winter)
-- Statistical Learning Theory (Summer) [[notes 2024]](../slt-2024.pdf)
-- Methoden der Linearen Algebra in der Statistik  (Summer) [[notes 2024]](../linalg-2024.pdf)
+- Statistical Learning Theory (Summer)
+- Methoden der Linearen Algebra in der Statistik  (Summer) 
 
 ---
 
 ## Lecture notes
 
 - [Statistical Learning Theory](../slt-2024.pdf)
-- [Lineare Algebra](../slt-2024.pdf)
+- [Lineare Algebra](../linalg-2024.pdf)
 - [Statistics for Astronomy and Physics students](../stan-2020.pdf)
 ---
 
