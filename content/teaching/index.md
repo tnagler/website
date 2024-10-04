@@ -49,7 +49,6 @@ My group is supervising theses at both BSc and MSc levels, on a wide range of to
 * Probabilistic machine learning
 * Statistical learning theory
 * Bootstrap, cross-validation, and other resampling methods
-* Multi-objective optimization
 
 Of course, theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.
 
