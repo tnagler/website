@@ -16,7 +16,7 @@ header:
 #### Preprints
 
 Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
-**Constructing Confidence Intervals for 'the' Generalization Error -- a Comprehensive Benchmark Study** [[pdf]](https://arxiv.org/abs/2409.18836)
+**Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study** [[pdf]](https://arxiv.org/abs/2409.18836)
 
 
 Herbinger, Wright, Nagler, Bischl, and Casalicchio.
