@@ -15,6 +15,10 @@ header:
 
 #### Preprints
 
+Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
+**Constructing Confidence Intervals for 'the' Generalization Error -- a Comprehensive Benchmark Study** [[pdf]](https://arxiv.org/abs/2409.18836)
+
+
 Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 **Decomposing global feature effects based on feature interactions.** 
 [[pdf]](https://arxiv.org/abs/2306.00541)
