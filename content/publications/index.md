@@ -29,7 +29,11 @@ Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 
 Nagler, Schneider, Bischl, and Feurer. 
 **Reshuffling resampling splits can improve generalization of hyperparameter optimization.** 
-*(accepted at NeurIPS 2024)* [[pdf]](https://arxiv.org/abs/2405.15393)
+*Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)* [[pdf]](https://arxiv.org/abs/2405.15393)
+
+Koshil, Nagler, Feurer, and Eggensperger.
+**Towards localization via data embedding for TabPFN.** *NeurIPS Table Representation Learning Workshop*
+[[pdf]](https://openreview.net/forum?id=LFyQyV5HxQ#discussion)
 
 Palm and Nagler.
 **An online bootstrap for time series.** 
