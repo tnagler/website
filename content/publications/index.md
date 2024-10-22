@@ -15,6 +15,10 @@ header:
 
 #### Preprints
 
+Funk, Ludwig, Kuechenhoff, and Nagler.
+**Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas** [[pdf]](https://arxiv.org/abs/2410.15931)
+
+
 Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study** [[pdf]](https://arxiv.org/abs/2409.18836)
 
