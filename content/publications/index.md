@@ -15,6 +15,10 @@ header:
 
 #### Preprints
 
+Nagler. **Simplified vine copula models: state of science and affairs.**
+[[pdf]](https://arxiv.org/abs/2410.16806)
+
+
 Funk, Ludwig, Kuechenhoff, and Nagler.
 **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas** [[pdf]](https://arxiv.org/abs/2410.15931)
 
