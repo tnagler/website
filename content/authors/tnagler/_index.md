@@ -76,8 +76,6 @@ user_groups:
 - Visitors
 ---
 
-<!-- I am Professor for Computational Statistics & Data Science at the Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html), and affiliated with the [Munich Center for Machine Learning](https://mcml.ai/). -->
-
 
 I am Professor of Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
 
@@ -92,3 +90,13 @@ My research is at the intersection of mathematical and computational statistics.
   - Time series and functional data
   - Statistical computing and software
 
+
+
+
+<!-- ## Bio -->
+
+<!-- Thomas Nagler is a Professor of Computational Statistics & Data Science at the Department of Statistics, LMU Munich, and a principal investigator at the Munich Center for Machine Learning (MCML).
+
+Previously, he held positions as an assistant professor at TU Delft and Leiden University, following a PhD in Mathematical Statistics from TU Munich.
+
+His research lies at the intersection of mathematical and computational statistics. His group develops statistical methods, establishes theoretical guarantees, and designs scalable algorithms, which are packaged into user-friendly software. He also regularly collaborates with domain experts to tackle challenges in diverse application areas. -->
