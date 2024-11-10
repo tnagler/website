@@ -46,12 +46,9 @@ Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statis
 
 Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on Bayesian Inference, interpretable ML, meta-analysis & reporting methods, and open science.
 
----
+<!-- --- -->
 
-## Student assistants
+<!-- ## Student assistants
 
 
-
-* Eugen Gorich
-* Mila Pfander
-
+* Eugen Gorich -->
