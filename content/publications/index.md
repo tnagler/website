@@ -16,7 +16,7 @@ header:
 #### Preprints
 
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
-[[pdf]](../asymptotics-diverging.pdf)
+[[pdf]](https://arxiv.org/abs/2411.17395)
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
 [[pdf]](https://arxiv.org/abs/2410.16806)
