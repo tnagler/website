@@ -30,13 +30,15 @@ Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung.
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study** [[pdf]](https://arxiv.org/abs/2409.18836)
 
 
-Herbinger, Wright, Nagler, Bischl, and Casalicchio.
-**Decomposing global feature effects based on feature interactions.** 
-[[pdf]](https://arxiv.org/abs/2306.00541)
-
 ---
 
 #### 2024
+
+Herbinger, Wright, Nagler, Bischl, and Casalicchio.
+**Decomposing global feature effects based on feature interactions.**
+*Journal of Machine Learning Research (to appear)* 
+[[pdf]](https://arxiv.org/abs/2306.00541)
+
 
 Nagler, Schneider, Bischl, and Feurer. 
 **Reshuffling resampling splits can improve generalization of hyperparameter optimization.** 
