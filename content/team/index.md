@@ -44,7 +44,7 @@ Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statis
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="17"/>](https://github.com/11annah)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" alt="email" width="17"/>](mailto:hannah.kuempel@stat.uni-muenchen.de)
 
-Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on Bayesian Inference, interpretable ML, meta-analysis & reporting methods, and open science.
+Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML.
 
 <!-- --- -->
 
