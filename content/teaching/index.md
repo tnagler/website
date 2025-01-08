@@ -27,6 +27,7 @@ header:
 
 ## Lecture notes
 
+- [Mathematical Statistics](../mathstat-lmu-2024.pdf)
 - [Statistical Learning Theory](../slt-2024.pdf)
 - [Lineare Algebra (German)](../linalg-2024.pdf)
 - [Statistics for Astronomy and Physics students](../stan-2020.pdf)

@@ -23,22 +23,23 @@ Nagler. **Simplified vine copula models: state of science and affairs.**
 
 
 Funk, Ludwig, Kuechenhoff, and Nagler.
-**Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas** [[pdf]](https://arxiv.org/abs/2410.15931)
-
-
-Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
-**Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study** [[pdf]](https://arxiv.org/abs/2409.18836)
-
+**Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** [[pdf]](https://arxiv.org/abs/2410.15931)
 
 ---
 
-#### 2024
+#### 2025
+
+Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
+**Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
 
 Herbinger, Wright, Nagler, Bischl, and Casalicchio.
 **Decomposing global feature effects based on feature interactions.**
 *Journal of Machine Learning Research (to appear)* 
 [[pdf]](https://arxiv.org/abs/2306.00541)
 
+---
+
+#### 2024
 
 Nagler, Schneider, Bischl, and Feurer. 
 **Reshuffling resampling splits can improve generalization of hyperparameter optimization.** 
