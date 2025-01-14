@@ -51,7 +51,7 @@ My group is supervising theses at both BSc and MSc levels, on a wide range of to
 * Statistical learning theory
 * Bootstrap, cross-validation, and other resampling methods
 
-Of course, theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.
+<!-- Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc. -->
 
 Interested LMU students may send an email with a recent transcript and indication of their interests. 
 

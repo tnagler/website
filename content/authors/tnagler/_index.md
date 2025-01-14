@@ -90,9 +90,6 @@ My research is at the intersection of mathematical and computational statistics.
   - Time series and functional data
   - Statistical computing and software
 
-
-
-
 <!-- ## Bio -->
 
 <!-- Thomas Nagler is a Professor of Computational Statistics & Data Science at the Department of Statistics, LMU Munich, and a principal investigator at the Munich Center for Machine Learning (MCML).
