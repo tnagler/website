@@ -29,7 +29,7 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 
 #### 2025
 
-Schulz-Kümpel, Fischer, Nagler, Boulesteix, Bischl, and Hornung. 
+Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
 
 Herbinger, Wright, Nagler, Bischl, and Casalicchio.
