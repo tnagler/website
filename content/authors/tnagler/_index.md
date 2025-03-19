@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Computational Statistics & Data Science
+# role: Professor of Computational Statistics & Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -82,20 +82,20 @@ I am Professor at the [Department of Statistics](https://www.en.statistik.uni-mu
 My main research areas are mathematical statistics and machine learning. I develop statistical methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.
 
 
-## Research interests 
+### Research interests 
   - High-dimensional dependence models
   - Statistical machine learning
   - Time series and functional data
   - Statistical computing and software
 
-## Short CV
+### Short CV
 
-- 2022-: *Professor (W2)*, Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html)
-- 2021-2022: *Assistant professor*, DIAM, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) 
-- 2019-2021: *Assistant professor*, Mathematical Institute, [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics)
-- 2018: *PhD Mathematical Statistics*, [TU Munich](https://www.ma.tum.de/en)
-- 2014: *MSc Mathematical Finance*, [TU Munich](https://www.ma.tum.de/en)
-- 2012: *BSc Mathematics*, [TU Munich](https://www.ma.tum.de/en)
+- 2022--: *Professor (W2)*, Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html)
+- 2021--2022: *Assistant professor*, DIAM, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) 
+- 2019--2021: *Assistant professor*, Mathematical Institute, [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics)
+- 2014--2018: *PhD Mathematical Statistics*, [TU Munich](https://www.ma.tum.de/en)
+- 2012--2014: *MSc Mathematical Finance*, [TU Munich](https://www.ma.tum.de/en)
+- 2009--2012: *BSc Mathematics*, [TU Munich](https://www.ma.tum.de/en)
 
 
 <!-- ## Bio -->

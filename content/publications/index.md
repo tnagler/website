@@ -194,7 +194,7 @@ Höhndorf, Nagler, Koppitz, Czado, and Holzapfel.
  *The 22nd Air Transport Research Society World Conference* (ATRS 2018) [[pdf]](https://arxiv.org/pdf/2206.09809.pdf)
 
 Czado, Müller, and Nagler. 
-**Dependence modelling in ultra high dimensions with vine copulas.**   
+**Dependence modelling in ultra high dimensions with vine copulas.** 
 Book chapter in *High Performance Computing in Science and Engineering - on the Tier-2 System CoolMUC; Garching/Munich 2018* [[pdf]](https://mediatum.ub.tum.de/doc/1439506/1439506.pdf) 
 
 Möller, Spazzini, Kraus, Nagler, and Czado. 
