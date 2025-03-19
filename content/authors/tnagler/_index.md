@@ -77,11 +77,9 @@ user_groups:
 ---
 
 
-I am Professor of Computational Statistics & Data Science at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
+I am Professor at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html), [LMU Munich](https://www.lmu.de/), and a principal investigator at the [Munich Center for Machine Learning (MCML)](https://mcml.ai/).
 
-Previously, I held positions as assistant professor at the Delft Institute of Applied Mathematics of [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) (2021-2022) and the Mathematical Institute of [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics) (2019-2021), after graduating with a PhD in mathematics from [TU Munich](https://www.ma.tum.de/en) in 2018. 
-
-My research is at the intersection of mathematical and computational statistics. I develop statistical methods, derive theoretical guarantees and scalable algorithms, package them in user-friendly software, and collaborate with domain experts to solve problems in diverse areas.
+My main research areas are mathematical statistics and machine learning. I develop statistical methods, derive theoretical guarantees and scalable algorithms, and collaborate with domain experts to solve problems in diverse areas.
 
 
 ## Research interests 
@@ -89,10 +87,21 @@ My research is at the intersection of mathematical and computational statistics.
   - Statistical machine learning
   - Time series and functional data
   - Statistical computing and software
+
+## Short CV
+
+- 2022-: *Professor (W2)*, Department of Statistics, [LMU Munich](https://www.en.statistik.uni-muenchen.de/index.html)
+- 2021-2022: *Assistant professor*, DIAM, [TU Delft](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics) 
+- 2019-2021: *Assistant professor*, Mathematical Institute, [Leiden University](https://www.universiteitleiden.nl/en/science/mathematics)
+- 2018: *PhD Mathematical Statistics*, [TU Munich](https://www.ma.tum.de/en)
+- 2014: *MSc Mathematical Finance*, [TU Munich](https://www.ma.tum.de/en)
+- 2012: *BSc Mathematics*, [TU Munich](https://www.ma.tum.de/en)
+
+
 <!-- ## Bio -->
 
 <!-- Thomas Nagler is a Professor of Computational Statistics & Data Science at the Department of Statistics, LMU Munich, and a principal investigator at the Munich Center for Machine Learning (MCML).
-
-Previously, he held positions as an assistant professor at TU Delft and Leiden University, following a PhD in Mathematical Statistics from TU Munich.
-
-His research lies at the intersection of mathematical and computational statistics. His group develops statistical methods, establishes theoretical guarantees, and designs scalable algorithms, which are packaged into user-friendly software. He also regularly collaborates with domain experts to tackle challenges in diverse application areas. -->
+<!--  -->
+<!-- Previously, he held positions as an assistant professor at TU Delft and Leiden University, following a PhD in Mathematical Statistics from TU Munich. -->
+<!-- % -->
+<!-- His research lies at the intersection of mathematical and computational statistics. His group develops statistical methods, establishes theoretical guarantees, and designs scalable algorithms, which are packaged into user-friendly software. He also regularly collaborates with domain experts to tackle challenges in diverse application areas. -->

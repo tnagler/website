@@ -46,6 +46,11 @@ Jana holds a BSc and MSc in Statistics from LMU Munich. She is working on statis
 
 Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Statistics from LMU Munich. She is working on uncertainty quantification in interpretable ML.
 
+
+##### Anna Hunstig
+
+Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.
+
 <!-- --- -->
 
 <!-- ## Student assistants

@@ -17,12 +17,11 @@ header:
 
 ## Current courses
 
-- Mathematical Statistics (Winter)
-- Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
-- Seminar: Theoretical Foundations of Deep Learning (Winter)
 - Statistical Learning Theory (Summer)
 - Methoden der Linearen Algebra in der Statistik  (Summer) 
-
+- Mathematical Statistics (Winter)
+- Seminar: Theoretical Foundations of Deep Learning (Winter)
+- Fortgeschrittene Mathematische Methoden in der Statistik (Winter)
 ---
 
 ## Lecture notes
@@ -42,7 +41,7 @@ Teacher of the Year 2020, *Faculty of Science, Leiden University*
 
 ## Thesis supervision
 
-My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group's primary interest is in developing and understanding statistical methods and models. Here's a non-exhaustive list of areas of particular interest:
+My group is supervising theses at both BSc and MSc levels, on a wide range of topics. Our group's primary interest is in developing statistical methods and studying their theoretical properties. Here's a non-exhaustive list of areas of particular interest:
 
 * Copulas and other dependence models
 * Functional data analysis
@@ -51,16 +50,16 @@ My group is supervising theses at both BSc and MSc levels, on a wide range of to
 * Statistical learning theory
 * Bootstrap, cross-validation, and other resampling methods
 
-<!-- Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc. -->
+Theses about these topics may involve applications to real problems in environmental sciences, engineering, finance, insurance, etc.
 
 Interested LMU students may send an email with a recent transcript and indication of their interests. 
 
 #### Past highlights
 
 A. Razawy: [Spline Based Estimation for Sufficient Dimension Reduction](../razawy-suffdr.pdf)    
-D. Krüger:  [General vine copula models for stationary multivariate time series](https://mediatum.ub.tum.de/node?id=1554813)   
+D. Krüger: [General vine copula models for stationary multivariate time series](https://mediatum.ub.tum.de/node?id=1554813)   
 R. Weber: [Value at Risk Estimation with Subset Simulation](http://mediatum.ub.tum.de/node?id=1467381)    
-A. Kreuzer:  [Analysing the spatial dependency among fire danger indices](https://mediatum.ub.tum.de/node?id=1338821)  
+A. Kreuzer: [Analysing the spatial dependency among fire danger indices](https://mediatum.ub.tum.de/node?id=1338821)  
 A. Brauer:  [Kernel estimation of conditional copula densities](https://mediatum.ub.tum.de/doc/1342845/1342845.pdf)  
 
 
