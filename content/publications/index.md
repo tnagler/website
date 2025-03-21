@@ -15,12 +15,14 @@ header:
 
 #### Preprints
 
+Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
+[[pdf]](https://openreview.net/pdf?id=s2HTzQ0sMY)
+
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
 [[pdf]](https://arxiv.org/abs/2410.16806)
-
 
 Funk, Ludwig, Kuechenhoff, and Nagler.
 **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** [[pdf]](https://arxiv.org/abs/2410.15931)
