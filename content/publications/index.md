@@ -15,6 +15,9 @@ header:
 
 #### Preprints
 
+Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
+[[pdf]](https://openreview.net/pdf?id=iGHWtpVolr)
+
 Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
 [[pdf]](https://openreview.net/pdf?id=s2HTzQ0sMY)
 
