@@ -15,14 +15,10 @@ header:
 
 #### Preprints
 
-Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
-[[pdf]](https://openreview.net/pdf?id=iGHWtpVolr)
-
-Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
-[[pdf]](https://openreview.net/pdf?id=s2HTzQ0sMY)
 
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
+
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
 [[pdf]](https://arxiv.org/abs/2410.16806)
@@ -33,6 +29,14 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 ---
 
 #### 2025
+
+Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
+*The 42nd International Conference on Machine Learning (ICML)*. 
+[[pdf]](https://openreview.net/pdf?id=s2HTzQ0sMY)
+
+Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
+*ICLR Workshop on Frontiers in Probabilistic Inference*
+[[pdf]](https://openreview.net/attachment?id=TEs2WApmhX&name=pdf)
 
 Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
