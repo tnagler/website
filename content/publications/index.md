@@ -15,9 +15,12 @@ header:
 
 #### Preprints
 
+Palm and Nagler. **Central limit theorems under non-stationarity via relative weak convergence.** [[pdf]](../rel-clt.pdf)
 
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
+
+Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](../copula-dr.pdf)
 
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
@@ -32,7 +35,7 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 
 Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
 *The 42nd International Conference on Machine Learning (ICML)*. 
-[[pdf]](https://openreview.net/pdf?id=s2HTzQ0sMY)
+[[pdf]](../pretrained-icml.pdf)
 
 Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 *ICLR Workshop on Frontiers in Probabilistic Inference*
