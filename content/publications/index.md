@@ -22,10 +22,6 @@ Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters�
 
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](http://arxiv.org/abs/2505.01052)
 
-
-Nagler. **Simplified vine copula models: state of science and affairs.**
-[[pdf]](https://arxiv.org/abs/2410.16806)
-
 Funk, Ludwig, Kuechenhoff, and Nagler.
 **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** [[pdf]](https://arxiv.org/abs/2410.15931)
 
@@ -33,9 +29,13 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 
 #### 2025
 
+
 Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
-*The 42nd International Conference on Machine Learning (ICML)*. 
+*The 42nd International Conference on Machine Learning (ICML)* 
 [[pdf]](../pretrained-icml.pdf)
+
+Nagler. **Simplified vine copula models: state of science and affairs.**
+*Risk Sciences (to appear)* [[pdf]](https://arxiv.org/abs/2410.16806)
 
 Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 *ICLR Workshop on Frontiers in Probabilistic Inference*
