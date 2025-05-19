@@ -20,6 +20,9 @@ Palm and Nagler. **Central limit theorems under non-stationarity via relative we
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
 
+Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
+[[pdf]](https://arxiv.org/abs/2505.11325)
+
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](http://arxiv.org/abs/2505.01052)
 
 Funk, Ludwig, Kuechenhoff, and Nagler.
@@ -36,10 +39,6 @@ Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained re
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
 *Risk Sciences (to appear)* [[pdf]](https://arxiv.org/abs/2410.16806)
-
-Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
-*ICLR Workshop on Frontiers in Probabilistic Inference*
-[[pdf]](https://openreview.net/attachment?id=TEs2WApmhX&name=pdf)
 
 Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
