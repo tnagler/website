@@ -60,8 +60,8 @@ Nagler, Schneider, Bischl, and Feurer.
 *Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)* [[pdf]](https://arxiv.org/abs/2405.15393)
 
 Koshil, Nagler, Feurer, and Eggensperger.
-**Towards localization via data embedding for TabPFN.** *NeurIPS Table Representation Learning Workshop*
-[[pdf]](https://openreview.net/forum?id=LFyQyV5HxQ#discussion)
+**Towards localization via data embedding for TabPFN.** *3rd Table Representation Learning Workshop at NeurIPS*
+[[pdf]](https://openreview.net/pdf?id=LFyQyV5HxQ)
 
 Palm and Nagler.
 **An online bootstrap for time series.** 
