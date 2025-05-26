@@ -34,14 +34,14 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 
 Arpogaus, Kneib, Nagler, Rügamer. 
 **Hybrid bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.** 
-*The 41st Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](../MAF-UAI.pdf)
+*The 41st Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](https://arxiv.org/abs/2505.14164)
 
 Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
 *The 42nd International Conference on Machine Learning (ICML)* 
 [[pdf]](../pretrained-icml.pdf)
 
 Nagler. **Simplified vine copula models: state of science and affairs.**
-*Risk Sciences (to appear)* [[pdf]](https://arxiv.org/abs/2410.16806)
+*Risk Sciences 1, 100022* [[doi]](https://doi.org/10.1016/j.risk.2025.100022) [[pdf]](https://arxiv.org/abs/2410.16806)
 
 Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
 **Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
