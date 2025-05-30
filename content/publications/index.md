@@ -20,7 +20,7 @@ Palm and Nagler. **Central limit theorems under non-stationarity via relative we
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
 
-Nagler, Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
+Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 [[pdf]](https://arxiv.org/abs/2505.11325)
 
 Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependence models.** [[pdf]](http://arxiv.org/abs/2505.01052)
