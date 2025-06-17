@@ -20,6 +20,9 @@ Palm and Nagler. **Central limit theorems under non-stationarity via relative we
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
 
+Cheng, Vatter, Nagler, and Chen. **Vine copulas as differentiable computational graphs.**
+[[pdf]](https://arxiv.org/abs/2506.13318)
+
 Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 [[pdf]](https://arxiv.org/abs/2505.11325)
 
@@ -32,8 +35,8 @@ Funk, Ludwig, Kuechenhoff, and Nagler.
 
 #### 2025
 
-Arpogaus, Kneib, Nagler, Rügamer. 
-**Hybrid bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.** 
+Arpogaus, Kneib, Nagler, and Rügamer. 
+**Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.** 
 *The 41st Conference on Uncertainty in Artificial Intelligence (UAI)* [[pdf]](https://arxiv.org/abs/2505.14164)
 
 Schulte, Rügamer, and Nagler. **Adjustment for confounding using pre-trained representations.**
