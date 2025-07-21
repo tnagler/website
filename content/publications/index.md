@@ -28,12 +28,15 @@ Nagler, Claeskens, and Gijbels. **On dimension reduction in conditional dependen
 Cheng, Vatter, Nagler, and Chen. **Vine copulas as differentiable computational graphs.**
 [[pdf]](https://arxiv.org/abs/2506.13318)
 
-Funk, Ludwig, Kuechenhoff, and Nagler.
-**Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.** [[pdf]](https://arxiv.org/abs/2410.15931)
 
 ---
 
 #### 2025
+
+Funk, Ludwig, Kuechenhoff, and Nagler.
+**Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.**
+*Journal of the Royal Statistical Society, Series C (Applied Statistics), to appear*
+[[pdf]](https://arxiv.org/abs/2410.15931)
 
 Arpogaus, Kneib, Nagler, and Rügamer. 
 **Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.** 
