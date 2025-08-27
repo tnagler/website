@@ -51,6 +51,10 @@ Hannah holds a BSc in Mathematics from Heidelberg University and an MSc in Stati
 
 Anna holds BSc and MSc degrees in Mathematics from Paderborn University and RWTH Aachen. She is working on machine learning methods for improving sensor production pipelines at Bosch.
 
+##### Tobias Brock
+
+Tobias holds a B.A. in International Business from HS Heilbronn and an MSc degree in Statistics & Data Science from LMU Munich. He is working on statistical learning algorithms for nonstationary data.
+
 <!-- --- -->
 
 <!-- ## Student assistants

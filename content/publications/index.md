@@ -25,7 +25,6 @@ Palm and Nagler. **Central limit theorems under non-stationarity via relative we
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
 
-
 Nagler and Rügamer. **Uncertainty quantification for prior-data fitted networks using martingale posteriors.**
 [[pdf]](https://arxiv.org/abs/2505.11325)
 
@@ -42,7 +41,7 @@ Cheng, Vatter, Nagler, and Chen. **Vine copulas as differentiable computational 
 Funk, Ludwig, Kuechenhoff, and Nagler.
 **Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas.**
 *Journal of the Royal Statistical Society, Series C (Applied Statistics), to appear*
-[[pdf]](https://arxiv.org/abs/2410.15931)
+[[doi]](https://doi.org/10.1093/jrsssc/qlaf044) [[pdf]](https://arxiv.org/abs/2410.15931)
 
 Arpogaus, Kneib, Nagler, and Rügamer. 
 **Hybrid Bernstein normalizing flows for flexible multivariate density regression with interpretable marginals.** 
