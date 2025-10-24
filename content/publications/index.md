@@ -15,6 +15,9 @@ header:
 
 #### Preprints
 
+Vatter and Nagler. **Throwing vines at the wall: structure learning via random search.**
+[[pdf]](https://arxiv.org/abs/2510.20035)
+
 Min, Li, Nagler, and Li.
 **Assessing climate-driven mortality risk: A stochastic
 approach with Distributed Lag Non-Linear Models.**
