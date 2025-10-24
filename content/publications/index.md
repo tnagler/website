@@ -58,7 +58,7 @@ Nagler. **Simplified vine copula models: state of science and affairs.**
 *Risk Sciences 1, 100022* [[doi]](https://doi.org/10.1016/j.risk.2025.100022) [[pdf]](https://arxiv.org/abs/2410.16806)
 
 Schulz-Kümpel, Fischer, Hornung, Boulesteix, Nagler, and Bischl. 
-**Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research (to appear)* [[pdf]](https://arxiv.org/abs/2409.18836)
+**Constructing confidence intervals for 'the' Generalization Error -- a comprehensive benchmark study.** *Data-centric Machine Learning Research* 2(6):1-73, 2025. [[pdf]](https://arxiv.org/abs/2409.18836)
 
 ---
 
