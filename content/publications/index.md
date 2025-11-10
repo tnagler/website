@@ -23,7 +23,7 @@ Min, Li, Nagler, and Li.
 approach with Distributed Lag Non-Linear Models.**
 [[pdf]](https://arxiv.org/pdf/2506.00561)
 
-Palm and Nagler. **Central limit theorems under non-stationarity via relative weak convergence.** [[pdf]](http://arxiv.org/abs/2505.02197)
+Palm and Nagler. **Uniform central limit theorems for non-stationary processes via relative weak convergence.** [[pdf]](http://arxiv.org/abs/2505.02197)
 
 Gauss and Nagler. **Asymptotics for estimating a diverging number of parameters—with and without sparsity.**
 [[pdf]](https://arxiv.org/abs/2411.17395)
