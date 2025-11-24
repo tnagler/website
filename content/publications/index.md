@@ -15,6 +15,8 @@ header:
 
 #### Preprints
 
+Gauss and Nagler. **Properties of stepwise parameter estimation in high-dimensional vine copulas.** [[pdf]](https://arxiv.org/abs/2511.17291)
+
 Vatter and Nagler. **Throwing vines at the wall: structure learning via random search.**
 [[pdf]](https://arxiv.org/abs/2510.20035)
 
